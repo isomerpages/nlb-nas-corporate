@@ -50,7 +50,7 @@ Free
 
 
 ### Enquiries
-[NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg?subject=Enquiry - Law of the Land)  
+[NAS@nlb.gov.sg](mailto:NAS@nlb.gov.sg)
 
   
 
@@ -73,7 +73,7 @@ Meeting Point: Registration opens 20 minutes before each tour at the Tours Desk,
   
 
 ### Group Tours
-Schools or other organisations can contact [NAS_Outreach@nlb.gov.sg](mailto:NAS_Outreach@nlb.gov.sg) for guided tours, subject to availability. 
+Schools or other organisations can contact [NAS@nlb.gov.sg](mailto:NAS@nlb.gov.sg) for guided tours, subject to availability. 
 
   
 
