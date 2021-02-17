@@ -1,10 +1,10 @@
 ---
-title: 'Frequently Asked Questions'
+layout: leftnav-page-content
+title: Frequently Asked Questions
 permalink: /conservation-and-preservation/frequently-asked-qn/
-breadcrumb: 'Frequently Asked Questions'
-
+breadcrumb: Frequently Asked Questions
+collection_name: conservation-and-preservation
 ---
-
 
 **What is the difference between preservation and conservation?**
 

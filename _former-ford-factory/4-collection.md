@@ -1,10 +1,10 @@
 ---
-title: 'Collection Highlights'
+layout: leftnav-page-content
+title: Collection Highlights
 permalink: /former-ford-factory/collection/
 breadcrumb: Collection
-
+collection_name: former-ford-factory
 ---
-
 
 ![Map](/images/formerford/map.jpg)
 

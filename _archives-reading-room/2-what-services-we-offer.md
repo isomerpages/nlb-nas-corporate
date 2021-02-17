@@ -1,10 +1,10 @@
 ---
-title: 'What Services We Offer'
+layout: leftnav-page-content
+title: What Services We Offer
 permalink: /archives-reading-room/what-services-we-offer/
-breadcrumb: 'What Services We Offer'
-
+breadcrumb: What Services We Offer
+collection_name: archives-reading-room
 ---
-
 
 Services facilitated by Archives Reading Room include: 
 
