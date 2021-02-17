@@ -1,10 +1,10 @@
 ---
-title: 'About Former Ford Factory'
+layout: leftnav-page-content
+title: About Former Ford Factory
 permalink: /former-ford-factory/overview/
-breadcrumb: 'Former Ford Factory'
-
+breadcrumb: Former Ford Factory
+collection_name: former-ford-factory
 ---
-
 
 ![Former Ford Factory](/images/formerford/oldfff.jpg)
 

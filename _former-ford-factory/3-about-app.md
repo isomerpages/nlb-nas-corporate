@@ -1,10 +1,10 @@
 ---
-title: 'Former Ford Factory Mobile App'
+layout: leftnav-page-content
+title: Former Ford Factory Mobile App
 permalink: /former-ford-factory/about-app/
-breadcrumb: 'Former Ford Factory Mobile App'
-
+breadcrumb: Former Ford Factory Mobile App
+collection_name: former-ford-factory
 ---
-
 
 
 

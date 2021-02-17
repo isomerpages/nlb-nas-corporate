@@ -1,10 +1,9 @@
 ---
-title: 'Privacy Statement'
+layout: simple-page
+title: Privacy Statement
 permalink: /privacy/
 breadcrumb: Privacy
-
 ---
-
 
 ### **Privacy Statement**
 
