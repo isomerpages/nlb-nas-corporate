@@ -37,6 +37,7 @@ Limited parking lots are available.
 
 
 **5.	How can I contact Former Ford Factory?**
+
 Email: enquiry@nlb.gov.sg
 
 
@@ -77,6 +78,3 @@ If you are at the premises, please approach the Lobby Desk for assistance. Other
 **13.	 Can I volunteer my services at Former Ford Factory?**
 
 Interested parties may write to us at enquiry@nlb.gov.sg to find out more about our volunteer opportunities.
- 
-
-
