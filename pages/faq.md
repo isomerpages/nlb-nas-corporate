@@ -1,9 +1,9 @@
 ---
-permalink: /faq/
+permalink: /about-us/arrfaq
 breadcrumb: FAQ
-title: FAQ
-
+title: Faq
 ---
+
 
 
 ### **FAQ**
