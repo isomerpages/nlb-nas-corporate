@@ -1,11 +1,9 @@
 ---
-title: 'Opening Hours & Admission'
+title: Opening Hours & Admission
 permalink: /former-ford-factory/visit/opening-hours/
-breadcrumb: 'Opening Hours & Admission'
+breadcrumb: Opening Hours & Admission
 third_nav_title: Visit
-
 ---
-
 ### OPENING HOURS
 
 **Tuesday to Sunday:**<br>
@@ -15,7 +13,7 @@ third_nav_title: Visit
 Open during Public Holidays except on the first day of Chinese New Year.
 
 **ADMISSION**<br>
-Free for Singapore citizens and PRs. 
+Free for Singapore citizens and PRs and Friends of the Museum (FOM). 
 
 For foreign visitors : $3 per person
 
@@ -24,4 +22,4 @@ For foreign visitors : $3 per person
 Address: 351 Upper Bukit Timah Road, Singapore 588192<br>
 Email: [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
 
-All transactions at the Former Ford Factory are by credit card (excluding Amex and Diners) or NETS. 
+All transactions at the Former Ford Factory are by credit card (excluding Amex and Diners) or NETS.
