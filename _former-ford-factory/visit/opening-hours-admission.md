@@ -13,7 +13,7 @@ third_nav_title: Visit
 Open during Public Holidays except on the first day of Chinese New Year.
 
 **ADMISSION**<br>
-Free for Singapore citizens and PRs and Friends of the Museum (FOM). 
+Free admission for Citizens, Permanent Residents, children aged 6 and below,  Friends of the Museums (FOM) and 1 guest of each FOM member. 
 
 For foreign visitors : $3 per person
 
