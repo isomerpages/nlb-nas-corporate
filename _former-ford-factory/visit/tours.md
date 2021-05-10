@@ -31,6 +31,8 @@ Stay tuned for updates on special curator tours.
 
 ### GROUP VISITS
 
+Large group visits are temporarily unavailable. 
+
 Please fill out the form below if you would like to request for a tour for your school or organisation. Charges may apply for the request of a guide. Please note that the last group visit is at 4.00pm.
 
 Booking of visits are on a first come first served basis. Request early to avoid disappointment! For enquiries on group visits, please email [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
