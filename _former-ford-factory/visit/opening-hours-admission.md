@@ -15,7 +15,8 @@ third_nav_title: Visit
 Open during Public Holidays except on the first day of Chinese New Year.
 
 **ADMISSION**<br>
-Free for Singapore citizens and PRs
+Free for Singapore citizens and PRs. 
+
 For foreign visitors : $3 per person
 
 ### CONTACT
