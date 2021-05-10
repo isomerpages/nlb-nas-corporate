@@ -1,18 +1,15 @@
 ---
-title: 'Getting Here'
+title: Getting Here
 permalink: /former-ford-factory/visit/getting-here/
-breadcrumb: 'Getting Here'
+breadcrumb: Getting Here
 third_nav_title: Visit
-
 ---
-
-
 #### BY BUS
 
 Bus Services to Upper Bukit Timah Road
 
 **Bus Service Number**<br>
-67, 75, 170, 171, 173, 178, 184, 961, 961M
+67, 75, 170, 171, 173, 178, 184, 961, 961M (Sundays and Public Holidays)
 
 
 
