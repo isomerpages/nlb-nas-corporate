@@ -3,17 +3,12 @@ title: Tours
 permalink: /former-ford-factory/visit/tours/
 breadcrumb: Tours
 third_nav_title: Visit
-
 ---
-
-
-
+All our guided tours will remain temporily unvailable till further notice.
 
 Join our walk in tours led by volunteer guides to learn more about war and its legacies, and discover the stories behind the rich collections on display! Tours are complimentary though [admission charges may apply](/former-ford-factory/visit/opening-hours/).
 
 The meeting point for all tours is at the lobby. There are 20 places available on a first come, first served basis per tour. Groups with 8 or more persons may join the tour if it is not full. There will be no guided tour on Public Holidays. 
-
-Tour schedules are subject to changes.
 
 #### DAILY GUIDED TOURS
 
