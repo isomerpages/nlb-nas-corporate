@@ -1,10 +1,7 @@
 ---
+title: Archives Reading Room FAQs
 permalink: /about-us/arrfaq
-breadcrumb: FAQ
-title: Faq
 ---
-### **FAQ**
-
 **1. What are the opening hours of the Archives Reading Room at the National Archives of Singapore ?**
 
 Opening Hours:

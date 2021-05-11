@@ -1,46 +1,48 @@
 logo: /images/naslogo.png
 links:
-    - title: 'About Us'
-      url: /about-us/mandate/
-      false_collection: true
-      sublinks:
-            - title: Mandate
-              url: /about-us/mandate/
-            - title: History
-              url: /about-us/history/
-            - title: 'Our Roles'
-              url: /about-us/our-roles/
-            - title: Partnerships
-              url: /about-us/partnerships/
-            - title: 'Contact Us'
-              url: /contact-us/
-    - title: 'Discover Archives'
-      url: 'http://www.nas.gov.sg/archivesonline/'
-      external: true
-      false_collection: true
-      sublinks:
-            - title: 'Archives Online'
-              url: 'http://www.nas.gov.sg/archivesonline/'
-              external: true
-            - title: 'Citizen Archivist'
-              url: 'http://www.nas.gov.sg/citizenarchivist/'
-              external: true
-            - title: 'Stories Of Yesteryear'
-              url: 'https://tv.mewatch.sg/en/shows/s/stories-of-yesteryear-diary-of-a-nation/episodes'
-              external: true
-            - title: 'Sounds Of Yesteryear'
-              url: 'http://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad?play=true'
-              external: true
-            - title: 'Singapore Policy History Project'
-              url: 'http://www.nas.gov.sg/archivesonline/policy_history/'
-              external: true
-            - title: 'Off The Record'
-              url: /media/
-            - title: 'Former Ford Factory'
-              url: /former-ford-factory/overview/
-    - title: 'Archives Reading Room'
-      collection: archives-reading-room
-    - title: 'Conserve & Preserve'
-      collection: conservation-and-preservation
-    - title: Outreach
-      collection: outreach
+  - title: About Us
+    url: /about-us/mandate/
+    false_collection: true
+    sublinks:
+      - title: Mandate
+        url: /about-us/mandate/
+      - title: History
+        url: /about-us/history/
+      - title: Our Roles
+        url: /about-us/our-roles/
+      - title: Partnerships
+        url: /about-us/partnerships/
+      - title: Contact Us
+        url: /contact-us/
+      - title: Archives Reading Room FAQs
+        url: /archives-reading-room-faqs
+  - title: Discover Archives
+    url: http://www.nas.gov.sg/archivesonline/
+    external: true
+    false_collection: true
+    sublinks:
+      - title: Archives Online
+        url: http://www.nas.gov.sg/archivesonline/
+        external: true
+      - title: Citizen Archivist
+        url: http://www.nas.gov.sg/citizenarchivist/
+        external: true
+      - title: Stories Of Yesteryear
+        url: https://tv.mewatch.sg/en/shows/s/stories-of-yesteryear-diary-of-a-nation/episodes
+        external: true
+      - title: Sounds Of Yesteryear
+        url: http://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad?play=true
+        external: true
+      - title: Singapore Policy History Project
+        url: http://www.nas.gov.sg/archivesonline/policy_history/
+        external: true
+      - title: Off The Record
+        url: /media/
+      - title: Former Ford Factory
+        url: /former-ford-factory/overview/
+  - title: Archives Reading Room
+    collection: archives-reading-room
+  - title: Conserve & Preserve
+    collection: conservation-and-preservation
+  - title: Outreach
+    collection: outreach
