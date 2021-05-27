@@ -15,6 +15,18 @@ sections:
         - title: E-Request
           url: https://www.nas.gov.sg/erequest/#/home
   - infopic:
+      title: Blast From The Past
+      subtitle: Features
+      description: “Blast from the Past” is a series that highlights some of
+        Singapore’s shared experiences through the collections of the National
+        Archives of Singapore.  Browse through our curated selection of photos,
+        audiovisual content, declassified government files and oral history
+        excerpts to find out more on Singapore’s past experiences.
+      url: http://www.nas.gov.sg/archivesonline/blastfromthepast/
+      image: /images/BFTP%2012_Food%20Culture.jpg
+      alt: Blast from the Past
+      button: View Blast from the Past
+  - infopic:
       title: When War Came to Singapore
       subtitle: Features
       description: This Children’s Season, join us for the special online edition of
@@ -39,18 +51,6 @@ sections:
       image: /images/oldtvbanner.png
       alt: Educational TV
       button: More on Educational TV
-  - infopic:
-      title: Blast From The Past
-      subtitle: Features
-      description: “Blast from the Past” is a series that highlights some of
-        Singapore’s shared experiences through the collections of the National
-        Archives of Singapore.  Browse through our curated selection of photos,
-        audiovisual content, declassified government files and oral history
-        excerpts to find out more on Singapore’s past experiences.
-      url: http://www.nas.gov.sg/archivesonline/blastfromthepast/
-      image: /images/BFTP%2012_Food%20Culture.jpg
-      alt: Blast from the Past
-      button: View Blast from the Past
   - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
