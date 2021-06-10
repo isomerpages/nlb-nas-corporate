@@ -1,7 +1,8 @@
 ---
 title: Browser Compatibility
-permalink: /browsercompatibility
+permalink: /browser-compatibility
 ---
+
 The NAS website supports the following browsers: 
 
 * Internet Explorer 11 and later
