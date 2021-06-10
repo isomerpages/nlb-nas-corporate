@@ -27,17 +27,6 @@ sections:
       alt: Blast from the Past
       button: View Blast from the Past
   - infopic:
-      title: When War Came to Singapore
-      subtitle: Features
-      description: This Children’s Season, join us for the special online edition of
-        activities from the Former Ford Factory. Parents and children can learn
-        about life during the Japanese Occupation in Singapore and listen to
-        powerful survivor stories.
-      url: https://corporate.nas.gov.sg/outreach/childrenseason/
-      image: /images/childrenseasonbanner.png
-      alt: Children's Season
-      button: Try Out The Activities
-  - infopic:
       title: Educational TV
       subtitle: Features
       description: Today, holistic learning in schools extends beyond the classroom,
