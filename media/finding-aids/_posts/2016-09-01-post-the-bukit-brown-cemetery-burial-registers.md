@@ -25,6 +25,6 @@ There are two sets of burial registers transferred from the Public Health Depart
 
 ###### **Tip 3: Some have been placed online**
 
-For those who wish to conduct genealogical research, or to search for plot location of their ancestors, the Bukit Brown Cemetery Burial Registers dating from April 1922 up till December 1972 have been digitised and uploaded online (https://www.nas.gov.sg/archivesonline/BukitBrown_signage). To protect the privacy of the family members, two columns have been concealed; the cause of death and the last address. Below is a summary of the items NAS has made available online:
+For those who wish to conduct genealogical research, or to search for plot location of their ancestors, the Bukit Brown Cemetery Burial Registers dating from April 1922 up till December 1972 have been digitised and uploaded online (https://www.nas.gov.sg/archivesonline/bukitbrown). To protect the privacy of the family members, two columns have been concealed; the cause of death and the last address. Below is a summary of the items NAS has made available online:
 
 [![Table 3](../../../images/blogs/Table-3.jpg)](https://www.nas.gov.sg/archivesonline/BukitBrown_signage)
