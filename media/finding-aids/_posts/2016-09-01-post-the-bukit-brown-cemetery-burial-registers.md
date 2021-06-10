@@ -21,7 +21,7 @@ There are two main types of records under this series: one is the burial registe
 
 There are two sets of burial registers transferred from the Public Health Department and microfilmed respectively in 1972 and 1978. The 1978 is an extended version of 1972 and includes burials recorded up to 4 Dec 1972. So don’t forget to try the 1978 version if you don’t find what you are looking for in the 1972 version! The differences between the two are outlined below :
 
-[![Table 2](../../../images/blogs/Table-2-1.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/08/Table-2-1.jpg)
+[![Table 2](../../../images/blogs/Table-2-1.jpg)](https://www.nas.gov.sg/archivesonline/bukitbrown)
 
 ###### **Tip 3: Some have been placed online**
 
