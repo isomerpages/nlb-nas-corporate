@@ -11,6 +11,3 @@ In making materials available online, the National Archives of Singapore (NAS) a
 3. The complete internet address (URL) where you found the material concerned.
 
 4. Detailed reason(s) for suggesting a takedown of the material concerned.
-
-
-*[Adobe Reader](https://get.adobe.com/reader/) is required for viewing and printing the Portable Document Format (PDF) documents.*
