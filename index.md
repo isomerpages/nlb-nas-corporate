@@ -4,7 +4,7 @@ title: National Archives of Singapore
 permalink: /
 sections:
   - hero:
-      background: /images/openingchangev2.jpg
+      background: /images/nas-banner-1920.jpg
       key_highlights:
         - title: Citizen Archivist
           url: http://www.nas.gov.sg/citizenarchivist
@@ -26,17 +26,6 @@ sections:
       image: /images/BFTP%2012_Food%20Culture.jpg
       alt: Blast from the Past
       button: View Blast from the Past
-  - infopic:
-      title: When War Came to Singapore
-      subtitle: Features
-      description: This Children’s Season, join us for the special online edition of
-        activities from the Former Ford Factory. Parents and children can learn
-        about life during the Japanese Occupation in Singapore and listen to
-        powerful survivor stories.
-      url: https://corporate.nas.gov.sg/outreach/childrenseason/
-      image: /images/childrenseasonbanner.png
-      alt: Children's Season
-      button: Try Out The Activities
   - infopic:
       title: Educational TV
       subtitle: Features
