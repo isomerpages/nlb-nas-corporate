@@ -27,20 +27,6 @@ sections:
       alt: Blast from the Past
       button: View Blast from the Past
   - infopic:
-      title: Educational TV
-      subtitle: Features
-      description: Today, holistic learning in schools extends beyond the classroom,
-        with a focus on new skills like programming and coding. But back in the
-        1960s, schools were already embarking on this concept with a series of
-        educational videos to expand students’ horizons beyond school
-        curriculum. Browse through a selection of Educational Television (ETV)
-        programmes produced by the Curriculum Development Institute of Singapore
-        (CDIS) and its predecessors from 1967-1983.
-      url: https://www.nas.gov.sg/archivesonline/etv
-      image: /images/oldtvbanner.png
-      alt: Educational TV
-      button: More on Educational TV
-  - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
       description: The series gives insights into the early years of Singapore’s
