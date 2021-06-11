@@ -2,10 +2,7 @@
 title: Learn
 permalink: /former-ford-factory/learn/
 breadcrumb: Learn
-
 ---
-
-
 ### RESOURCES
 
 
@@ -53,4 +50,3 @@ http://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywo
 
 **JACAR online exhibition on the war (in Japanese)**
 https://www.jacar.go.jp/topicsfromjacar/01_warissues/index01_001.html
-
