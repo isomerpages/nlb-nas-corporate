@@ -8,13 +8,9 @@ breadcrumb: Learn
 
 **Learning Resources**
 
-[Former Ford Factory Activity Guide (for children)](https://www.nas.gov.sg/Portals/0/PDF/Former_Ford_Factory_Activity_Guide_For_Children.pdf?ver=2017-08-21-170642-697) (pdf, 1.42mb)
+[Former Ford Factory Activity Guide (for children)](/files/former-ford-factory/Former_Ford_Factory_Activity_Guide_For_Children.pdf)(pdf, 1.42mb)
 
-[Former Ford Factory Challenge Worksheet (for secondary students)](https://www.nas.gov.sg/Portals/0/PDF/Former_Ford_Factory_Challenge_Worksheet_For_Secondary_Students.pdf?ver=2017-08-21-171642-273) (pdf, 921kb)
-
-
-
-
+[Former Ford Factory Challenge Worksheet (for secondary students)](/files/former-ford-factory/Former_Ford_Factory_Challenge_Worksheet_For_Secondary_Students.pdf) (pdf, 921kb)
 
 **NAS Archives Online**
 http://www.nas.gov.sg/archivesonline/
