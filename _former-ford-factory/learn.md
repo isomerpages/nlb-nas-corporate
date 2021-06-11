@@ -2,22 +2,15 @@
 title: Learn
 permalink: /former-ford-factory/learn/
 breadcrumb: Learn
-
 ---
-
-
 ### RESOURCES
 
 
 **Learning Resources**
 
-[Former Ford Factory Activity Guide (for children)](https://www.nas.gov.sg/Portals/0/PDF/Former_Ford_Factory_Activity_Guide_For_Children.pdf?ver=2017-08-21-170642-697) (pdf, 1.42mb)
+[Former Ford Factory Activity Guide (for children)](/files/former-ford-factory/Former_Ford_Factory_Activity_Guide_For_Children.pdf)(pdf, 1.42mb)
 
-[Former Ford Factory Challenge Worksheet (for secondary students)](https://www.nas.gov.sg/Portals/0/PDF/Former_Ford_Factory_Challenge_Worksheet_For_Secondary_Students.pdf?ver=2017-08-21-171642-273) (pdf, 921kb)
-
-
-
-
+[Former Ford Factory Challenge Worksheet (for secondary students)](/files/former-ford-factory/Former_Ford_Factory_Challenge_Worksheet_For_Secondary_Students.pdf) (pdf, 921kb)
 
 **NAS Archives Online**
 http://www.nas.gov.sg/archivesonline/
@@ -26,7 +19,7 @@ http://www.nas.gov.sg/archivesonline/
 http://catalogue.nlb.gov.sg/
 
 **Off the Record**
-http://www.nas.gov.sg/blogs/offtherecord/tag/world-war-2/
+https://nas-corporate-staging.netlify.app/media/collections-and-research/ww2comestosingapore
 
 **National Heritage Board**
 http://www.nhb.gov.sg/
@@ -53,4 +46,3 @@ http://www.nationalarchives.gov.uk/help-with-your-research/research-guides-keywo
 
 **JACAR online exhibition on the war (in Japanese)**
 https://www.jacar.go.jp/topicsfromjacar/01_warissues/index01_001.html
-
