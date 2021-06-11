@@ -19,7 +19,7 @@ http://www.nas.gov.sg/archivesonline/
 http://catalogue.nlb.gov.sg/
 
 **Off the Record**
-http://www.nas.gov.sg/blogs/offtherecord/tag/world-war-2/
+https://nas-corporate-staging.netlify.app/media/collections-and-research/ww2comestosingapore
 
 **National Heritage Board**
 http://www.nhb.gov.sg/
