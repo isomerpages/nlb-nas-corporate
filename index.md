@@ -4,7 +4,7 @@ title: National Archives of Singapore
 permalink: /
 sections:
   - hero:
-      background: /images/homepage-banners/OperatingCapacityReduced.png
+      background: /images/homepage-banners/Increase%20capacity%20to%2050%20wef%2014%20Jun%202021.jpg
       key_highlights:
         - title: Citizen Archivist
           url: http://www.nas.gov.sg/citizenarchivist
