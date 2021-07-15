@@ -1,11 +1,8 @@
 ---
-title: 'Terms of Use'
+title: Terms of Use
 permalink: /terms-of-use/
-breadcrumb: 'Terms of Use'
-
+breadcrumb: Terms of Use
 ---
-
-
 #### General
 
 This website is owned and operated by the National Archives of Singapore (hereinafter "NAS")
@@ -23,6 +20,8 @@ The materials located on this website, including the information as well as any 
 Except as otherwise provided, the Contents of this website shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of NAS.
 
 You may use, hyperlink, copy and distribute the contents found on this website solely for personal, internal, non-commercial, informational purposes only. You may download one copy of any information provided in this website onto a single computer for your own personal non-commercial use provided that you keep intact all accompanying copyright and other proprietary notices. You may not display, distribute or otherwise use any of the content found on this website for any commercial purpose unless you receive specific written consent from NAS.
+
+Please note that records or other archives may contain data that is protected by the Personal Data Protection Act or other laws (collectively referred to as Personal Data), and access given does not constitute permission to use or disclose such data.  If you come across any Personal Data, it is your responsibility to ensure that you do not reveal it without permission.  If any use or revelation of Personal Data on your part breaches the Personal Data Protection Act or any other laws, you agree to remove such Personal Data from the public domain and you acknowledge that NAS may suspend or bar you from access to records or other archives.
 
 Modification of any of the Contents or use of the Contents for any other purpose will be a violation of NAS's copyright and other intellectual property rights. Graphics and images on this website are protected by copyright and may not be reproduced or appropriated in any manner without the written permission of their respective copyright owners.
 
@@ -155,4 +154,3 @@ Any dispute relating in any way to your visit to NLB DIGITAL LIBRARY or to produ
 We reserve the right to make changes to our site, policies, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
 
 Current National Library Board Singapore corporate website members are granted the automatic privilege of membership in NLB DIGITAL LIBRARY. New members can sign in to gain membership. If and when NLB DIGITAL LIBRARY is upgraded, changed, modified, re-designed, revamped, given a new Uniform Resource Locator (URL), etc (new website), these current and new members will enjoy the privilege of automatic membership in the new website, without the need for re-registration at the new website.
-
