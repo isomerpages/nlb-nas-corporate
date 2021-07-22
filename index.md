@@ -4,7 +4,7 @@ title: National Archives of Singapore
 permalink: /
 sections:
   - hero:
-      background: /images/homepage-banners/Increase%20capacity%20to%2050%20wef%2014%20Jun%202021.jpg
+      background: /images/homepage-banners/Operating%20Capacity%20reduced%2022%20Jul%20to%2018%20Aug%202021.png
       key_highlights:
         - title: Citizen Archivist
           url: http://www.nas.gov.sg/citizenarchivist
@@ -23,7 +23,7 @@ sections:
         audiovisual content, declassified government files and oral history
         excerpts to find out more on Singapore’s past experiences.
       url: http://www.nas.gov.sg/archivesonline/blastfromthepast/
-      image: /images/BFTP%2012_Food%20Culture.jpg
+      image: /images/BFTP%2013_main%20website.jpg
       alt: Blast from the Past
       button: View Blast from the Past
   - infopic:
