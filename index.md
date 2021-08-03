@@ -4,7 +4,7 @@ title: National Archives of Singapore
 permalink: /
 sections:
   - hero:
-      background: /images/IOHA_NAS%20corporate%20website_REGNOW.jpg
+      background: /images/lib%20system%20maintenance.png
       key_highlights:
         - title: Citizen Archivist
           url: http://www.nas.gov.sg/citizenarchivist
