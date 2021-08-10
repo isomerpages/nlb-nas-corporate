@@ -4,7 +4,7 @@ title: National Archives of Singapore
 permalink: /
 sections:
   - hero:
-      background: /images/IOHA_NAS%20corporate%20website_REGNOW.jpg
+      background: /images/NAS%20Corp%20Website%201920%20x%201280.png
       key_highlights:
         - title: Citizen Archivist
           url: http://www.nas.gov.sg/citizenarchivist
@@ -14,6 +14,7 @@ sections:
           url: http://www.nas.gov.sg/archivesonline/policy_history/
         - title: E-Request
           url: https://www.nas.gov.sg/erequest/#/home
+      url: https://www.ioha2021.gov.sg/
   - infopic:
       title: Blast From The Past
       subtitle: Features
