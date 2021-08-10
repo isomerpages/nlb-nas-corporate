@@ -15,7 +15,6 @@ sections:
         - title: E-Request
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
-      button: Register
   - infopic:
       title: Blast From The Past
       subtitle: Features
