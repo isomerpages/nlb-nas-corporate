@@ -24,7 +24,7 @@ sections:
         audiovisual content, declassified government files and oral history
         excerpts to find out more on Singapore’s past experiences.
       url: http://www.nas.gov.sg/archivesonline/blastfromthepast/
-      image: /images/BFTP%2013_Garden%20City.jpg
+      image: /images/BFTP-14_main-website2.jpg
       alt: Blast from the Past
       button: View Blast from the Past
   - infopic:
