@@ -20,7 +20,7 @@ For foreign visitors : $3 per person
 In line with the expansion of Vaccination Differentiated Safe Management Measures announced by the MTF on 9 October only the following visitors may visit the Former Ford Factory in group sizes of up to 2 persons with effect from 13 October.
 
 1. Fully vaccinated
-2. Children aged 12 years and before
+2. Children aged 12 years and below
 3. Recovered individuals
 4. Unvaccinated individuals with a negative pre-event test (PET) result
 
