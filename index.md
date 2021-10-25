@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Singapore in the 1960s Season 2
+      subtitle: Features
+      description: This series features films from Singapore’s past, produced and
+        shown in the 1960s.
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
+      image: /images/960-x-400.jpg
+      alt: "Singapore in the 1960s "
+      button: "View Singapore in the 1960s "
+  - infopic:
       title: Blast From The Past
       subtitle: Features
       description: “Blast from the Past” is a series that highlights some of
@@ -41,18 +50,5 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: NAS 50 Moments in Time
-      subtitle: Features
-      description: The National Archives of Singapore presents a selection of
-        audiovisual materials and oral history interviews that we have collected
-        and judiciously preserved over the past 50 years for you and our future
-        generations. They capture the times that Singaporeans celebrated, stood
-        up proudly and even cried. Travel to scenes that have vanished and enjoy
-        the treasured memories of Singaporeans from different walks of life.
-      url: http://www.nas.gov.sg/archivesonline/highlight?page=50moments
-      image: /images/50moments.jpg
-      alt: NAS 50 Moments in Time
-      button: Explore Memories
 notification: "\n"
 ---
