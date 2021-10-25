@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Singapore in the 1960s Season 2
+      subtitle: Features
+      description: This series features films from Singapore’s past, produced and
+        shown in the 1960s.
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
+      image: /images/960-x-400.jpg
+      alt: "Singapore in the 1960s "
+      button: "View Singapore in the 1960s "
+  - infopic:
       title: Blast From The Past
       subtitle: Features
       description: “Blast from the Past” is a series that highlights some of
@@ -41,14 +50,5 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: Singapore in the 1960s Season 2
-      subtitle: Features
-      description: "This series features films from Singapore’s past, produced and
-        shown in the 1960s. "
-      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
-      image: /images/960-x-400.jpg
-      alt: "Singapore in the 1960s "
-      button: "Singapore in the 1960s "
 notification: "\n"
 ---
