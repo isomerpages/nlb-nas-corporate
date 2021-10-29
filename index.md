@@ -53,10 +53,12 @@ sections:
   - infopic:
       title: Changing Landscapes
       subtitle: Features
-      description: Featuring videos from the National Archives of Singapore’s Oral
-        History collection, this series is a compilation of moments reflecting
-        significant change in Sin
-      button: Button Text
+      description: "A curation of moments from the archive’s Oral History collection
+        that reflect significant change in Singapore’s physical and cultural
+        landscape. "
+      button: View Changing Landscapes
       alt: Image alt text
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
+      image: /images/960-x-400-changinglandscape.jpg
 notification: "\n"
 ---
