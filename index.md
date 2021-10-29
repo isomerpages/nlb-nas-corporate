@@ -50,5 +50,13 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: Changing Landscapes
+      subtitle: Features
+      description: Featuring videos from the National Archives of Singapore’s Oral
+        History collection, this series is a compilation of moments reflecting
+        significant change in Sin
+      button: Button Text
+      alt: Image alt text
 notification: "\n"
 ---
