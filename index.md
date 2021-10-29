@@ -25,6 +25,16 @@ sections:
       alt: "Singapore in the 1960s "
       button: "View Singapore in the 1960s "
   - infopic:
+      title: Changing Landscapes
+      subtitle: Features
+      description: "A curation of moments from the archive’s Oral History collection
+        that reflect significant change in Singapore’s physical and cultural
+        landscape. "
+      button: View Changing Landscapes
+      alt: Image alt text
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
+      image: /images/960-x-400-changinglandscape.jpg
+  - infopic:
       title: Blast From The Past
       subtitle: Features
       description: “Blast from the Past” is a series that highlights some of
