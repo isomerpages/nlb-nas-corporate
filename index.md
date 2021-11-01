@@ -18,8 +18,9 @@ sections:
   - infopic:
       title: Singapore in the 1960s Season 2
       subtitle: Features
-      description: This series features films from Singapore’s past, produced and
-        shown in the 1960s.
+      description: Films from Singapore’s past, produced and shown in the 1960s, that
+        offer glimpses into the city landscape, public services, and everyday
+        life of the period.
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
       image: /images/960-x-400.jpg
       alt: "Singapore in the 1960s "
