@@ -74,7 +74,7 @@ Illustration of people bowing to a guard at Japanese military checkpoint.
  
  Listen to an excerpt of an oral history interview with a Japanese Occupation survivor. 
 
-<embed video https://youtu.be/smm9kF54jZY >
+<iframe width="699" height="393" src="https://www.youtube.com/embed/smm9kF54jZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Now, try searching for more oral history interviews like Robert’s on NAS Archives Online. 
 
@@ -89,12 +89,8 @@ Did you know that you can also find many digital resources on the Japanese Occup
 
 Explore these resources and unearth more information for your own discovery of Singapore’s history!
 
-·       NAS Archives online
+·       [NAS Archives online](https://www.nas.gov.sg/archivesonline/)
 
-·       Off the Record
+·       [Off the Record](https://corporate.nas.gov.sg/media/)
 
-·       NewspaperSG (Syonan Shimbun)
-
-
-
-
+·      [ NewspaperSG (Syonan Shimbun)](https://eresources.nlb.gov.sg/newspapers/BrowseNewspaper?nid=syonantimes&tvw=DG)
