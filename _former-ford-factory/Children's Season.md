@@ -37,12 +37,11 @@ After the surrender of the British, Singapore was renamed Syonan-to, or “Light
 
 In addition to making people learn Nippon-go, the Japanese military wanted people to adopt other aspects of Japanese culture, such as bowing and wearing the kimono.
 
-![Alt text for image on Isomer site](/images/children2021/traditional%20jap%20clothing%20for%20women.png)
-*An article depicting local singers wearing the kimono, the traditional Japanese clothing for women. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420610-1.2.21), 10 June 1942, p.4. (From NewspaperSG)*
+![Alt text for image on Isomer site](/images/children2021/traditional%20jap%20clothing%20for%20women.png) *An article depicting local singers wearing the kimono, the traditional Japanese clothing for women. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420610-1.2.21), 10 June 1942, p.4. (From NewspaperSG)*
 
 ![Alt text for image on Isomer site](/images/children2021/Activity%201.png)
 
-You can find a lot of resources about the Japanese Occupation of Singapore on[NAS Archives Online](https://www.nas.gov.sg/archivesonline/photographs/) as well as [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/). Try your hand at searching for images and articles on World War II and the Japanese Occupation using the following keywords. 
+You can find a lot of resources about the Japanese Occupation of Singapore on [NAS Archives Online](https://www.nas.gov.sg/archivesonline/photographs/) as well as [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/). Try your hand at searching for images and articles on World War II and the Japanese Occupation using the following keywords. 
 
 ![Alt text for image on Isomer site](/images/children2021/keywords.png)
 
@@ -62,8 +61,7 @@ Read the following excerpt from an oral history interview with Lim Choo Sye, who
 There was a strong Japanese military presence in Singapore and there were many checkpoints across the island. Getting through these checkpoints was quite an ordeal. Locals had to present proper documentation to pass through these checkpoints and also had to bow to the soldiers there. Not doing so meant that they risked getting slapped, punched or even detained.
 
 ![Alt text for image on Isomer site](/images/children2021/Jap%20military%20checkpoint.png)
-
-Illustration of people bowing to a guard at Japanese military checkpoint.
+*Illustration of people bowing to a guard at Japanese military checkpoint.*
 
 
 Besides these inconveniences, the supply lines to Singapore were disrupted because of the war and many foodstuff and essential items could not reach the island. The Japanese tried to ration the goods that were available for purchase but this was insufficient in meeting demands and soon, a thriving black market emerged. 
