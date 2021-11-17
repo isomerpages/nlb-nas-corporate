@@ -22,7 +22,7 @@ This Children’s Season, we’ve organised a follow-up edition of online activi
 You can also look out for a variety of activities and educational programmes for children and families to enjoy at the Museum Roundtable museums and online. Themed “Fantastic Critters & Where To Find Them”, children can look forward to collecting uniquely-designed critter stickers at the 15 participating museums, and learn more about the artefacts and stories that inspire the critters. Parents can also refer to the consolidated list of programmes on the Children’s Season webpage, to plan for museum visits across the end-of-year school holidays.
 
  
-![Alt text for image on Isomer site](/images/children2021/Turning%20Singapore%20Into%20Syonan.png)
+# Turning Singapore Into Syonan
 ![Alt text for image on Isomer site](/images/children2021/Street%20in%20Sg.png)
 
 After the surrender of the British, Singapore was renamed Syonan-to, or “Light of the South”. Along with this name change came the Nipponisation of Singapore. Nipponisation, or Japanisation, was a process where the Japanese tried to make the people of Singapore act and think more like them and embody the Japanese spirit. Buildings and roads were given Japanese names and school teachers even had to learn Nippon-go so they could conduct their classes in Japanese!
@@ -39,13 +39,13 @@ In addition to making people learn Nippon-go, the Japanese military wanted peopl
 
 ![Alt text for image on Isomer site](/images/children2021/traditional%20jap%20clothing%20for%20women.png) *An article depicting local singers wearing the kimono, the traditional Japanese clothing for women. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420610-1.2.21), 10 June 1942, p.4. (From NewspaperSG)*
 
-![Alt text for image on Isomer site](/images/children2021/Activity%201.png)
+# Activity 1
 
 You can find a lot of resources about the Japanese Occupation of Singapore on [NAS Archives Online](https://www.nas.gov.sg/archivesonline/photographs/) as well as [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/). Try your hand at searching for images and articles on World War II and the Japanese Occupation using the following keywords. 
 
 ![Alt text for image on Isomer site](/images/children2021/keywords.png)
 
-![Alt text for image on Isomer site](/images/children2021/Activity%202.png)
+# Activity 2
 
 Read the following excerpt from an oral history interview with Lim Choo Sye, who lived through and survived the Japanese Occupation.
 
@@ -57,7 +57,7 @@ Read the following excerpt from an oral history interview with Lim Choo Sye, who
 3.	Did you know that Singapore’s local time was changed to follow the time in Tokyo, Japan? What impact do you this this had on the residents of Singapore? 
 
 
-![Alt text for image on Isomer site](/images/children2021/hardships%20of%20war.png)
+# Hardships of War
 There was a strong Japanese military presence in Singapore and there were many checkpoints across the island. Getting through these checkpoints was quite an ordeal. Locals had to present proper documentation to pass through these checkpoints and also had to bow to the soldiers there. Not doing so meant that they risked getting slapped, punched or even detained.
 
 ![Alt text for image on Isomer site](/images/children2021/Jap%20military%20checkpoint.png)
@@ -68,7 +68,7 @@ Besides these inconveniences, the supply lines to Singapore were disrupted becau
  
  ![Alt text for image on Isomer site](/images/children2021/ration%20card.png)
  
- ![Alt text for image on Isomer site](/images/children2021/activity%203.png)
+# Activity 3
  
 Listen to an excerpt of an oral history interview with a Japanese Occupation survivor. 
 
@@ -78,12 +78,12 @@ Now, try searching for more oral history interviews like Robert’s on [NAS Arch
 
 ![Alt text for image on Isomer site](/images/children2021/mission%20alert.png)
 
-![Alt text for image on Isomer site](/images/children2021/visit%20us.png)
+# Visit Us!
 Fancy going back in time to learn more about the Japanese Occupation of Singapore? Visit us at the Former Ford Factory and see the actual site of the British surrender and view the exhibition Surviving the Japanese Occupation: War and Its Legacies.  
 
 Click [here](https://corporate.nas.gov.sg/former-ford-factory/overview/) to find out more about the Former Ford Factory and its opening hours. 
 
-![Alt text for image on Isomer site](/images/children2021/resources.png)
+# Resources
 Did you know that you can also find many digital resources on the Japanese Occupation from the National Archives of Singapore and National Library Board websites? 
 
 Explore these resources and unearth more information for your own discovery of Singapore’s history!
