@@ -30,19 +30,19 @@ After the surrender of the British, Singapore was renamed Syonan-to, or “Light
 ![Alt text for image on Isomer site](/images/children2021/Group%20pic%20of%20Jap%20class.png)
 
 ![Alt text for image on Isomer site](/images/children2021/New%20Textbooks.png)
-*Books in other languages were replaced and all subjects were to be taught in Japanese. Syonan Shimbun, 21 September 1943, p.2. (From NewspaperSG)*
+*Books in other languages were replaced and all subjects were to be taught in Japanese. [Syonan Shimbun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430921-1.2.23), 21 September 1943, p.2. (From NewspaperSG)*
 
 ![Alt text for image on Isomer site](/images/children2021/Nippon%20Lesson%20on%20news.png)
-*A Nippon-go lesson printed in the newspaper Syonan Shimbun on 21 February 1942. These lessons began appearing in the newspapers almost immediately after the Occupation began. Syonan Shimbun, 21 February 1942, p.4. (From NewspaperSG)*
+*A Nippon-go lesson printed in the newspaper Syonan Shimbun on 21 February 1942. These lessons began appearing in the newspapers almost immediately after the Occupation began. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.31.1), 21 February 1942, p.4. (From NewspaperSG)*
 
 In addition to making people learn Nippon-go, the Japanese military wanted people to adopt other aspects of Japanese culture, such as bowing and wearing the kimono.
 
 ![Alt text for image on Isomer site](/images/children2021/traditional%20jap%20clothing%20for%20women.png)
-*An article depicting local singers wearing the kimono, the traditional Japanese clothing for women. Syonan Shimbun, 10 June 1942, p.4. (From NewspaperSG)*
+*An article depicting local singers wearing the kimono, the traditional Japanese clothing for women. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420610-1.2.21), 10 June 1942, p.4. (From NewspaperSG)*
 
 ![Alt text for image on Isomer site](/images/children2021/Activity%201.png)
 
-You can find a lot of resources about the Japanese Occupation of Singapore on NAS Archives Online as well as NewspaperSG. Try your hand at searching for images and articles on World War II and the Japanese Occupation using the following keywords. 
+You can find a lot of resources about the Japanese Occupation of Singapore on[NAS Archives Online](https://www.nas.gov.sg/archivesonline/photographs/) as well as [NewspaperSG](https://eresources.nlb.gov.sg/newspapers/). Try your hand at searching for images and articles on World War II and the Japanese Occupation using the following keywords. 
 
 ![Alt text for image on Isomer site](/images/children2021/keywords.png)
 
@@ -54,7 +54,7 @@ Read the following excerpt from an oral history interview with Lim Choo Sye, who
 
 **Reflections:**
 1.	How do you think the people of Singapore felt about having to learn a new language so suddenly? Imagine you are a student during the occupation and that you must now learn Mathematics, but in Japanese. Would you be able to cope? 
-2.	Radio taiso was a form of exercise that school children had to do before their classes began.  Watch a video of it here.
+2.	Radio taiso was a form of exercise that school children had to do before their classes began.  Watch a video of it [here](https://www.youtube.com/watch?v=_FcrGLCHT08&t=79s).
 3.	Did you know that Singapore’s local time was changed to follow the time in Tokyo, Japan? What impact do you this this had on the residents of Singapore? 
 
 
@@ -66,23 +66,24 @@ There was a strong Japanese military presence in Singapore and there were many c
 Illustration of people bowing to a guard at Japanese military checkpoint.
 
 
- Besides these inconveniences, the supply lines to Singapore were disrupted because of the war and many foodstuff and essential items could not reach the island. The Japanese tried to ration the goods that were available for purchase but this was insufficient in meeting demands and soon, a thriving black market emerged. 
+Besides these inconveniences, the supply lines to Singapore were disrupted because of the war and many foodstuff and essential items could not reach the island. The Japanese tried to ration the goods that were available for purchase but this was insufficient in meeting demands and soon, a thriving black market emerged. 
  
  ![Alt text for image on Isomer site](/images/children2021/ration%20card.png)
  
  ![Alt text for image on Isomer site](/images/children2021/activity%203.png)
  
- Listen to an excerpt of an oral history interview with a Japanese Occupation survivor. 
+Listen to an excerpt of an oral history interview with a Japanese Occupation survivor. 
 
 <iframe width="699" height="393" src="https://www.youtube.com/embed/smm9kF54jZY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Now, try searching for more oral history interviews like Robert’s on NAS Archives Online. 
+Now, try searching for more oral history interviews like Robert’s on [NAS Archives Online](https://www.nas.gov.sg/archivesonline/). 
 
 ![Alt text for image on Isomer site](/images/children2021/mission%20alert.png)
 
 ![Alt text for image on Isomer site](/images/children2021/visit%20us.png)
 Fancy going back in time to learn more about the Japanese Occupation of Singapore? Visit us at the Former Ford Factory and see the actual site of the British surrender and view the exhibition Surviving the Japanese Occupation: War and Its Legacies.  
-Click here to find out more about the Former Ford Factory and its opening hours. 
+
+Click [here](https://corporate.nas.gov.sg/former-ford-factory/overview/) to find out more about the Former Ford Factory and its opening hours. 
 
 ![Alt text for image on Isomer site](/images/children2021/resources.png)
 Did you know that you can also find many digital resources on the Japanese Occupation from the National Archives of Singapore and National Library Board websites? 
