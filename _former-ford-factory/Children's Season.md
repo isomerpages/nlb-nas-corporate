@@ -49,7 +49,7 @@ You can find a lot of resources about the Japanese Occupation of Singapore on [N
 
 Read the following excerpt from an oral history interview with Lim Choo Sye, who lived through and survived the Japanese Occupation.
 
-![Alt text for image on Isomer site](/images/children2021/Extract%20of%20OH%20interview.png)
+![Alt text for image on Isomer site](/images/children2021/OH%20extract.png)
 
 **Reflections:**
 1.	How do you think the people of Singapore felt about having to learn a new language so suddenly? Imagine you are a student during the occupation and that you must now learn Mathematics, but in Japanese. Would you be able to cope? 
@@ -76,13 +76,12 @@ Listen to an excerpt of an oral history interview with a Japanese Occupation sur
 
 Now, try searching for more oral history interviews like Robert’s on [NAS Archives Online](https://www.nas.gov.sg/archivesonline/). 
 
-![Alt text for image on Isomer site](/images/children2021/mission%20alert.png)
-
 # Visit Us!
 Fancy going back in time to learn more about the Japanese Occupation of Singapore? Visit us at the Former Ford Factory and see the actual site of the British surrender and view the exhibition Surviving the Japanese Occupation: War and Its Legacies.  
 
 Click [here](https://corporate.nas.gov.sg/former-ford-factory/overview/) to find out more about the Former Ford Factory and its opening hours. 
 
+![Alt text for image on Isomer site](/images/children2021/mission.png)
 # Resources
 Did you know that you can also find many digital resources on the Japanese Occupation from the National Archives of Singapore and National Library Board websites? 
 
