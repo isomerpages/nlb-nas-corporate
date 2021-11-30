@@ -17,7 +17,7 @@ Free admission for Citizens, Permanent Residents, children aged 6 and below, Fri
 
 For foreign visitors : $3 per person
 
-In line with the expansion of Vaccination Differentiated Safe Management Measures announced by the MTF only the following visitors may visit the Former Ford Factory in group sizes of up to 5 persons with effect from 1 December.
+In line with the expansion of Vaccination Differentiated Safe Management Measures announced by the MTF, only the following visitors may visit the Former Ford Factory in group sizes of up to 5 persons with effect from 1 December:
 
 1.  Individuals who are fully vaccinated against COVID-19.
 2. Individuals who have recovered from COVID-19. 
