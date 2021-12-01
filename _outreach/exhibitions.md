@@ -52,7 +52,6 @@ Free
 
   
 
-###
 Announcement: All tours have been suspended due to Covid-19 restrictions. Stay tuned to this page for resumption of events/tours related to this exhibition. 
   
 
