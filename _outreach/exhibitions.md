@@ -2,9 +2,7 @@
 title: Exhibitions
 permalink: /outreach/exhibitions/
 breadcrumb: Exhibitions
-
 ---
-
 ## Law of the Land: Highlights of Singapore’s Constitutional Documents
 
 <img src="/images/exhibitions/Poster.jpg" alt="Law of the Land Exhibition" style="width:450px;"/>
@@ -54,27 +52,7 @@ Free
 
   
 
-### Public Tours
-Join our curator-led Insights Tours and docent-led Highlights Tours to discover more about Singapore’s constitutional documents! All tours are free and conducted in English. 
-
-  
-
-### Insights Tours
-Day and Time: Fridays (no tours on public holidays), 6.30 – 7.15pm. Register here for tours. 
-
-Meeting Point: Padang Atrium, Information Counter Level 1. There are 20 places available on a first come, first served basis. 
-
-
-### Highlights Tours
-Day and Time: 1st and 3rd Saturdays each month (except public holidays), 2.00 – 2.45pm 
-
-Meeting Point: Registration opens 20 minutes before each tour at the Tours Desk, B1. There are 20 place available on a first come, first served basis. 
-
-  
-
-### Group Tours
-Schools or other organisations can contact [NAS@nlb.gov.sg](mailto:NAS@nlb.gov.sg) for guided tours, subject to availability. 
-
+Announcement: All tours have been suspended due to Covid-19 restrictions. Stay tuned to this page for resumption of events/tours related to this exhibition. 
   
 
 ### Public Talks
@@ -158,4 +136,4 @@ The original furniture in the Chief Justice’s Chamber and Office were designed
 
   
 
-Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery. 
+Some original antique furniture in the Chief Justice’s Chamber and Office is integrated with the exhibition. These pieces were hand carved by Singaporean craftsmen trained in British workmanship. Teak wood was predominantly used along with top grade leather upholstery.
