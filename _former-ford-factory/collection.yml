@@ -2,7 +2,6 @@ collections:
   former-ford-factory:
     output: true
     order:
-      - Children Season/.keep
       - about-former-ford-factory.md
       - visit/.keep
       - visit/opening-hours-admission.md
