@@ -3,7 +3,7 @@ title: Calendar of Events
 permalink: /outreach/calendar-of-events/
 description: LATEST EVENTS
 ---
-## LATEST EVENTS
+### LATEST EVENTS
 
 ![Alt text for image on Isomer site](/images/AU%20eventbrite%2025%20Jan%202022.jpg)
 
