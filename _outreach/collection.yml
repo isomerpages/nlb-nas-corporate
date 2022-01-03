@@ -2,7 +2,7 @@ collections:
   outreach:
     output: true
     order:
-      - Calendar of Events.md
       - exhibitions.md
       - public-programmes.md
       - publications.md
+      - Calendar of Events.md
