@@ -22,7 +22,7 @@ A practical video on binding a book from loose sheets will be featured after the
 
 **Zoom Webinar**
 
-Register now via https://www.eventbrite.sg/e/archives-unlocked-trashtreasuretips-to-preserve-protect-your-keepsakes-tickets-228258696907
+Register now via [https://www.eventbrite.sg/e/archives-unlocked-trashtreasuretips-to-preserve-protect-your-keepsakes-tickets-228258696907](https://www.eventbrite.sg/e/archives-unlocked-trashtreasuretips-to-preserve-protect-your-keepsakes-tickets-228258696907)
 
 ### About the Speaker
 Sophie Tan is an assistant conservator for the Archives Conservation Laboratory at the National Archives of Singapore.  She graduated with a Bachelor of Arts (Fine Arts) from the Nanyang Academy of Fine Arts. Sophie has interned at the Hong Kong Leisure and Cultural Services’ Conservation Office and Chimei Conservation Studio in Taiwan. She is a recipient of Singapore’s National Heritage Board Julia Oh – International Continuing Education Grant. Sophie is a proud cat mom of two with a keen interest in testing out commercial cleaning solutions in her spare time.
@@ -31,4 +31,4 @@ Sophie Tan is an assistant conservator for the Archives Conservation Laboratory 
 Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections.
 
 ### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: https://go.gov.sg/nlb-subscribe-to-enewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
