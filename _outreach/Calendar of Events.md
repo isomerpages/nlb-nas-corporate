@@ -30,6 +30,8 @@ Do you like this programme? Sign up for our eNewsletter to be the first to learn
 
 
 
+#
+
 ![Alt text for image on Isomer site](/images/AI%20Talk%20on%2022%20Feb%202022.JPG)
 
 ### Archives Invites: Dr Ho Chi Tim – Public Histories of the Japanese Occupation of Singapore
