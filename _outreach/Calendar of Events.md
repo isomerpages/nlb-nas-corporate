@@ -81,8 +81,8 @@ Centred around the Japanese invasion of British colonial Singapore, “New Light
 ### Programmes:
 
 #### **1.	Former Ford Factory Guided Tour & Voices of War: The Role of Oral Accounts in Battlefield History**
-##### 
-
+#### 
+### 
 **•	Sat, 19 Feb, 1.30pm – 3.30pm**
 
 **•	Sat, 19 Feb, 3pm – 5pm**
