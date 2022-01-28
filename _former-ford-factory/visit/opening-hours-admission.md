@@ -15,7 +15,7 @@ Open during Public Holidays except on the first day of Chinese New Year.
 **ADMISSION**<br>
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member. 
 
-For foreign visitors : $3 per person
+For foreign visitors : $3 per person (After 7% GST)
 
 In line with the expansion of Vaccination Differentiated Safe Management Measures announced by the MTF, only the following visitors may visit the Former Ford Factory in group sizes of up to 5 persons with effect from 1 December:
 
