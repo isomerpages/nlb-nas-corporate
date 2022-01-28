@@ -102,6 +102,7 @@ A short documentary film Life in the Shadow of a Rising Sun, featuring interview
 Lu Wenshi is the Manager of Archives Services at the National Archives of Singapore (NAS). She was formerly an Oral History Specialist with the NAS Oral History Centre and the project manager of the revamp of the exhibition Surviving the Japanese Occupation: War and its Legacies. Wenshi appreciates the importance of oral history not just in filling the gaps in historical information, but also in emotionally engaging audiences during their visits to historical sites.
 
 ### Programme Line up
+
 **•	”Voices of War: The Role of Oral Accounts in Battlefield History” by Lu Wenshi (30 mins)**
 
 **•	Film Screening of Documentary “Life in the Shadow of a Rising Sun” (30 mins)**
