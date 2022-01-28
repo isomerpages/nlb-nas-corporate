@@ -54,6 +54,7 @@ Do you like this programme? Sign up for our eNewsletter to be the first to learn
 
 
 ![Alt text for image on Isomer site](/images/FOS80%20Exhibition%20v2.jpg)
+
 ### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore“
 “New Light on an Old Tale” is an exhibition organised by the National Archives of Singapore to mark the 80th Anniversary of the Fall of Singapore (15 February 1942). Showing from 15 February to 30 June 2022, the exhibition showcases artefacts from private collections as well as archival records which hold intimate and little-known stories about World War II and continue to be witnesses to pivotal events that have shaped the history of Singapore
 
@@ -66,6 +67,7 @@ Join us for a guided tour of the Former Ford Factory to discover its history and
 Catch a P Ramlee Malay classic set during the Japanese Occupation and two rare 1946 post-war Chinese films, curated by the Asian Film Archive.
 
 ### Exhibition:
+
 **“New Light on an Old Tale” Exhibition**
 
 **15 Feb – 30 Jun 2022**
@@ -77,8 +79,10 @@ Catch a P Ramlee Malay classic set during the Japanese Occupation and two rare 1
 Centred around the Japanese invasion of British colonial Singapore, “New Light on an Old Tale” tells the story of two adversaries who were once allies. Told through artefacts on loan from three private collectors, the exhibition chronicles the changing fortunes of a tiny settlement caught between two empires. In 2022, we mark 80 years since the Fall of Singapore through objects that bear testament to our difficult path to nationhood and the price of peace that was paid by the sacrifices of many.
 
 ### Programmes:
+
 #### **1.	Former Ford Factory Guided Tour & Voices of War: The Role of Oral Accounts in Battlefield History**
 ##### 
+
 **•	Sat, 19 Feb, 1.30pm – 3.30pm**
 
 **•	Sat, 19 Feb, 3pm – 5pm**
