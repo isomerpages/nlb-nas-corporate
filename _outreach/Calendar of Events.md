@@ -174,16 +174,29 @@ Centered on the wealthy Yang family during the Japanese Occupation, the film sho
 
 #### **3.	Archives Invites Online Talks**
 
-**•	Tue, 22 Feb, 6pm – 7pm**
+ **Zoom**
 
-**Archives Invites: Dr Ho Chi Tim – Public Histories of the Japanese Occupation of Singapore**
+##### **•	Tue, 22 Feb, 6pm – 7pm**
 
-**•	Thu, 24 Mar, 6pm – 7pm**
+### Archives Invites: Dr Ho Chi Tim – Public Histories of the Japanese Occupation of Singapore
 
-**Archives Invites – Bennett Sng: British Medals Awarded to Singaporeans for Their Service in World War II**
+While the Japanese Occupation of Singapore took place more than seventy years ago, its impact still resonates today. The memories of survivors have been internalised by the public through various communicative forms. The State regularly commemorates the occupation and the preceding invasion as key milestones in the Singapore Story.
 
-**•	Tue, 10 May, 6pm – 7pm**
+Over time, these public representations have created distinct impressions of the occupation period, some of which may not immediately be congruent with academic scholarship on the topic. Join Dr Ho Chi Tim as he delves into issues arising from public and academic representations of the Japanese Occupation, and how they are part of an understated public history discourse in Singapore.
 
-**Archives Invites – Phan Ming Yen: Better than a gun or revolver: Music as protection and collaboration in Wartime Singapore**
+### About the Speaker
+Dr Ho Chi Tim is a historian of Singapore and Southeast Asia, with research interests in the histories of social welfare, colonialism/imperialism and public history. He has published works on various aspects of Singapore’s history including social services, nation-building and archival research, and was involved in several public history projects. Chi Tim is currently a lecturer at the Centre for University Core, Singapore University of Social Sciences.
 
-**Zoom**
+#####  **•	Thu, 24 Mar, 6pm – 7pm**
+
+### Archives Invites – Bennett Sng: British Medals Awarded to Singaporeans for Their Service in World War II
+
+Similar to their British counterparts, military, police, other uniformed personnel and civilians who were involved in World War II in Singapore were awarded British medals for their contributions. During this session with collector Bennett Sng, listen to the stories of some of these gallant men and women and find out more about the history of medals in Singapore since 1918.
+Check out some of these medals at the exhibition “New Light on an Old Tale” held at the National Archives of Singapore from 15 Feb to 30 Jun 2022.
+
+### About the Speaker
+Mr Bennett Sng is a Singaporean in his late 50s currently working as a trainer in the government sector. His interest in collecting and researching medals started in the late 1990s when he realised that there were only a handful of Singaporeans who shared the same interest. He has since co-organised a few medal exhibitions to share his collections with fellow Singaporeans. His most recent exhibition, “Fragments of Voices”, was held from 2017 to 2020.
+
+
+##### **•	Tue, 10 May, 6pm – 7pm**
+### Archives Invites – Phan Ming Yen: Better than a gun or revolver: Music as protection and collaboration in Wartime Singapore
