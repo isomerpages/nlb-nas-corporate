@@ -57,7 +57,7 @@ ____________________________________________________________
 
 ![Alt text for image on Isomer site](/images/FOS80%20AO%20Banner.jpg)
 
-### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore“
+### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore
 “New Light on an Old Tale” is an exhibition organised by the National Archives of Singapore to mark the 80th Anniversary of the Fall of Singapore (15 February 1942). Showing from 15 February to 30 June 2022, the exhibition showcases artefacts from private collections as well as archival records which hold intimate and little-known stories about World War II and continue to be witnesses to pivotal events that have shaped the history of Singapore
 
 Accompanying the exhibition is a series of related programmes that together present the events of World War II and the Japanese Occupation of Singapore in a new light.
