@@ -18,10 +18,10 @@ sections:
   - infopic:
       title: "New Light on an Old Tale Exhibition "
       subtitle: Features
-      description: “New Light on an Old Tale” is an exhibition to mark the 80th
-        Anniversary of the Fall of Singapore (15 February 1942).   Showcases
-        artefacts on WWII.
-      button: Learn More
+      description: "“New Light on an Old Tale” is an exhibition and a series of
+        related programmes to mark the 80th Anniversary of the Fall of
+        Singapore. "
+      button: "Learn more here "
       url: https://corporate.nas.gov.sg/outreach/calendar-of-events/
       image: /images/FOS80%20AO%20Banner.jpg
       alt: New Light on an Old Tale
