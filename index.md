@@ -24,6 +24,7 @@ sections:
       button: Learn More
       url: https://corporate.nas.gov.sg/outreach/calendar-of-events/
       image: /images/FOS80%20AO%20Banner.jpg
+      alt: FOS80 AO Banner
   - infopic:
       title: Singapore in the 1960s Season 2
       subtitle: Features
