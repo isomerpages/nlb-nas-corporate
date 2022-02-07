@@ -78,8 +78,6 @@ Catch a P Ramlee Malay classic set during the Japanese Occupation and two rare 1
 
 **Level 3 Atrium**
 
-Click here to  [Learn More](https://corporate.nas.gov.sg/outreach/calendar-of-events/)
-
 Centred around the Japanese invasion of British colonial Singapore, “New Light on an Old Tale” tells the story of two adversaries who were once allies. Told through artefacts on loan from three private collectors, the exhibition chronicles the changing fortunes of a tiny settlement caught between two empires. In 2022, we mark 80 years since the Fall of Singapore through objects that bear testament to our difficult path to nationhood and the price of peace that was paid by the sacrifices of many.
 
 ### Programmes:
