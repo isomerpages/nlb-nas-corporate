@@ -55,9 +55,9 @@ Do you like this programme? Sign up for our eNewsletter to be the first to learn
 
 ____________________________________________________________
 
-![Alt text for image on Isomer site](/images/FOS80%20Exhibition%20v2.jpg)
+![Alt text for image on Isomer site](/images/FOS80%20AO%20Banner.jpg)
 
-### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore“
+### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore
 “New Light on an Old Tale” is an exhibition organised by the National Archives of Singapore to mark the 80th Anniversary of the Fall of Singapore (15 February 1942). Showing from 15 February to 30 June 2022, the exhibition showcases artefacts from private collections as well as archival records which hold intimate and little-known stories about World War II and continue to be witnesses to pivotal events that have shaped the history of Singapore
 
 Accompanying the exhibition is a series of related programmes that together present the events of World War II and the Japanese Occupation of Singapore in a new light.
@@ -95,6 +95,8 @@ Centred around the Japanese invasion of British colonial Singapore, “New Light
 
 **Level 2 Screening Room**
 
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
+
 Curious how sites with a dark past can use oral history to engage audiences? Join Archives Services Manager Lu Wenshi as she uncovers some highlights of oral history accounts on the Japanese Occupation and the value of such accounts when it came to the curation of the exhibition Surviving the Japanese Occupation: War and its Legacies. The session will also cover other historical sites in the region to illustrate the importance of oral accounts when it comes to telling stories from the past.
 A short documentary film Life in the Shadow of a Rising Sun, featuring interviews with survivors of the Japanese Occupation of Singapore, will be also be screened. Go on a guided tour of the Former Ford Factory and discover the history of war and the significance of 15 February 1942 to the building.
 
@@ -108,6 +110,8 @@ Lu Wenshi is the Manager of Archives Services at the National Archives of Singap
 **•	Film Screening of Documentary “Life in the Shadow of a Rising Sun” (30 mins)**
 
 **•	Docent Tour (1 hour)**
+
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
 
 ### Programmes are organised by the Asian Film Archive in conjunction with the "New Light on an Old Tale: 80th Anniversary of the Fall of Singapore".
 
@@ -124,6 +128,8 @@ Lu Wenshi is the Manager of Archives Services at the National Archives of Singap
 **Level 3 Oldham Theatre**
 
 **Tue, 15 Feb, 8pm**
+
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
 
 **Sarjan Hassan (Sergeant Hassan) (1958)**
 
@@ -178,6 +184,8 @@ Centered on the wealthy Yang family during the Japanese Occupation, the film sho
 
 **•	Tue, 22 Feb, 6pm – 7pm**
 
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
+
 ### Archives Invites: Dr Ho Chi Tim – Public Histories of the Japanese Occupation of Singapore
 
 While the Japanese Occupation of Singapore took place more than seventy years ago, its impact still resonates today. The memories of survivors have been internalised by the public through various communicative forms. The State regularly commemorates the occupation and the preceding invasion as key milestones in the Singapore Story.
@@ -189,6 +197,8 @@ Dr Ho Chi Tim is a historian of Singapore and Southeast Asia, with research inte
 
 **•	Thu, 24 Mar, 6pm – 7pm**
 
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
+
 ### Archives Invites – Bennett Sng: British Medals Awarded to Singaporeans for Their Service in World War II
 
 Similar to their British counterparts, military, police, other uniformed personnel and civilians who were involved in World War II in Singapore were awarded British medals for their contributions. During this session with collector Bennett Sng, listen to the stories of some of these gallant men and women and find out more about the history of medals in Singapore since 1918.
@@ -199,4 +209,5 @@ Mr Bennett Sng is a Singaporean in his late 50s currently working as a trainer i
 
 
 **•	Tue, 10 May, 6pm – 7pm**
+
 ### Archives Invites – Phan Ming Yen: Better than a gun or revolver: Music as protection and collaboration in Wartime Singapore
