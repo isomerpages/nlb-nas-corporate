@@ -171,6 +171,10 @@ Over time, these public representations have created distinct impressions of the
 ### About the Speaker
 Dr Ho Chi Tim is a historian of Singapore and Southeast Asia, with research interests in the histories of social welfare, colonialism/imperialism and public history. He has published works on various aspects of Singapore’s history including social services, nation-building and archival research, and was involved in several public history projects. Chi Tim is currently a lecturer at the Centre for University Core, Singapore University of Social Sciences.
 
+____________________________________________________________
+
+![Alt text for image on Isomer site](/images/Eventbrite%20-%20Talk%20by%20Mr%20Sng%20-%2024%20Mar%202022.JPG)
+
 **•	Thu, 24 Mar, 6pm – 7pm**
 
 Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
@@ -183,6 +187,7 @@ Check out some of these medals at the exhibition “New Light on an Old Tale” 
 ### About the Speaker
 Mr Bennett Sng is a Singaporean in his late 50s currently working as a trainer in the government sector. His interest in collecting and researching medals started in the late 1990s when he realised that there were only a handful of Singaporeans who shared the same interest. He has since co-organised a few medal exhibitions to share his collections with fellow Singaporeans. His most recent exhibition, “Fragments of Voices”, was held from 2017 to 2020.
 
+____________________________________________________________
 
 **•	Tue, 10 May, 6pm – 7pm**
 
