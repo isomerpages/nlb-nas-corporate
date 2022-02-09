@@ -97,9 +97,9 @@ Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-
 
 ###### **•	Sat, 16 Apr, 1pm**
 
-**National Archives of Singapore**
+###### **National Archives of Singapore**
 
-**Level 3 Oldham Theatre**
+###### **Level 3 Oldham Theatre**
 
 
 ___________________________________________________________________________________
