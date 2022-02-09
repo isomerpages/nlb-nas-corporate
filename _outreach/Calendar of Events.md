@@ -91,15 +91,15 @@ Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-
 
 #### Programmes are organised by the Asian Film Archive in conjunction with the "New Light on an Old Tale: 80th Anniversary of the Fall of Singapore".
 
-**•	Tue, 15 Feb, 8pm**
+#### **•	Tue, 15 Feb, 8pm**
 
-**•	Sat, 19 Mar, 1pm**
+#### **•	Sat, 19 Mar, 1pm**
 
-**•	Sat, 16 Apr, 1pm**
+#### **•	Sat, 16 Apr, 1pm**
 
-**National Archives of Singapore**
+#### **National Archives of Singapore**
 
-**Level 3 Oldham Theatre**
+#### **Level 3 Oldham Theatre**
 
 
 ___________________________________________________________________________________
