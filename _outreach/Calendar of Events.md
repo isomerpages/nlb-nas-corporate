@@ -87,23 +87,25 @@ Lu Wenshi is the Manager of Archives Services at the National Archives of Singap
 
 Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
 
-### Programmes are organised by the Asian Film Archive in conjunction with the "New Light on an Old Tale: 80th Anniversary of the Fall of Singapore".
+#### **2. Film Screenings**
 
-#### **2.	Asian Film Archive’s Film Screenings**
+#### Programmes are organised by the Asian Film Archive in conjunction with the "New Light on an Old Tale: 80th Anniversary of the Fall of Singapore".
 
-**•	Tue, 15 Feb, 8pm**
+###### **•	Tue, 15 Feb, 8pm**
 
-**•	Sat, 19 Mar, 1pm**
+###### **•	Sat, 19 Mar, 1pm**
 
-**•	Sat, 16 Apr, 1pm**
+###### **•	Sat, 16 Apr, 1pm**
 
 **National Archives of Singapore**
 
 **Level 3 Oldham Theatre**
 
-**Tue, 15 Feb, 8pm**
+_________________________________________________________________________
 
-Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
+Register now via [Asian Film Archive Website](https://www.asianfilmarchive.org/event-calendar/new-light-on-an-old-tale-80th-anniversary-of-the-fall-of-singapore/)
+
+**Tue, 15 Feb, 8pm**
 
 **Sarjan Hassan (Sergeant Hassan) (1958)**
 
@@ -119,6 +121,10 @@ Rating: PG
 
 Made during the golden era of Malay cinema, and inspired by heroic folklore, Sergeant Hassan is a patriotic film that reimagines military and civilian struggles during the Japanese occupation. The legendary P. Ramlee stars in the titular role as a young man who leaves his village to join the Malay Regiment where he rises up the ranks, succeeds in battle and brings peace and victory to his nation and community.
 Released a year before Singapore gained full internal self-governance from the British, the film can be viewed as a projection of a nation’s desire and perseverance to attain independence and foster harmony among its people.
+
+__________________________________________________________________________
+
+Register now via [Asian Film Archive Website](https://www.asianfilmarchive.org/event-calendar/new-light-on-an-old-tale-80th-anniversary-of-the-fall-of-singapore/)
 
 **Sat, 19 Mar, 1pm**
 
@@ -136,6 +142,10 @@ Rating: PG
 
 A rare document of Singapore cinema, Spirit of the Overseas Chinese was made by pioneering female Chinese filmmaker Wan Hoi-Ling, who had directed films in Singapore for the Shaw Brothers. Her partner Hou Yao, who tragically died during the war, collaborated with her on her films. Made just a year after World War II ended, the film begins before the war comes to Malaya and reflects upon the struggles of newly-emigrated and affluent Chinese immigrants who have to choose between the comfortable luxury of their lives in Singapore and returning to their motherland to fight the enemy. Restored by the China Film Archive and subtitled by the Asian Film Archive.
 
+_____________________________________________________________________________________
+
+Register now via [Asian Film Archive Website](https://www.asianfilmarchive.org/event-calendar/new-light-on-an-old-tale-80th-anniversary-of-the-fall-of-singapore/)
+
 **Sat, 16 Apr, 1pm**
 
 **Blood and Tears of the Overseas Chinese (华侨血泪) (1946)**
@@ -152,11 +162,13 @@ Rating: PG13 (Some Violence)
 
 Centered on the wealthy Yang family during the Japanese Occupation, the film shows the wartime clash between colonials, collaborators, and resistance forces. Filled with intrigue, betrayal and sacrifice, the issues of class, ideologies behind the formation of the overseas Chinese as a diasporic community are explored. Restored by the China Film Archive and subtitled by the Asian Film Archive, this immediate post-war local film is a historical document on the urban landscape of post-war Singapore and Malaya.
 
+_____________________________________________________________________________________
+
 #### **3.	Archives Invites Online Talks**
 
 ![Alt text for image on Isomer site](/images/AI%20Talk%20on%2022%20Feb%202022.JPG)
 
- **Zoom**
+ 
 
 **•	Tue, 22 Feb, 6pm – 7pm**
 
@@ -192,6 +204,8 @@ __________________________________________________________________
 
 
 **•	Tue, 10 May, 6pm – 7pm**
+
+#### **More details to be announced soon.**
 
 ### Archives Invites – Phan Ming Yen: Better than a Gun or Revolver: Music as Protection and Collaboration in Wartime Singapore
 
