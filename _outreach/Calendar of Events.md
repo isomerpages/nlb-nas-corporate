@@ -29,32 +29,6 @@ Do you like this programme? Sign up for our eNewsletter to be the first to learn
 
 ____________________________________________________________
 
-![Alt text for image on Isomer site](/images/AI%20Talk%20on%2022%20Feb%202022.JPG)
-
-### Archives Invites: Dr Ho Chi Tim – Public Histories of the Japanese Occupation of Singapore
-While the Japanese Occupation of Singapore might have taken place more than 70 years ago, its impact still resonates today. The memories of survivors have been internalised by the public through various communicative forms. The Occupation is regularly commemorated by the State and the preceding invasion upheld as a key milestone in the Singapore Story. 
-
-Over time, these public representations have created distinct impressions of the Occupation, some of which may not immediately be congruent with academic scholarship on the topic. Join Dr Ho Chi Tim as he delves into issues arising from public and academic representations of the Japanese Occupation, and how they are part of an understated public history discourse in Singapore.
-
-**Tue, 22 Feb 2022** 
-
-**6 pm – 7 pm**
-
-**Zoom Webinar**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-dr-ho-chi-tim-public-histories-of-japanese-occupation-tickets-239063203477)
-
-### About the Speaker
-Dr Ho Chi Tim is a historian of Singapore and Southeast Asia, with research interests in the histories of social welfare, colonialism/imperialism and public history. He has published works on various aspects of Singapore’s history including social services, nation-building and archival research, and was involved in several public history projects. Chi Tim is currently a lecturer at the Centre for University Core, Singapore University of Social Sciences.
-
-### About Archives Invites
-Community histories unfold in this series that traces Singapore’s social past with help from the archives.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-____________________________________________________________
-
 ![Alt text for image on Isomer site](/images/FOS80%20AO%20Banner.jpg)
 
 ### New Light on an Old Tale: 80th Anniversary of the Fall of Singapore
@@ -180,6 +154,8 @@ Centered on the wealthy Yang family during the Japanese Occupation, the film sho
 
 #### **3.	Archives Invites Online Talks**
 
+![Alt text for image on Isomer site](/images/AI%20Talk%20on%2022%20Feb%202022.JPG)
+
  **Zoom**
 
 **•	Tue, 22 Feb, 6pm – 7pm**
@@ -210,4 +186,11 @@ Mr Bennett Sng is a Singaporean in his late 50s currently working as a trainer i
 
 **•	Tue, 10 May, 6pm – 7pm**
 
-### Archives Invites – Phan Ming Yen: Better than a gun or revolver: Music as protection and collaboration in Wartime Singapore
+### Archives Invites – Phan Ming Yen: Better than a Gun or Revolver: Music as Protection and Collaboration in Wartime Singapore
+
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives.
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
