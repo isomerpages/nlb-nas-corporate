@@ -5,29 +5,6 @@ description: LATEST EVENTS
 ---
 ### LATEST EVENTS
 
-![Alt text for image on Isomer site](/images/AU%20Talk%2010%20Feb%202022.jpg)
-
-### Archives Unlocked: Problems We Have with Photographs
-One of the largest collections at the National Archives of Singapore is its photograph collection. Besides the challenge of managing such a sizeable collection, our archivists also must grapple with other considerations and decisions that come with dealing with photographs. Join Yit Chin Chuan as he takes us behind the scenes of managing our photograph collection, where you’ll surely gain a different perspective. Don’t miss out, there are no negatives to this session!
-
-**Thu, 10 Feb 2022** 
-
-**6 pm – 7 pm**
-
-**Zoom Webinar**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-problems-we-have-with-photographs-tickets-239059261687)
-
-### About the Speaker
-Yit Chin Chuan is the Assistant Director of the Archives Services at the National Archives of Singapore (NAS). He joined NAS in 2015 and currently oversees the Photographs, Maps & Building Plans; Posters, Speeches & Press Releases; and Overseas, Private Records and Straits Settlement Records collections. He also heads the frontline team operating the Archives Reading Room and serves in the Registrar’s Office in NAS.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-____________________________________________________________
 
 ![Alt text for image on Isomer site](/images/FOS80%20AO%20Banner.jpg)
 
