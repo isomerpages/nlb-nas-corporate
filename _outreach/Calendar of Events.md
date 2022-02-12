@@ -181,13 +181,22 @@ Mr Bennett Sng is a Singaporean in his late 50s currently working as a trainer i
 
 __________________________________________________________________
 
+![AI Talk on 10 May 2022](/images/AI%20Eventbrite%20(Talk%20on%2010%20May%202022).jpg)
 
 **•	Tue, 10 May, 6pm – 7pm**
 
-#### **More details to be announced soon.**
+Register now via [Eventbrite](https://www.eventbrite.com/cc/new-light-on-an-old-tale-104819)
 
 ### Archives Invites – Phan Ming Yen: Better than a Gun or Revolver: Music as Protection and Collaboration in Wartime Singapore
 
+Presented by writer, producer and arts manager Phan Ming Yen, this talk explores the role of music during the Japanese Occupation of Singapore (1942–1945) and how it might have been a form of protection and means of survival for many locals. Find out how music provided comfort in times of crisis and discover the almost ironic circumstances of the birth of the Syonan Symphony Orchestra.
+
+### About the Speaker
+Phan Ming Yen is a writer, producer and arts manager and also the Chief Operating Officer of The Rice Company Limited (TRCL).
+
+Phan’s articles about the history of music in 19th- and early 20th-century Singapore have appeared in “Cultural Connections”, the journal of the Culture Academy of the Ministry of Culture, Community and Youth and “Singapore Soundscape”. He is currently researching the role of music during wartime and recently published an article in “Cultural Connections” on the Syonan Symphony Orchestra during the Japanese Occupation of Singapore. 
+
+Phan’s fiction and poetry have been published online in “Quarterly Literary Review Singapore” and by Ethos Books.
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
