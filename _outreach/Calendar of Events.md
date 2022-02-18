@@ -14,6 +14,7 @@ ________________________________________________________________________________
 
  
 **Khamis, 31 Mar 2022** 
+
 **6 – 7 malam**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-transformation-of-malay-community-through-audiovisuals-tickets-26739600765)
@@ -29,8 +30,9 @@ ___________________________________________________________________
 
 
 
+**Thu, 31 Mar 2022**
 
-**•	Thu, 31 Mar, 6pm – 7pm**
+**6pm – 7pm**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-transformation-of-malay-community-through-audiovisuals-tickets-267396007657)
 
