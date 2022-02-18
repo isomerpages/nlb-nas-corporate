@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 **6 – 7 malam**
 
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-transformation-of-malay-community-through-audiovisuals-tickets-26739600765)
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-transformation-of-malay-community-through-audiovisuals-tickets-267396007657)
 
 ### Archives Unlocked: Transformasi Masyarakat Melayu Melalui Cerita-Cerita Daripada Arkib Audiovisual
 
