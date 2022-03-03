@@ -8,9 +8,6 @@ description: LATEST EVENTS
 
 ![](/images/Digital%20Brochure%20Revised.jpg)
 
-
-![](/images/FA_NLB_80thFOS_Digital%20Brochure%2018022022.jpg)
-
 _____________________________________________________________________________________
 
 ![](/images/AU%20Eventbrite%20Talk%20on%2031%20Mar%202022.jpg)
