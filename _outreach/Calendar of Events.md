@@ -6,6 +6,9 @@ description: LATEST EVENTS
 ### LATEST EVENTS
 
 
+![](/images/Digital%20Brochure%20Revised.jpg)
+
+
 ![](/images/FA_NLB_80thFOS_Digital%20Brochure%2018022022.jpg)
 
 _____________________________________________________________________________________
