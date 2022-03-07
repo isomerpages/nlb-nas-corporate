@@ -8,7 +8,22 @@ description: LATEST EVENTS
 
 ![](/images/Digital%20Brochure%20Revised.jpg)
 
-_____________________________________________________________________________________
+____________________________________________________________
+![](/images/AE-NAScorpsite.jpg)
+
+
+**Sat, 19 Mar 2022**
+
+**11am – 12pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-explorer-commercial-break-tickets-271894522837)
+
+### Archives Explorer: Commerical Break
+
+Have a go at identifying famous faces and iconic brands – or even sing along to familiar jingles – in television ads of the 90s! In this online workshop, learn what makes a great advertisement and how commercials influence the way we shop and what we buy.
+
+**Suitable for children aged 9 to 12 years old.**
+____________________________________________________________
 
 ![](/images/AU%20Eventbrite%20Talk%20on%2031%20Mar%202022.jpg)
 
