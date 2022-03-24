@@ -1,11 +1,8 @@
 ---
-title: 'Collection Highlights'
+title: Collection Highlights
 permalink: /former-ford-factory/collection/
 breadcrumb: Collection
-
 ---
-
-
 ![Map](/images/formerford/map.jpg)
 
 #### MAP OF SINGAPORE ON 83 KEY LOCATIONS
@@ -106,7 +103,7 @@ Printed in four languages, the pamphlet was used by the interim British Military
 
 #### DALFORCE MEDALS
 
-Wong Yew Fook served in the Singapore Chinese Anti-Japanese Volunteer Battalion better known as Dalforce. They were formed in January 1942 and deployed in the Battle of Singapore. He, and other Dalforce members, were decorated with the above medals: the 1939-45 Star, the Pacific Star and the War Medal.
+Wong Yew Fook served in the Singapore Chinese Anti-Japanese Volunteer Battalion better known as Dalforce. They were formed in January 1942 and deployed in the Battle of Singapore. He, and other Dalforce members, were decorated with the above medals: the 1939-45 Star, the War Medal and the Pacific Star.
 
 *Donated by Wong Yew Fook, National Archives collection*
 
