@@ -6,7 +6,7 @@ third_nav_title: Visit
 ---
 #### VOLUNTEER GUIDED TOURS
 
-Volunteer guided tours will resumed on 22 April 2022.  Join our walk in tours led by volunteer guides to learn more about war and its legacies, and discover the stories behind the rich collections on display!  Tours are complimentary though **admission charges may apply**.
+Volunteer guided tours will resumed on 16 April 2022.  Join our walk in tours led by volunteer guides to learn more about war and its legacies, and discover the stories behind the rich collections on display!  Tours are complimentary though **admission charges may apply**.
 
 The meeting point for all tours is at the lobby.  There are 20 places available on a first come, first served basis per tour.  Groups with 8 or more persons may join the tour if it is not full.  There will be no guided tour on Public Holidays.  
 
