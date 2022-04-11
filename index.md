@@ -26,6 +26,16 @@ sections:
       image: /images/FOS80%20AO%20Banner.jpg
       alt: New Light on an Old Tale
   - infopic:
+      title: Old School TV
+      subtitle: Features
+      description: A selection of Educational Television (ETV) programmes produced by
+        the Curriculum Development Institute of Singapore (CDIS) and its
+        predecessors from 1967-1983.
+      button: View Old School TV
+      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-Old-School-TV-285004
+      image: /images/meWATCH - Old School 960-x-320.jpg
+      alt: Old School TV
+  - infopic:
       title: Singapore in the 1960s Season 2
       subtitle: Features
       description: Films from Singapore’s past, produced and shown in the 1960s, that
