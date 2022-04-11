@@ -71,5 +71,15 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: Old School TV
+      subtitle: Features
+      description: A selection of Educational Television (ETV) programmes produced by
+        the Curriculum Development Institute of Singapore (CDIS) and its
+        predecessors from 1967-1983.
+      button: View Old School TV
+      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-Old-School-TV-285004
+      image: /images/meWATCH - Old School 960-x-320.jpg
+      alt: Old School TV
 notification: "\n"
 ---
