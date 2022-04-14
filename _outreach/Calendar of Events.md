@@ -10,32 +10,6 @@ description: LATEST EVENTS
 
 ___________________________________________________________________
 
-![](/images/AU%2012%20Apr_Eventbrite%20Web%20Banner.png)
-
-**Tue, 12 Apr 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-film-preservation-of-memories-tickets-293731838837)
-
-### Archives Unlocked: Film Preservation of Memories
-
-From brand new 16mm experimental works to 8mm home movies from the 1930s, all types of film have organic components, which, like all organic material, are subject to decay. So what can we do to preserve the films that we might have stored on our shelves or in drawers and boxes?
-
-Over the past several decades, film archives around the world have discovered new techniques for preserving film, but many are prohibitively expensive or too complicated for individuals with small collections and limited resources. Join NAS’ Sound and Moving Image Lab Senior Specialists, Edwin Francis Van Huizen and Joe Ng, as they offer a look at how films are handled at the Archives and explain the main factors that determine the stability of motion picture film, and give recommendations relating to their inspection and handling, cleaning and repair, and preparation for storage and storage conditions.
-
-### About the Speakers
-**Edwin Francis Van Huizen** is a Senior Specialist at the Sound and Moving Image Lab at the National Archives of Singapore. He has more than 20 years’ experience as a colourist and has worked on film restoration for the Cathay Library in Singapore, as well as Hong Kong’s Shaw Library, which has a collection of over 760 film titles. Edwin has also worked on a number of Shaw’s blockbuster feature films.
-
-**Joe Ng** is a Senior Specialist at the Sound and Moving Image Lab at the National Archives of Singapore. He has 30 years’ experience in television broadcast and post-production. He has worked on film restoration for the Cathay Library in Singapore, as well as international television channels including Xinya Azio, Sony Pictures Entertainment, Disney and the Discovery Channel.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-____________________________________________________________
 ![](/images/AI%2019%20Apr_Eventbrite%20Web%20Banner.png)
 
 **Tue, 19 Apr 2022**
@@ -53,6 +27,28 @@ Sound can be considered as an intangible cultural heritage. It can reveal a soci
 **Dr Marcus Tan** is an Assistant Professor at the National Institute of Education, Nanyang Technological University. He is currently working with NAS to expand and develop SoundscapeSG as an archive of Singapore sounds. Dr Tan’s research specialisation includes sound studies and soundscapes in theatre. He also examines intercultural theatre and the politics of cultural practice and has published many books and journal articles in these areas. He is also the Secretary-General of the International Federation for Theatre Research (IFTR), convenor of the Music Theatre Working Group at IFTR, and the Associate Editor of the Journal of Interdisciplinary Voice Studies.
 
 **Lim Ting Li** is a supervising sound editor, re-recording mixer and sound designer. A multi-award winner for her work in sound design, she won the Verna Fields Award in Sound Editing at the Motion Picture Sound Editors Golden Reel Awards in 2014 and was also conferred the prestigious National Arts Council’s Young Artist Award in 2018.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
+![](/images/AI%20Jun_Eventbrite%20Web%20Banner.jpg)
+
+**Tue, 21 Jun 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-shawn-seah-seah-eu-chin-his-life-and-times-tickets-320624716157)
+
+### Archives Invites: Shawn Seah - Seah Eu Chin, His Life and Times
+
+One of Singapore’s prominent pioneers, Seah Eu Chin (1805–1883) was known as the king of gambier and pepper. He was also the founder of the Ngee Ann Kongsi. A Justice of the Peace, Seah brought order and stability in Singapore’s tumultuous early days by mediating during riots. Join Shawn Seah as he explores the life and times of his ancestor and his illustrious sons, Seah Liang Seah (1850–1925) and Seah Peck Seah (1857–1939), whose legacies have been immortalised in Singapore’s street names. Shawn will also share about relevant and useful NLB resources that have helped him in his research.
+
+### About the Speakers
+Shawn Seah is the author of “My Father’s Kampung: A History of Aukang and Punggol”, a finalist for Best Non-Fiction Title and a Top 10 Readers’ Choice of the Singapore Book Awards 2021. He is also the author of books on Seah Eu Chin and Seah Liang Seah. He has shared stories at the Peranakan Museum; Blackbox at Fort Canning Centre during the Singapore Bicentennial; and the National University of Singapore. He has also been part of the Singapore Heritage Festival and the Baba-Nyonya Literary Festival. Shawn holds an MSc in Economic History from the London School of Economics.
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives
