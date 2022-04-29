@@ -26,4 +26,4 @@ Tour schedules are subject to changes.
 
 ### GROUP VISITS
 
-For large group visits, please email enquiry@nlb.gov.sg
+For large group visits, please email enquiry@nlb.gov.sg.
