@@ -20,6 +20,12 @@ Note: If a Public Holiday falls on these days, there will be no tours.
 #### **Mandarin Tours**
 Saturday, 7 May 2022, 11.30am - 12.30pm
 Saturday, 14 May 2022, 11.30am - 12.30pm
+Saturday, 4 June 2022, 11.30am - 12.30pm
+Saturday, 18 June 2022, 11.30am - 12.30pm
+Saturday, 2 July 2022, 11.30am - 12.30pm
+Saturday, 16 July 2022, 11.30am - 12.30pm
+Saturday, 6 Aug 2022, 11.30am - 12.30pm
+Saturday, 20 Aug 2022, 11.30am - 12.30pm
 
 Tour schedules are subject to changes.
 
