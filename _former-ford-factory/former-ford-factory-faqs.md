@@ -16,7 +16,7 @@ Former Ford Factory is located at 351 Upper Bukit Timah Road, Singapore 588192.
 
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member.
  
-Admission for non-Citizens and non-Permanent Residents at $3 per entry.
+Admission for non-Citizens and non-Permanent Residents at $7 per entry.
 
 **4.	How do I get to Former Ford Factory?**
 
@@ -45,8 +45,6 @@ Email: enquiry@nlb.gov.sg
 **6.	Does Former Ford Factory offer guided tours for the public?**
 
 Join our walk-in tours led by volunteer guides to learn more about war and its legacies and discover the stories behind the rich collections on display.
-
-Due to the current COVID 19 restrictions, all our guided tours will remain temporarily unavailable till further notice.
 
 Visit our website https://corporate.nas.gov.sg/former-ford-factory/visit/tours/ for the latest tour schedules. 
 
