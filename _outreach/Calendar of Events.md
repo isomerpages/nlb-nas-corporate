@@ -100,3 +100,30 @@ Community histories unfold in this series that traces Singapore’s social past 
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
 
 ___________________________________________________________________
+![](/images/AU%20Jun_Eventbrite%20banner.jpg)
+
+**Thu, 30 Jun 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-stories-as-told-by-persons-living-with-dementia-tickets-327175178767)
+
+### Archives Unlocked: Stories as told by persons living with dementia
+
+During the COVID-19 pandemic, the Oral History Centre of Singapore, together with the Singapore University of Social Sciences and Dementia Singapore embarked on a meaningful journey to document the stories of eight persons living with dementia and their caregivers. The act of reminiscing is used to promote the wellbeing of the elderly. Through adapting oral history methodology,  these elderly are given the space to recollect, reflect, tell and record their days of growing up in Singapore. Come and listen to their tales of climbing Mount Faber, falling in love, dishing up their favourite Peranankan foods, raising children and making do with a failing memory.
+
+### About the Speakers
+
+Patricia  Lee is a Senior Oral History Specialist at the National Archives of Singapore. From the man-on-the street, to prisoners-of-war and feisty unionists, Patricia has more than a thousand hours of recorded interviews under her belt. She also designs and conducts customised oral history training workshops for public institutions on documenting corporate memories.
+
+Patricia champions the use of oral narratives to give meaning to one's identity. A trained facilitator in reminiscence arts in dementia care, her current research interest involves the use of adaptive oral history methodology in reminiscence work among the growing population of elderly in Singapore.
+
+### Guest Speaker
+
+Associate Professor Carol Ma is the Head of Gerontology Programmes (Master & PhD) at the Singapore University of Social Sciences. She is a strong advocate for and an active and passionate practitioner in service-learning and ageing. She takes the lead in curriculum development, community engagement and research in Gerontology and promotes transdisciplinary education to address ageing issues. She has led various ageing and service-learning projects such as the Elder Learning Development Project, Age-friendly Cities Project (accredited by WHO) and the Intergenerational Project on Health and Wellbeing. She is currently working on a project on reminiscence in dementia care with the National Archives of Singapore and Dementia Singapore.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
