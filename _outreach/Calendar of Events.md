@@ -60,6 +60,23 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
 
 ___________________________________________________________________
+![](/images/FA_Item4_FFFCS_2022%20-%20Calendar%20of%20Events.jpg)
+
+**19, 25 and 26 Jun 2022**
+
+**10.30 am – 12 pm or 2.30 pm – 4 pm (2 sessions per day)**
+
+**Former Ford Factory (351 Upper Bukit Timah Road, Singapore 588192)**
+
+To register, visit [Eventbrite](www.go.gov.sg/nlb-cs2022)
+
+### Memory Factory: A Storytelling x Immersive Trail Experience
+
+Celebrate Children’s Season with the National Library Board! Learn and have fun with us this June holidays as history comes alive at the Former Ford Factory. Don’t miss out on this storytelling experience and immersive trail, where children will embark on fact finding missions based on their assigned faction (Survivor or British Soldier). Join the session to learn more about the Japanese Occupation of Singapore!
+
+Suitable for children aged 7 to 12 years old.
+
+___________________________________________________________________
 ![](/images/AI%20Jun_Eventbrite%20Web%20Banner.jpg)
 
 **Tue, 21 Jun 2022**
