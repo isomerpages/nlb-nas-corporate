@@ -127,6 +127,7 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
 ___________________________________________________________________
 ![](/images/AU%205%20Jul_Eventbrite%20banner.jpg)
 
