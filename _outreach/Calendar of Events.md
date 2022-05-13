@@ -68,7 +68,7 @@ ___________________________________________________________________
 
 **Former Ford Factory (351 Upper Bukit Timah Road, Singapore 588192)**
 
-To register, visit [Eventbrite](www.go.gov.sg/nlb-cs2022)
+To register, visit [Eventbrite](https://www.eventbrite.com/cc/celebrate-childrens-season-with-nlb-349899?utm-campaign=social&utm-content=creatorshare&utm-medium=discovery&utm-term=odclsxcollection&utm-source=cp&aff=escb)
 
 ### Memory Factory: A Storytelling x Immersive Trail Experience
 
@@ -98,3 +98,5 @@ Community histories unfold in this series that traces Singapore’s social past 
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
