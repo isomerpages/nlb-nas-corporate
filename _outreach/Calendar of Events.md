@@ -127,3 +127,27 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+___________________________________________________________________
+![](/images/AU%205%20Jul_Eventbrite%20banner.jpg)
+
+**Tue, 5 Jul 2022**
+
+**6.30pm – 7.30pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-goh-eck-kheng-singapore-then-and-now-tickets-337999123477)
+
+### Archives Invites: Goh Eck Kheng - Singapore Then and Now
+
+The book “Singapore: Then & Now” by Ray Tyers was first published in 1976. It documents Singapore’s changing landscapes by presenting old and new photos of Singapore sites side-by-side. New editions of the book were published in 1993 and 2018 to include updated views to the ones featured by Tyers. The book illustrates the dramatic evolution of our city state’s built environment.
+
+Join Landmark Books’ publisher, Goh Eck Kheng, as he introduces Ray Tyers and how Tyers self-published the first edition of the book. Eck Kheng will also share the challenges in updating the new editions and present images from the book that reflect the island’s drastic changes.
+
+### About the Speakers
+
+Goh Eck Kheng is the founder, editor, book designer and publisher of Landmark Books – Singapore, a boutique publisher known for being a forerunner in publishing Singapore writers. He is the publisher of the 1993 and 2018 editions of Ray Tyers’ “Singapore: Then & Now”. He is also the author of “Friends: A Counting Book” and “Jun and the Octopus”. He was previously a board member of the Media Development Authority and chairman of the Speak Good English Movement committee.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
