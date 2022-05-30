@@ -10,56 +10,6 @@ description: LATEST EVENTS
 
 ___________________________________________________________________
 
-![](/images/AI%20Eventbrite%20(Talk%20on%2010%20May%202022).jpg)
-
-**Tue, 10 May 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-phan-ming-yen-music-as-protection-collaboration-in-war-tickets-267365075137)
-
-### Archives Invites: Phan Ming Yen - Better than a Gun or Revolver – Music as Protection and Collaboration in Wartime Singapore
-
-Presented by writer, producer and arts manager Phan Ming Yen, this talk explores the role of music during the Japanese Occupation of Singapore (1942–1945) and how it might have been a form of protection and means of survival for many locals. Find out how music provided comfort in times of crisis and discover the almost ironic circumstances of the birth of the Syonan Symphony Orchestra.
-
-### About the Speakers
-
-Phan Ming Yen is a writer, producer and arts manager and also the Chief Operating Officer of The Rice Company Limited.
-
-Phan’s articles about the history of music in 19th- and early 20th-century Singapore have appeared in “Cultural Connections”, the journal of the Culture Academy of the Ministry of Culture, Community and Youth and “Singapore Soundscape”. He is currently researching the role of music during wartime and recently published an article in “Cultural Connections” on the Syonan Symphony Orchestra during the Japanese Occupation of Singapore.
-
-Phan’s fiction and poetry have been published online in “Quarterly Literary Review Singapore” and by Ethos Books.
-
-### About Archives Invites
-Community histories unfold in this series that traces Singapore’s social past with help from the archives
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-___________________________________________________________________
-
-![](/images/AU%20May_Eventbrite%20Web%20Banner.jpg)
-
-**Thu, 26 May 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-singapore-of-yesteryear-through-sights-and-voices-tickets-306345496627)
-
-### Archives Unlocked: Singapore of Yesteryear Through Sights and Voices
-
-Ever wondered how much has Singapore changed over the years? Journey back in time as we uncover Singapore of yesteryear through archival records of old but familiar places. This talk will present records ranging from photographs to oral history accounts that will bring history closer to us as we look back at these places from the past.
-
-### About the Speakers
-Lu Wenshi is the Senior Manager of Archives Services at the National Archives of Singapore. She appreciates the importance of archival records in making history more accessible to everyone. Photographs, posters and oral history accounts are among her favourite collections at the Archives.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-___________________________________________________________________
 ![](/images/FA_Item4_FFFCS_2022%20-%20Calendar%20of%20Events.jpg)
 
 **19, 25 and 26 Jun 2022**
@@ -133,7 +83,7 @@ ___________________________________________________________________
 
 **Tue, 5 Jul 2022**
 
-**6.30pm – 7.30pm**
+**6.00pm – 7.00pm**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-goh-eck-kheng-singapore-then-and-now-tickets-337999123477)
 
