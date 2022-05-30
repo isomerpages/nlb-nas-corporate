@@ -58,7 +58,7 @@ ___________________________________________________________________
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-stories-as-told-by-persons-living-with-dementia-tickets-327175178767)
 
-### Archives Unlocked: Stories as told by persons living with dementia
+### Archives Unlocked: Stories as Told by Persons Living with Dementia
 
 During the COVID-19 pandemic, the Oral History Centre of Singapore, together with the Singapore University of Social Sciences and Dementia Singapore embarked on a meaningful journey to document the stories of eight persons living with dementia and their caregivers. The act of reminiscing is used to promote the wellbeing of the elderly. Through adapting oral history methodology,  these elderly are given the space to recollect, reflect, tell and record their days of growing up in Singapore. Come and listen to their tales of climbing Mount Faber, falling in love, dishing up their favourite Peranankan foods, raising children and making do with a failing memory.
 
