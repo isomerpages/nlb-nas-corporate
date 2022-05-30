@@ -102,3 +102,81 @@ Community histories unfold in this series that traces Singapore’s social past 
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
+![](/images/AU%2014%20Jul_Eventbrite%20banner.jpg)
+
+**Thu, 14 Jul 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-grassroots-movement-in-singapore-a-personal-account-tickets-338000778427)
+
+### Archives Unlocked: Grassroots Movement in Singapore – A Personal Account
+
+Grassroots organisations use collective action at the local level to effect changes at the local and national levels. They are associated with bottom-up decision making and encourage community members to contribute by taking responsibility and action for their communities.
+
+While much has been written about the history and functions of the different types of grassroots organisations in Singapore, less is known about the personal experiences of those involved.
+
+Started in the mid-2000s, this oral history project allows individual grassroots leaders to express how and why they joined the movement, share their passion, challenges and experiences in serving residents, and give first-hand accounts of how grassroots organisations work and developed over time. This project will also document the lessons learnt by grassroots leaders in Singapore’s changing social, economic, political and cultural environment.
+
+### About the Speakers
+**Mrs Kiang-Koh Lai Lin** is a consultant at the National Archives of Singapore (NAS). She was a former director at the National Library Board, heading its reading initiatives. Since joining the Oral History Centre at NAS, Mrs Kiang-Koh has covered extensively grassroots leaders’ interviews. In the past two years, she has also been involved in the recruitment and training of community volunteer interviewers.
+
+**Kevin Khoo** is a Senior Manager (Documentation) at the Oral History Centre. He is an experienced Archivist with a background in research, curation and corporate planning.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+____________________________________________________________________
+![](/images/AU%2011%20Aug_Eventbrite%20banner.jpg)
+
+**Thu, 11 Aug 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-oral-histories-of-singapores-english-pop-music-pioneers-tickets-351193367817)
+
+### Archives Unlocked: Oral Histories of Singapore’s English Pop Music Pioneers
+
+The passing of deejay, writer and singer Chris Ho (aka X’ Ho) in September 2021 sent a jolt through the music and music-loving community in Singapore. In this session, Senior Specialist (Oral History) Mark Wong revisits oral history interviews recorded with some of Singapore’s English-medium popular music pioneers over the years, in appreciation of the joys and struggles of the “pop life” in Singapore.
+
+### About the Speakers
+
+Mark Wong is a Senior Specialist (Oral History) at the Oral History Centre (OHC), National Archives of Singapore. His interviews cover the Japanese Occupation, education, sports and the performing arts, and he is presently leading the OHC’s project on Singapore’s COVID-19 experiences. Mark is also Vice-President of the International Oral History Association.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+____________________________________________________________________
+![](/images/AU%206%20Sep_Eventbrite%20banner.jpg)
+
+**Tue, 6 Sep 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-rediscovering-value-of-human-touch-in-zoom-bified-world-tickets-351201923407)
+
+### Archives Unlocked: Face-to-Face, Breath-to-Breath - Rediscovering the Value of Human Touch in a Zoom-bified World
+
+Since Singapore’s Circuit Breaker in 2020, most of us have endured months of physical separation from friends and family, connected primarily through screens and other technologies. Come listen to excerpts of accounts collected by the Oral History Centre (OHC), which document how this separation has affected individuals from all walks of life, and how we as a people have tried to take it in our stride and carry on.  Join OHC Specialists Sheerin Mustapa and John Choo as they explore if digitalisation can truly replace our being together.
+
+### About the Speakers
+
+Sheerin Mustapa is a Specialist at the Oral History Centre, National Archives of Singapore. Her interviews focus on the economic, social, and cultural aspects of the local ethnic Malay community.
+
+John Choo is an Assistant Specialist at the Oral History Centre, National Archives of Singapore. His conversational partners have included religious practitioners and those in the charity sector – people for whom physical presence plays an important role in their vocation.
+
+Sheerin and John are members of an OHC team presently capturing the stories of ordinary people who are living through the pandemic for future generations, as part of the wider NLB Collecting Today for Tomorrow: Documenting COVID-19 in Singapore initiative.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
