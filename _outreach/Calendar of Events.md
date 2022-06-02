@@ -180,3 +180,26 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+____________________________________________________________________
+
+![](/images/AI%20Banner_15%20Sep%202022.jpg)
+
+**Thu, 15 Sep 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-dr-nick-aplin-sport-in-singapore-and-the-malaya-cup-tickets-354524441147)
+
+### Archives Invites: Dr Nick Aplin – Sport in Singapore and the Malaya Cup
+
+Join Dr Nick Aplin, Deputy Director of Sports Heritage at Sport Singapore, as he examines the development of sport in colonial Singapore through the game of football. The Malaya Cup was introduced in 1921 and was the catalyst for the creation of a national game. Players who honed their football skills in Singapore went on to represent China at the 1936 Olympic Games. Even during the Japanese Occupation of Singapore, the game was sustained, enabling young players to thrive post-war in the late 1940s and 1950s. Together with badminton, weightlifting, swimming and water polo, football helped to create a golden age of sport in Singapore. Many Malaya Cup heroes have been forgotten, and their contributions to Singapore sport should be acknowledged.
+
+### About the Speakers
+
+Dr Nick Aplin is the Deputy Director of the new Sport Heritage Division at Sport Singapore and a Singapore permanent resident. He was involved in PE (physical education) teacher education at the National Institute of Education at Nanyang Technological University until 2020 when he made the transition to his current role. Dr Aplin is the author of “Sport in Singapore: The Colonial Legacy” (2019) and his new book “Sport in Singapore: The Rocky Road to Kallang Park” is slated to be released later this year.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
