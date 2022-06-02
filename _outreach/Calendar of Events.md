@@ -190,7 +190,7 @@ ___________________________________________________________________
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-dr-nick-aplin-sport-in-singapore-and-the-malaya-cup-tickets-354524441147)
 
-### Archives Invites: Dr Nick Aplin – Sport in Singapore and the Malaya Cup
+### Archives Invites: Dr Nick Aplin – Sport in Singapore: Forgotten Heroes and the Malaya Cup
 
 Join Dr Nick Aplin, Deputy Director of Sports Heritage at Sport Singapore, as he examines the development of sport in colonial Singapore through the game of football. The Malaya Cup was introduced in 1921 and was the catalyst for the creation of a national game. Players who honed their football skills in Singapore went on to represent China at the 1936 Olympic Games. Even during the Japanese Occupation of Singapore, the game was sustained, enabling young players to thrive post-war in the late 1940s and 1950s. Together with badminton, weightlifting, swimming and water polo, football helped to create a golden age of sport in Singapore. Many Malaya Cup heroes have been forgotten, and their contributions to Singapore sport should be acknowledged.
 
