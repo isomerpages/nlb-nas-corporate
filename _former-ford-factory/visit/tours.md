@@ -13,7 +13,7 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 #### **English Tours**
 Saturday & Sunday, 11.00am - 12.00pm & 3.30pm - 4.30pm
 
-No Guided Tours on 19 Jun, 25 Jun and 26 Jun.
+No Guided Tours on 19 Jun 2022, 25 Jun 2022 and 26 Jun 2022.
 
 Note: If a Public Holiday falls on these days, there will be no tours.
 
