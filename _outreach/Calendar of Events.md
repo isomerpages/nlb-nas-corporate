@@ -56,6 +56,29 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
 
 ____________________________________________________________________
+![](/images/AI%20-%2027%20Aug%202022.jpg)
+
+**Sat, 27 Aug 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-telling-a-tale-about-hainanese-rod-puppetry-tickets-379622038737?aff=ebdssbdestsearch)
+
+### Archives Invites: Telling a Tale about Hainanese Rod Puppetry
+
+Have you ever heard or seen Hainanese rod puppets? Did you know that there was a Hainanese enclave in Bugis where these puppet shows were once staged? Drawing upon archival sources and more than a decade of research, Dr Caroline Chia shares the untold stories of Hainanese rod puppetry in Singapore for nearly a century.
+
+### About the Speakers
+
+Dr Caroline Chia has spent about 15 years researching traditional Chinese theatre, including opera and puppetry. Despite its presence in Singapore for close to a century, little is known about traditional Chinese puppetry. Caroline believes there is great urgency to document and heighten awareness of this art before it disappears.
+
+### About Curiocity Encounters
+
+This programme is held as part of Curiocity Encounters, which draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories. Find out more at [curiocity.nlb.gov.sg](https://curiocity.nlb.gov.sg/)
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+_____________________________________________________________________
 ![](/images/AU%206%20Sep_Eventbrite%20banner.jpg)
 
 **Tue, 6 Sep 2022**
