@@ -5,34 +5,6 @@ description: LATEST EVENTS
 ---
 ### LATEST EVENTS
 
-![](/images/AU%2014%20Jul_Eventbrite%20banner.jpg)
-
-**Thu, 14 Jul 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-grassroots-movement-in-singapore-a-personal-account-tickets-338000778427)
-
-### Archives Unlocked: Grassroots Movement in Singapore – A Personal Account
-
-Grassroots organisations use collective action at the local level to effect changes at the local and national levels. They are associated with bottom-up decision making and encourage community members to contribute by taking responsibility and action for their communities.
-
-While much has been written about the history and functions of the different types of grassroots organisations in Singapore, less is known about the personal experiences of those involved.
-
-Started in the mid-2000s, this oral history project allows individual grassroots leaders to express how and why they joined the movement, share their passion, challenges and experiences in serving residents, and give first-hand accounts of how grassroots organisations work and developed over time. This project will also document the lessons learnt by grassroots leaders in Singapore’s changing social, economic, political and cultural environment.
-
-### About the Speakers
-**Mrs Kiang-Koh Lai Lin** is a consultant at the National Archives of Singapore (NAS). She was a former director at the National Library Board, heading its reading initiatives. Since joining the Oral History Centre at NAS, Mrs Kiang-Koh has covered extensively grassroots leaders’ interviews. In the past two years, she has also been involved in the recruitment and training of community volunteer interviewers.
-
-**Kevin Khoo** is a Senior Manager (Documentation) at the Oral History Centre. He is an experienced Archivist with a background in research, curation and corporate planning.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-____________________________________________________________________
 ![](/images/AU%2011%20Aug_Eventbrite%20banner.jpg)
 
 **Thu, 11 Aug 2022**
