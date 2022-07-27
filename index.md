@@ -16,16 +16,6 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
-      title: "New Light on an Old Tale Exhibition "
-      subtitle: Features
-      description: "“New Light on an Old Tale” is an exhibition and a series of
-        related programmes to mark the 80th Anniversary of the Fall of
-        Singapore. "
-      button: "Learn more here "
-      url: https://corporate.nas.gov.sg/outreach/calendar-of-events/
-      image: /images/FOS80%20AO%20Banner.jpg
-      alt: New Light on an Old Tale
-  - infopic:
       title: Old School TV
       subtitle: Features
       description: A selection of Educational Television (ETV) programmes produced by
