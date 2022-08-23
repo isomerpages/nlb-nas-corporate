@@ -13,23 +13,25 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 #### **English Tours**
 Saturday & Sunday, 11.00am - 12.00pm & 3.30pm - 4.30pm
 
-No Guided Tours on 19 Jun 2022, 25 Jun 2022 and 26 Jun 2022.
-
 Note: If a Public Holiday falls on these days, there will be no tours.
 
 #### **Mandarin Tours**
 
-Saturday, 4 June 2022, 11.30am - 12.30pm
+Saturday, 3 Sep 2022, 11.30am - 12.30pm
 
-Saturday, 18 June 2022, 11.30am - 12.30pm
+Saturday, 24 Sep 2022, 11.30am - 12.30pm
 
-Saturday, 2 July 2022, 11.30am - 12.30pm
+Saturday, 8 Oct 2022, 11.30am - 12.30pm
 
-Saturday, 16 July 2022, 11.30am - 12.30pm
+Saturday, 22 Oct 2022, 11.30am - 12.30pm
 
-Saturday, 6 Aug 2022, 11.30am - 12.30pm
+Saturday, 5 Nov 2022, 11.30am - 12.30pm
 
-Saturday, 20 Aug 2022, 11.30am - 12.30pm
+Saturday, 19 Nov 2022, 11.30am - 12.30pm
+
+Saturday, 3 Dec 2022, 11.30am - 12.30pm
+
+Saturday, 17 Dec 2022, 11.30am - 12.30pm
 
 Tour schedules are subject to changes.
 
