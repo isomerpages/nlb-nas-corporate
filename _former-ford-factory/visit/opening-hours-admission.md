@@ -20,14 +20,9 @@ For foreign visitors : $7 per person (After 7% GST)
 **Our** **gallery** **can** **be** **very** **cold**. **Please** **bring** **along** 
 **a** **shawl**, **sweater**, **cardigan**, **jacket** **etc.** **to** **keep** **warm**.
 
-In line with the expansion of Vaccination Differentiated Safe Management Measures announced by the MTF, only the following visitors may visit the Former Ford Factory in group sizes of up to 10 persons with effect from 29 March 2022:
 
-1.  Individuals who are fully vaccinated against COVID-19.
-2. Individuals who have recovered from COVID-19. 
-3. Medically ineligible individuals for COVID-19 vaccines. 
-4. Children aged 12 and below.
-5. Unvaccinated individuals who have a valid Pre-Event Test (PET) showing a negative result.
-6. Mask wearing is required indoors, and optional outdoors. However individuals are encouraged to wear masks when outdoors for personal protection, especially in crowded areas.
+
+Mask wearing is optional. However individuals are encouraged to wear masks for personal protection, especially in crowded areas.
 
 ### CONTACT
 
