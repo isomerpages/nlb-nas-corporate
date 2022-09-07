@@ -5,78 +5,6 @@ description: LATEST EVENTS
 ---
 ### LATEST EVENTS
 
-![](/images/AU%2011%20Aug_Eventbrite%20banner.jpg)
-
-**Thu, 11 Aug 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-oral-histories-of-singapores-english-pop-music-pioneers-tickets-351193367817)
-
-### Archives Unlocked: Oral Histories of Singapore’s English Pop Music Pioneers
-
-The passing of deejay, writer and singer Chris Ho (aka X’ Ho) in September 2021 sent a jolt through the music and music-loving community in Singapore. In this session, Senior Specialist (Oral History) Mark Wong revisits oral history interviews recorded with some of Singapore’s English-medium popular music pioneers over the years, in appreciation of the joys and struggles of the “pop life” in Singapore.
-
-### About the Speakers
-
-Mark Wong is a Senior Specialist (Oral History) at the Oral History Centre (OHC), National Archives of Singapore. His interviews cover the Japanese Occupation, education, sports and the performing arts, and he is presently leading the OHC’s project on Singapore’s COVID-19 experiences. Mark is also Vice-President of the International Oral History Association.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-____________________________________________________________________
-![](/images/AI%20-%2027%20Aug%202022.jpg)
-
-**Sat, 27 Aug 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-telling-a-tale-about-hainanese-rod-puppetry-tickets-379622038737?aff=ebdssbdestsearch)
-
-### Archives Invites: Telling a Tale about Hainanese Rod Puppetry
-
-Have you ever heard or seen Hainanese rod puppets? Did you know that there was a Hainanese enclave in Bugis where these puppet shows were once staged? Drawing upon archival sources and more than a decade of research, Dr Caroline Chia shares the untold stories of Hainanese rod puppetry in Singapore for nearly a century.
-
-### About the Speakers
-
-Dr Caroline Chia has spent about 15 years researching traditional Chinese theatre, including opera and puppetry. Despite its presence in Singapore for close to a century, little is known about traditional Chinese puppetry. Caroline believes there is great urgency to document and heighten awareness of this art before it disappears.
-
-### About Curiocity Encounters
-
-This programme is held as part of Curiocity Encounters, which draws on the Singapore collections from the National Library Board and its partners, enabling them to be accessed outside of the libraries and archives in innovative ways. Presented in varied formats both in-person and online, we invite you to be inspired, to discover, learn and engage with our island’s stories. Find out more at [curiocity.nlb.gov.sg](https://curiocity.nlb.gov.sg/)
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-_____________________________________________________________________
-![](/images/AU%206%20Sep_Eventbrite%20banner.jpg)
-
-**Tue, 6 Sep 2022**
-
-**6pm – 7pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-rediscovering-value-of-human-touch-in-zoom-bified-world-tickets-351201923407)
-
-### Archives Unlocked: Face-to-Face, Breath-to-Breath - Rediscovering the Value of Human Touch in a Zoom-bified World
-
-Since Singapore’s Circuit Breaker in 2020, most of us have endured months of physical separation from friends and family, connected primarily through screens and other technologies. Come listen to excerpts of accounts collected by the Oral History Centre (OHC), which document how this separation has affected individuals from all walks of life, and how we as a people have tried to take it in our stride and carry on.  Join OHC Specialists Sheerin Mustapa and John Choo as they explore if digitalisation can truly replace our being together.
-
-### About the Speakers
-
-Sheerin Mustapa is a Specialist at the Oral History Centre, National Archives of Singapore. Her interviews focus on the economic, social, and cultural aspects of the local ethnic Malay community.
-
-John Choo is an Assistant Specialist at the Oral History Centre, National Archives of Singapore. His conversational partners have included religious practitioners and those in the charity sector – people for whom physical presence plays an important role in their vocation.
-
-Sheerin and John are members of an OHC team presently capturing the stories of ordinary people who are living through the pandemic for future generations, as part of the wider NLB Collecting Today for Tomorrow: Documenting COVID-19 in Singapore initiative.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
 ___________________________________________________________________
 ![](/images/AI%20Banner_15%20Sep%202022.jpg)
 
@@ -96,6 +24,60 @@ Dr Nick Aplin is the Deputy Director of the new Sport Heritage Division at Sport
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
+![](/images/AU%20Banner%20for%2020%20Oct%202022.jpg)
+
+**Thu, 20 October 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-rio-furqan-saini-role-of-emotion-in-fashion-image-making-tickets-405029302547)
+
+### Archives Invites: Rio Furqan Saini –Role of Emotion in Fashion Image-Making
+
+Emotions are an indelible part of the human condition but they are often not a central part of canon or curricula, much less in pedagogies for fashion image-making. Geographies of Emotion (GOE) is an exploratory journey into the role of emotion in fashion image-making, constructed through a relational transformative pedagogy in which the research is grounded. Supporting this research are case studies gleaned from student projects that create emotive video works of the same name and fashion imagery from local fashion magazines. 
+
+The objective of this study is to consider how GOE decentres the fashion image as one that is merely surface-level and repositions it as a vehicle for artmaking that engages emotions. It is facilitated through a broader pedagogical strategy that not only imbues students with technical competencies, but also calls them to embrace emotion as a way to make and re-make meanings about the world and their place within it through the fashion image.
+
+### About the Speakers
+
+Rio Furqan Saini is an award-winning multi-hyphenate polymath who wears multiple creative hats. Creative consultant, visual artist, fashion director and fashion educator, his work has led him to create evocative works that engage and challenge preconceptions of the fashion image. With 20 years of experience under his belt, his main practice and philosophy of his craft of image-making in fashion is the juxtaposition of outward visual spectacle with introspective, intimate storytelling.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
+![](/images/AU%20Talk%20for%2031%20Oct%202022.jpg)
+
+**Mon, 31 October 2022**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-broadcasting-in-sg-stories-from-tv-archives-since-1990s-tickets-407295029397)
+
+### Archives Invites: Broadcasting in SG –Stories from TV Archives Since 1990s
+
+### **那些年，我们一起追的节目2**
+
+过去的三十年里，新加坡广播电视经历多次改革，如1994年新加坡广播局私营化和2000年电视媒体自由化。继“那些年，我们一起追的节目”，彭莱娣博士将在这次的讲座中探索新加坡广播电视自上世纪90年代以来的发展与改革。她也将通过国家档案馆的声像档案，带您重温当年脍炙人口的好节目。本讲座将以华语进行。
+
+The Singapore media landscape has undergone various transformations since the mid-1990s. Join Dr Phang Lai Tee for her second talk on Singapore’s broadcasting history, as told from the audiovisual archives in the National Archives. The talk in Mandarin will trace the transition of broadcasting in Singapore from a government function to a privatised service, and the impact of the media liberalisation in the early 2000s. **Programme will be conducted in Mandarin.**
+
+### About the Speakers
+
+彭莱娣博士是新加坡国家档案馆高级副馆长，负责范围包括保存，发掘和推广声像档案和口述历史馆藏。彭博士年少时爱听广播，视档案馆职责为理想工作。
+
+Dr Phang Lai Tee is the Senior Deputy Director of the National Archives of Singapore. She oversees the collection, preservation and provision of access to the audiovisual archives and oral history collection. An avid radio listener during her school years, she views her archival work as an ideal profession.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
