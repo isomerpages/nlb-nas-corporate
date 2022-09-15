@@ -13,6 +13,9 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 #### **English Tours**
 Saturday & Sunday, 11.00am - 12.00pm & 3.30pm - 4.30pm
 
+**No English Tour on Saturday 1st October 2022,
+11.00am - 12.00pm.**
+
 Note: If a Public Holiday falls on these days, there will be no tours.
 
 #### **Mandarin Tours**
