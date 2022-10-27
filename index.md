@@ -19,7 +19,7 @@ sections:
       title: "Stories of Yesteryear: Sands of Time"
       subtitle: Features
       description: Explore Singapore’s history through paper documents, oral history
-        interviews, and audiovisual recordings from the collections.
+        interviews, and audiovisual recordings from NLB's collections.
       button: View Sands of Time
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Sands-of-Time-S1-325072
       image: /images/meWATCH - Sands of Time 960-x-320.jpg
