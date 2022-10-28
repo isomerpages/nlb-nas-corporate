@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: "Stories of Yesteryear: Sands of Time"
+      subtitle: Features
+      description: Explore Singapore’s history through paper documents, oral history
+        interviews, and audiovisual recordings from NLB's collections.
+      button: View Sands of Time
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Sands-of-Time-S1-325072
+      image: /images/meWATCH - Sands of Time 960-x-320.jpg
+      alt: Sands of Time
+  - infopic:
       title: Old School TV
       subtitle: Features
       description: A selection of Educational Television (ETV) programmes produced by
