@@ -22,11 +22,16 @@ and Saturday 31 Dec 2022.**
 
 #### **Mandarin Tours**
 
-Saturday, 19 Nov 2022, 11.30am - 12.30pm
-
-Saturday, 3 Dec 2022, 11.30am - 12.30pm
-
 Saturday, 17 Dec 2022, 11.30am - 12.30pm
+
+No Tours in Jan 2023.
+
+Saturday 4 Feb 2023 11.30am - 12.30pm
+Saturday 18 Feb 2023 11.30am - 12.30pm
+Saturday 4 Mar 2023 11.30am - 12.30pm
+Saturday 18 Mar 2023 11.30am - 12.30pm
+Saturday 8 Apr 2023 11.30am - 12.30pm
+Saturday 22 Apr 2023 11.30am - 12.30pm
 
 Tour schedules are subject to changes.
 
