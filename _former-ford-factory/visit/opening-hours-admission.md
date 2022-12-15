@@ -17,6 +17,7 @@ Free admission for Citizens, Permanent Residents, children aged 6 and below, Fri
 and one caregiver.
 
 For foreign visitors : $7 per person (After 7% GST)
+
 For foreign visitors : $7.06 per person
 (After 8% GST) with immediate effect 
 from 1 Jan 2023.
