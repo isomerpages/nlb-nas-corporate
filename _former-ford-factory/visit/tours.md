@@ -19,6 +19,8 @@ will be no tours.
 **No English Tours on Saturday 24 Dec 2022
 and Saturday 31 Dec 2022.**
 
+**No English Tours on Saturday 21 Jan 2023,
+28 Jan 2023 & 29 Jan 2023.**
 
 #### **Mandarin Tours**
 
