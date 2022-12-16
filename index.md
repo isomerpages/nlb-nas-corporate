@@ -80,5 +80,14 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: The Time Travelling Trio
+      subtitle: Features
+      description: Join us to rediscover classic games, snacks and places from
+        Singapore's past!
+      button: Watch now on MeWatch
+      url: https://www.mewatch.sg/
+      image: /images/Time Travelling Trio banner.jpg
+      alt: The Time Travelling Trio
 notification: "\n"
 ---
