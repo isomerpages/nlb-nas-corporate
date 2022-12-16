@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: The Time Travelling Trio
+      subtitle: Features
+      description: Join us to rediscover classic games, snacks and places from
+        Singapore's past!
+      button: Watch now on MeWatch
+      url: https://www.mewatch.sg/
+      image: /images/Time Travelling Trio banner.jpg
+      alt: The Time Travelling Trio
+  - infopic:
       title: "Stories of Yesteryear: Sands of Time"
       subtitle: Features
       description: Explore Singapore’s history through paper documents, oral history
@@ -80,14 +89,5 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: The Time Travelling Trio
-      subtitle: Features
-      description: Join us to rediscover classic games, snacks and places from
-        Singapore's past!
-      button: Watch now on MeWatch
-      url: https://www.mewatch.sg/
-      image: /images/Time Travelling Trio banner.jpg
-      alt: The Time Travelling Trio
 notification: "\n"
 ---
