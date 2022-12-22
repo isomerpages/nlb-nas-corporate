@@ -20,7 +20,7 @@ sections:
       subtitle: Features
       description: Join us to rediscover classic games, snacks and places from
         Singapore's past!
-      button: Watch now on MeWatch
+      button: View The Time Travelling Trio
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
       image: /images/Time Travelling Trio banner.jpg
       alt: The Time Travelling Trio
