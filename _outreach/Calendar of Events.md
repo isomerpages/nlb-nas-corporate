@@ -31,6 +31,7 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
 
 ___________________________________________________________________
+
 ![](/images/Calendar%20of%20Events/AI%2014%20Feb%202023.png)
 
 **Tue, 14 February 2023**
