@@ -12,6 +12,8 @@ third_nav_title: Visit
 **Closed on Mondays**<br>
 Open during Public Holidays except on the first day of Chinese New Year.
 
+**Closed on Sunday 22 Jan 2023 (1st Day of Chinese New Year).**
+
 **ADMISSION**<br>
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member, Persons with disabilities (PWDs)
 and one caregiver.
