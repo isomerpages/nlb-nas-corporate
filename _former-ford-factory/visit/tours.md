@@ -16,14 +16,11 @@ Saturday & Sunday, 11.00am - 12.00pm & 3.30pm - 4.30pm
 Note: If a Public Holiday falls on these days, there
 will be no tours.
 
-**We are closed on Sunday 22 Jan 2023.**
+**No English Tour on Saturday 18 Feb 2023,
+11.00am.**
 
-**No English Tours on Saturday 21 Jan 2023,
-28 Jan 2023 & 29 Jan 2023.**
 
 #### **Mandarin Tours**
-
-No Tours in Jan 2023.
 
 Saturday 4 Feb 2023 11.30am - 12.30pm
 
