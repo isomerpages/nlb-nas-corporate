@@ -24,8 +24,6 @@ will be no tours.
 
 Saturday 4 Feb 2023 11.30am - 12.30pm
 
-Saturday 18 Feb 2023 11.30am - 12.30pm
-
 Saturday 4 Mar 2023 11.30am - 12.30pm
 
 Saturday 18 Mar 2023 11.30am - 12.30pm
