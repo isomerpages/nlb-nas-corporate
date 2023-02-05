@@ -6,31 +6,6 @@ description: LATEST EVENTS
 ### LATEST EVENTS
 
 ___________________________________________________________________
-![](/images/Calendar%20of%20Events/AU%2031%20Jan%202023.jpg)
-
-**Tue, 31 January 2023**
-
-**6pm – 7pm**
-
-Register now via [[Eventbrite]](https://www.eventbrite.sg/e/archives-unlocked-different-lives-of-two-buildings-in-pre-war-singapore-tickets-464095902337)
-
-### Archives Unlocked: Different Lives of Two Buildings in Pre-War Singapore
-
-Records in a building plan collection are often described according to their time period, location or building owners. But what about – in the case of attractions or buildings that were open to the public – how long they were operational? Join Archivist Yap Jo Lin as she looks at two building projects from pre-war Singapore that had very different histories.
-
-Hint: One was a department store in the heart of Raffles Place and the other was a sporting ground near Macpherson.
-
-### About the Speaker
-
-Yap Jo Lin is a Senior Archivist at the National Archives of Singapore, where she manages the archives’ collection of building plans.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
-___________________________________________________________________
 
 ![](/images/Calendar%20of%20Events/AI%2014%20Feb%202023.png)
 
@@ -108,3 +83,56 @@ Community histories unfold in this series that traces Singapore’s social past 
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
+___________________________________________________________________
+![](/images/Eventbrite%20Web%20Banner.jpg)
+
+**Thu, 2 March 2023**
+
+**6pm – 7pm**
+
+Register now via [[Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-in-their-own-voices-preparing-for-war-in-singapore-tickets-507423225527)]
+
+### Archives Unlocked: In Their Own Voices – Preparing for War in Singapore
+
+Before the imminent fall of Singapore in 1942, locals prepared by stockpiling food, building air raid shelters and volunteering in civil defence units. Listen to their accounts which are a part of the Oral History Centre’s trove of oral history interviews.
+
+### About the Speaker
+Christabel Khoo is an Assistant Archivist with the Records Management department at the National Archives of Singapore.
+
+Mark Wong is a Senior Specialist (Oral History) at the Oral History Centre, National Archives of Singapore, where he leads the oral history project on Singapore’s experiences with COVID-19. He is also Vice President of the International Oral History Association.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this monthly series of talks, as we unlock stories of our nation through the archives’ collections.
+
+### About "Defending the Little Red Dot"
+The responsibility of defending a nation rests on its people. Every year, Singapore commemorates Total Defence Day on 15 February, which marks the fall of Singapore in 1942. For this year’s Total Defence Day, the National Library Board presents Defending the Little Red Dot, a campaign packed with talks, book displays and film screenings, highlighting stories of resistance and resilience during the Japanese Occupation, and the importance of preparedness in the digital age.
+
+**Check out other programmes** [here](https://www.eventbrite.sg/cc/defending-the-little-red-dot-1506639).
+
+**Explore content on Japanese Occupation** [here](https://learning.nlb.gov.sg/singapore/adults/content-japanese-occupation/).
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+_________________________________________________________________
+![](/images/AI%20Mar%202023_Eventbrite%20Web%20Banner.jpg)
+
+**Tue, 28 March 2023**
+
+**6pm – 7pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-dr-imran-bin-tajudeen-new-findings-on-town-malays-in-sg-tickets-518404691387)
+
+### Archives Invites: Dr Imran bin Tajudeen -New Findings on Town Malays in SG
+
+Join Dr Imran bin Tajudeen as he highlights fresh research into Malay organisations in Singapore using both newspaper articles and archival records. He will explore the kinds of associations that were formed, their locations, activities, and the debates that occurred ranging from exhortations for social upliftment and unity, to contestations over ethnicity and advocacy for changes to the colony's policies. These findings offer new perspectives on the civic life of the Town Malays in colonial Singapore, the personalities involved, the historical use of the term Peranakan, the range of Muslim associations, and the connections across Malay and non-Malay groups in colonial Singapore across time.
+
+### About the Speaker
+Dr Imran bin Tajudeen is a Senior Lecturer at the Department of Malay Studies and the Department of Communications and New Media at the National University of Singapore. He teaches topics on identity and representation through the arts, urban history, and built cultural heritage in Singapore and maritime Southeast Asia/ the Malay World. His publications and research focus on cultural encounters through architecture across the longue durée, and examine the vernacular city and its heritage tropes.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+_________________________________________________________________
