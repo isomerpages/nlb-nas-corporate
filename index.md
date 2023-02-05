@@ -16,6 +16,16 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Stories From BiblioAsia
+      subtitle: Features
+      description: All four videos are based on essays previously published in
+        BiblioAsia, a publication that focuses on the history and heritage of
+        Singapore.
+      button: Stories From BiblioAsia
+      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Stories-from-BiblioAsia-351417
+      image: /images/Stories from Biblioasia.jpg
+      alt: Stories From BiblioAsia
+  - infopic:
       title: The Time Travelling Trio
       subtitle: Features
       description: Join us to rediscover classic games, snacks and places from
@@ -64,18 +74,6 @@ sections:
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
       image: /images/960-x-400-changinglandscape.jpg
   - infopic:
-      title: Blast From The Past
-      subtitle: Features
-      description: “Blast from the Past” is a series that highlights some of
-        Singapore’s shared experiences through the collections of the National
-        Archives of Singapore.  Browse through our curated selection of photos,
-        audiovisual content, declassified government files and oral history
-        excerpts to find out more on Singapore’s past experiences.
-      url: http://www.nas.gov.sg/archivesonline/blastfromthepast/
-      image: /images/BFTP-14_main-website2.jpg
-      alt: Blast from the Past
-      button: View Blast from the Past
-  - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
       description: The series gives insights into the early years of Singapore’s
@@ -89,15 +87,5 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: Stories From BiblioAsia
-      subtitle: Features
-      description: All four videos are based on essays previously published in
-        BiblioAsia, a publication that focuses on the history and heritage of
-        Singapore.
-      button: Stories From BiblioAsia
-      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Stories-from-BiblioAsia-351417
-      image: /images/Stories from Biblioasia.jpg
-      alt: Stories From BiblioAsia
 notification: "\n"
 ---
