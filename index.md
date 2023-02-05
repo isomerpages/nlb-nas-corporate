@@ -89,5 +89,15 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: Stories From BiblioAsia
+      subtitle: Features
+      description: All four videos are based on essays previously published in
+        BiblioAsia, a publication that focuses on the history and heritage of
+        Singapore.
+      button: Stories From BiblioAsia
+      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Stories-from-BiblioAsia-351417
+      image: /images/Stories from Biblioasia.jpg
+      alt: Stories From BiblioAsia
 notification: "\n"
 ---
