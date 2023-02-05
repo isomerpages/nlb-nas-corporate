@@ -114,7 +114,9 @@ The responsibility of defending a nation rests on its people. Every year, Singap
 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
+
 _________________________________________________________________
+
 ![](/images/AI%20Mar%202023_Eventbrite%20Web%20Banner.jpg)
 
 **Tue, 28 March 2023**
