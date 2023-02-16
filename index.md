@@ -16,6 +16,16 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: War in the Pacific
+      subtitle: Features
+      description: Explore actual footages on WWII in our collections. Listen to oral
+        history interviews, view photographs & read documents on the Battle for
+        Singapore.
+      button: "View WWII: War in the Pacific"
+      url: https://www.nas.gov.sg/archivesonline/warinpacific
+      alt: warinthepacific
+      image: /images/WWII.jpg
+  - infopic:
       title: Stories From BiblioAsia
       subtitle: Features
       description: All four videos are based on essays previously published in
@@ -87,14 +97,5 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: War in the Pacific
-      subtitle: Features
-      description: Explore actual footages on WWII in our collections. Listen to oral
-        history interviews, view photographs & read documents on the Battle for
-        Singapore.
-      button: "View WWII: War in the Pacific"
-      url: https://www.nas.gov.sg/archivesonline/warinpacific
-      alt: warinthepacific
 notification: "\n"
 ---
