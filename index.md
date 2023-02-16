@@ -87,5 +87,14 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: War in the Pacific
+      subtitle: Features
+      description: Explore actual footages on WWII in our collections. Listen to oral
+        history interviews, view photographs & read documents on the Battle for
+        Singapore.
+      button: "View WWII: War in the Pacific"
+      url: https://www.nas.gov.sg/archivesonline/warinpacific
+      alt: warinthepacific
 notification: "\n"
 ---
