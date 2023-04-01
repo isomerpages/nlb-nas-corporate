@@ -20,13 +20,8 @@ will be no tours.
 #### **Mandarin Tours**
 
 
-Saturday 4 Mar 2023 11.30am - 12.30pm
-
-**Saturday 18 Mar 2023 11.00am - 12.00pm**
-
 Saturday 8 Apr 2023 11.30am - 12.30pm
 
-Saturday 22 Apr 2023 11.30am - 12.30pm
 
 Tour schedules are subject to changes.
 
