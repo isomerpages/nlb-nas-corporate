@@ -22,6 +22,13 @@ will be no tours.
 
 Saturday 8 Apr 2023 11.30am - 12.30pm
 
+Saturday 6 May 2023 11.30am - 12.30pm
+
+Saturday 20 May 2023 11.30am - 12.30pm
+
+Saturday 3 June 2023 11.30am - 12.30pm
+
+Saturday 17 June 2023 11.30am - 12.30pm
 
 Tour schedules are subject to changes.
 
