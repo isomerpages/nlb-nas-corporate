@@ -115,3 +115,24 @@ Community histories unfold in this series that traces Singapore’s social past 
 ### Subscribe to eNewsletter
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
 __________________________________________________________
+![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2020%20jun%202023.jpg)
+
+**Tue, 20 Jun 2023**
+
+**7pm – 8pm**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-bugis-people-through-archival-images-recordings-tickets-621626641017)
+
+### Archives Unlocked: Bugis People Through Archival Images & Recordings
+
+Assistant archivist Mohamad Karazie traces the transformation of the Bugis community in Singapore from the early 1980s through archival images and recordings. Join us as we take a closer look on how the Bugis community made an impact in Singapore and the mark they have left behind.
+
+### About the Speaker
+Mohamad Karazie is an assistant archivist with the National Archives of Singapore. He works at the Audiovisual Archives, where he focuses on acquiring and preserving audiovisual materials from Government agencies which includes social media post.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
+__________________________________________________________
