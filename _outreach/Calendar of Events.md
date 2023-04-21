@@ -4,31 +4,6 @@ permalink: /outreach/calendar-of-events/
 description: LATEST EVENTS
 ---
 ### LATEST EVENTS
-
-__________________________________________________________
-![](/images/Calendar%20of%20Events/AU%20Apr%202023_Eventbrite%20Web%20Banner.jpg)
-
-**Thu, 20 Apr 2023**
-
-**7pm – 8pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-stories-from-the-silent-and-the-boomers-tickets-556396786767)
-
-### Archives Unlocked: Stories from the Silent and the Boomers
-
-Listen to the early life accounts of the Silent Generation (born between 1928−1945) and the Boomer Generation (born between 1946−1964) growing up in Singapore. Hear their childhood stories and how their early influences have impacted them.
-
-### About the Speaker
-**Benjamin Ho** is a Specialist at the Oral History Centre. His work involves collecting oral history interviews in community history, governance, nature and urban planning. He also conducts training in oral history and disseminate oral history on various platforms. He relishes meeting people from diverse backgrounds and hearing their stories, especially on their growing-up years.
-
-**Amrit Kaur** is an Oral History enthusiast interested in rural women empowerment in India, families' light usage in sea villages of Indonesia, and community leaders in Singapore. She has interviewed people from different walks of life. She has also worked with families to put together their history. Amrit is also a techie and passionate about recording personal history using different media formats to make it accessible to the younger generation.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter)
-
 _____________________________________________________________
 ![](/images/Calendar%20of%20Events/eventbrite%20banner.jpg)
 
