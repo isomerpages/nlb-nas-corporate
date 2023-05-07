@@ -27,8 +27,6 @@ Inspired by the 1970s kungfu craze sparked by Bruce Lee, _Ring of Fury_ (1973,
 
 Tickets to be purchased on Asian Film Archive’s [website](https://asianfilmarchive.org/). 
 
-(Ticket sales will be opened at a later date. Please check back again for the AFA ticket sales link.)
-
 ### About the Speaker
 **Dr Mok Kin Wai Patrick** is Assistant Professor of the Cultural and Creative Industries Programme at the Art and Design Department, Hang Seng University of Hong Kong. He is interested in studying history, heritage, cultural policies and cultural-creative economy. He co-authored the books Cheng Yu Tung: A Lifetime of Diligence, Integrity and Dedication (2020) and _The Roadmap of Design Strategy for Hong Kong Manufacturing SMEs_ (2019 and 2020). Dr Mok is currently researching on the social and cultural impact of the arts, heritage of Chinese martial arts and dance choreography and dancers’ career planning and development.
 
