@@ -61,14 +61,14 @@ sections:
         life of the period.
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
       image: /images/960-x-400.jpg
-      alt: "Singapore in the 1960s "
-      button: "View Singapore in the 1960s "
+      alt: Singapore in the 1960s
+      button: View Singapore in the 1960s
   - infopic:
       title: Changing Landscapes
       subtitle: Features
-      description: "A curation of moments from the archive’s Oral History collection
+      description: A curation of moments from the archive’s Oral History collection
         that reflect significant change in Singapore’s physical and cultural
-        landscape. "
+        landscape.
       button: View Changing Landscapes
       alt: Image alt text
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
@@ -87,5 +87,8 @@ sections:
       image: /images/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-notification: "\n"
+notification: ""
+description: The National Archives of Singapore (NAS) is the keeper of records
+  of national or historical significance.
+image: /images/isomer-logo.svg
 ---
