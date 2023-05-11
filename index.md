@@ -85,7 +85,7 @@ sections:
         year of nationhood, in the midst of a historic health and economic
         situation.
       url: https://tv.mewatch.sg/en/shows/s/stories-of-singapore-reflections-of-yesteryear/episodes
-      image: /images/reflectionsystyear.jpg
+      image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
 notification: ""
