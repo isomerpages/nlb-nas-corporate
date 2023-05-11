@@ -37,9 +37,8 @@ sections:
   - infopic:
       title: Sands of Time
       subtitle: Features
-      description: Explore S'pore’s history through paper documents, OH interviews, &
-        AV recordings. A selection of these videos is available on Mediacorp’s
-        meWATCH platform.
+      description: Explore Singapore’s history through paper documents, oral history
+        interviews, and audiovisual recordings from NLB’s collections.
       button: View Sands of Time
       url: https://www.nas.gov.sg/archivesonline/sandsoftime
       image: /images/Features/960-x-320_sands of time s2 (ao main page).png
