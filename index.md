@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Sands of Time
+      subtitle: Features
+      description: Explore Singapore’s history through paper documents, oral history
+        interviews, and audiovisual recordings from NLB’s collections.
+      button: View Sands of Time
+      url: https://www.nas.gov.sg/archivesonline/sandsoftime
+      image: /images/Features/960-x-320_sands of time s2 (ao main page).png
+      alt: Sands of Time
+  - infopic:
       title: Stories From BiblioAsia
       subtitle: Features
       description: All four videos are based on essays previously published in
@@ -34,15 +43,6 @@ sections:
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
       alt: Time Travelling Trio
       image: /images/Features/Time Travelling Trio banner.jpg
-  - infopic:
-      title: Sands of Time
-      subtitle: Features
-      description: Explore Singapore’s history through paper documents, oral history
-        interviews, and audiovisual recordings from NLB’s collections.
-      button: View Sands of Time
-      url: https://www.nas.gov.sg/archivesonline/sandsoftime
-      image: /images/Features/960-x-320_sands of time s2 (ao main page).png
-      alt: Sands of Time
   - infopic:
       title: Old School TV
       subtitle: Features
