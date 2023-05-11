@@ -61,7 +61,7 @@ sections:
         offer glimpses into the city landscape, public services, and everyday
         life of the period.
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
-      image: /images/960-x-400.jpg
+      image: /images/Features/960-x-400.jpg
       alt: Singapore in the 1960s
       button: View Singapore in the 1960s
   - infopic:
