@@ -73,7 +73,7 @@ sections:
       button: View Changing Landscapes
       alt: Image alt text
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
-      image: /images/960-x-400-changinglandscape.jpg
+      image: /images/Features/960-x-400-changinglandscape.jpg
   - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
