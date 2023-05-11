@@ -32,16 +32,16 @@ sections:
         Singapore's past!
       button: View The Time Travelling Trio
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
-      image: /images/Time Travelling Trio banner.jpg
-      alt: The Time Travelling Trio
+      alt: Time Travelling Trio
+      image: /images/Features/Time Travelling Trio banner.jpg
   - infopic:
-      title: "Stories of Yesteryear: Sands of Time"
+      title: Sands of Time
       subtitle: Features
       description: Explore Singapore’s history through paper documents, oral history
-        interviews, and audiovisual recordings from NLB's collections.
+        interviews, and audiovisual recordings from NLB’s collections.
       button: View Sands of Time
-      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Sands-of-Time-S1-325072
-      image: /images/meWATCH - Sands of Time 960-x-320.jpg
+      url: https://www.nas.gov.sg/archivesonline/sandsoftime
+      image: /images/Features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
   - infopic:
       title: Old School TV
@@ -60,7 +60,7 @@ sections:
         offer glimpses into the city landscape, public services, and everyday
         life of the period.
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
-      image: /images/960-x-400.jpg
+      image: /images/Features/960-x-400.jpg
       alt: Singapore in the 1960s
       button: View Singapore in the 1960s
   - infopic:
@@ -72,7 +72,7 @@ sections:
       button: View Changing Landscapes
       alt: Image alt text
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
-      image: /images/960-x-400-changinglandscape.jpg
+      image: /images/Features/960-x-400-changinglandscape.jpg
   - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
@@ -84,7 +84,7 @@ sections:
         year of nationhood, in the midst of a historic health and economic
         situation.
       url: https://tv.mewatch.sg/en/shows/s/stories-of-singapore-reflections-of-yesteryear/episodes
-      image: /images/reflectionsystyear.jpg
+      image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
 notification: ""
