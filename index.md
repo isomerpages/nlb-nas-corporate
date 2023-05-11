@@ -33,6 +33,7 @@ sections:
       button: View The Time Travelling Trio
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
       alt: The Time Travelling Trio
+      image: /images/Features/Time Travelling Trio banner.jpg
   - infopic:
       title: Sands of Time
       subtitle: Features
