@@ -35,13 +35,14 @@ sections:
       image: /images/Time Travelling Trio banner.jpg
       alt: The Time Travelling Trio
   - infopic:
-      title: "Stories of Yesteryear: Sands of Time"
+      title: Sands of Time
       subtitle: Features
-      description: Explore Singapore’s history through paper documents, oral history
-        interviews, and audiovisual recordings from NLB's collections.
+      description: Explore S'pore’s history through paper documents, OH interviews, &
+        AV recordings. A selection of these videos is available on Mediacorp’s
+        meWATCH platform.
       button: View Sands of Time
-      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Sands-of-Time-S1-325072
-      image: /images/meWATCH - Sands of Time 960-x-320.jpg
+      url: https://www.nas.gov.sg/archivesonline/sandsoftime
+      image: /images/Features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
   - infopic:
       title: Old School TV
