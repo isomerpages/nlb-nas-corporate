@@ -25,16 +25,6 @@ sections:
       image: /images/Features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
   - infopic:
-      title: Stories From BiblioAsia
-      subtitle: Features
-      description: All four videos are based on essays previously published in
-        BiblioAsia, a publication that focuses on the history and heritage of
-        Singapore.
-      button: Stories From BiblioAsia
-      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Stories-from-BiblioAsia-351417
-      image: /images/Stories from Biblioasia.jpg
-      alt: Stories From BiblioAsia
-  - infopic:
       title: The Time Travelling Trio
       subtitle: Features
       description: Join us to rediscover classic games, snacks and places from
@@ -43,26 +33,6 @@ sections:
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
       alt: Time Travelling Trio
       image: /images/Features/Time Travelling Trio banner.jpg
-  - infopic:
-      title: Old School TV
-      subtitle: Features
-      description: A selection of Educational Television (ETV) programmes produced by
-        the Curriculum Development Institute of Singapore (CDIS) and its
-        predecessors from 1967-1983.
-      button: View Old School TV
-      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-Old-School-TV-285004
-      image: /images/meWATCH - Old School 960-x-320.jpg
-      alt: Old School TV
-  - infopic:
-      title: Singapore in the 1960s Season 2
-      subtitle: Features
-      description: Films from Singapore’s past, produced and shown in the 1960s, that
-        offer glimpses into the city landscape, public services, and everyday
-        life of the period.
-      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-247128
-      image: /images/Features/960-x-400.jpg
-      alt: Singapore in the 1960s
-      button: View Singapore in the 1960s
   - infopic:
       title: Changing Landscapes
       subtitle: Features
