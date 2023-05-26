@@ -30,6 +30,14 @@ Saturday 3 June 2023 11.30am - 12.30pm
 
 Saturday 17 June 2023 11.30am - 12.30pm
 
+Saturday 1 July 2023 11.30am - 12.30pm
+
+Saturday 15 July 2023 11.30am - 12.30pm
+
+Saturday 5 August 2023 11.30am - 12.30pm
+
+Saturday 19 August 2023 11.30am - 12.30pm
+
 Tour schedules are subject to changes.
 
 
