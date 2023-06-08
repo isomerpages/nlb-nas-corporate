@@ -16,6 +16,16 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Lee Kuan Yew - Through Images, Audio and Videos
+      subtitle: FEATURES
+      description: To mark the 100th anniversary of founding Prime Minister Lee Kuan
+        Yew’s birth, a selection of his images and speeches is available for
+        complimentary download.
+      button: LKY – Images, Audio & Videos
+      url: https://www.nas.gov.sg/archivesonline/lky100
+      image: /images/Features/lky ao av 960 x 320.jpg
+      alt: Image alt text
+  - infopic:
       title: Sands of Time
       subtitle: Features
       description: Explore Singapore’s history through paper documents, oral history
