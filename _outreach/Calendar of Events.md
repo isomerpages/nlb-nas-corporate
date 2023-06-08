@@ -26,7 +26,7 @@ Everyday Modernism: Architecture and Society in Singapore is the first comprehe
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
 
 ### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 __________________________________________________________
 
@@ -49,7 +49,7 @@ Mohamad Karazie is an assistant archivist with the National Archives of Singapor
 Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
 
 ### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 __________________________________________________________
 
@@ -78,7 +78,6 @@ Chng Yak Hock and Cassandra Tang are conservators from the Archive Conservation 
 Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
 
 ### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 __________________________________________________________
-
