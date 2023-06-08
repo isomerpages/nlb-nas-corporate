@@ -29,6 +29,7 @@ Community histories unfold in this series that traces Singapore’s social past 
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
 
 __________________________________________________________
+
 ![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2020%20jun%202023.jpg)
 
 **Tue, 20 Jun 2023**
@@ -51,6 +52,7 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
 
 __________________________________________________________
+
 ![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2031%20jul%202023.jpg)
 
 **Mon, 31 Jul 2023**
@@ -79,3 +81,4 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter].
 
 __________________________________________________________
+
