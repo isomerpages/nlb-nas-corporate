@@ -57,6 +57,16 @@ sections:
       image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: Lee Kuan Yew - Through Images, Audio and Videos
+      subtitle: FEATURES
+      description: To mark the 100th anniversary of founding Prime Minister Lee Kuan
+        Yew’s birth, a selection of his images and speeches is available for
+        complimentary download.
+      button: LKY – Images, Audio & Videos
+      url: https://www.nas.gov.sg/archivesonline/lky100
+      image: /images/Features/lky ao av 960 x 320.jpg
+      alt: Image alt text
 notification: ""
 description: The National Archives of Singapore (NAS) is the keeper of records
   of national or historical significance.
