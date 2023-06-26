@@ -9,7 +9,7 @@ __________________________________________________________
 
 **Mon, 31 Jul 2023**
 
-**7pm – 8pm | Zoom**
+**7pm – 8pm | Zoom**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-conservation-and-preservation-of-photographic-materials-tickets-652660193207)
 
