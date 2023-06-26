@@ -5,59 +5,11 @@ description: LATEST EVENTS
 ---
 ### LATEST EVENTS
 __________________________________________________________
-![](/images/Calendar%20of%20Events/ai%20talk%20by%20dr%20chang%20jiat-hwee%20&%20justin%20zhuang%20-%2015%20jun%202023_eventbrite%20web%20banner.jpg)
-
-**Thu, 15 Jun 2023**
-
-**7pm – 8pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-invites-everyday-modernism-and-sources-for-the-ordinary-tickets-615467197957)
-
-### Archives Invites: Everyday Modernism and Sources for the Ordinary
-
-Everyday Modernism: Architecture and Society in Singapore is the first comprehensive documentation of the city-state's modern built environment. Through a series of building biographies, the book uncovers the many untold histories of the Southeast Asian city-state's modernisation, from the rise of iconic buildings, such as the Pearl Bank Apartments, the former PUB Building and the Jurong Town Hall, to the spread of ordinary typologies like the condominium, the multi-storey car park, the podium-tower block, the flatted factory, the community centre, the standardised school building, the pedestrian overhead bridge, and the columbarium.  In this talk, Chang Jiat Hwee and Justin Zhuang will share how they researched the book using different textual and visual sources. They will focus on the use of a few lesser known magazines and the different types of government publications to write a more inclusive history of the built environment in Singapore.
-
-### About the Speaker
-**Chang Jiat Hwee** is Associate Professor of Architecture and Research Leader of the STS (Science, Technology and Society) Cluster at the Asia Research Institute, National University of Singapore. Besides _Everyday Modernism_ (2022), his books include _A Genealogy of Tropical Architecture_ (2016), _Southeast Asia’s Modern Architecture_ (2018), and _Non West Modernist Past_ (2011).
-
-**Justin Zhuang** is an observer of the designed world and its impact on everyday life. The journalism graduate has authored numerous articles and books on Singapore design and its built environment. He is also the co-founder of the writing studio and publishing imprint, In Plain Words.
-
-### About Archives Invites
-Community histories unfold in this series that traces Singapore’s social past with help from the archives.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
-
-__________________________________________________________
-
-![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2020%20jun%202023.jpg)
-
-**Tue, 20 Jun 2023**
-
-**7pm – 8pm**
-
-Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-bugis-people-through-archival-images-recordings-tickets-621626641017)
-
-### Archives Unlocked: Bugis People Through Archival Images & Recordings
-
-Assistant archivist Mohamad Karazie traces the transformation of the Bugis community in Singapore from the early 1980s through archival images and recordings. Join us as we take a closer look on how the Bugis community made an impact in Singapore and the mark they have left behind.
-
-### About the Speaker
-Mohamad Karazie is an assistant archivist with the National Archives of Singapore. He works at the Audiovisual Archives, where he focuses on acquiring and preserving audiovisual materials from Government agencies which includes social media post.
-
-### About Archives Unlocked
-Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
-
-__________________________________________________________
-
 ![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2031%20jul%202023.jpg)
 
 **Mon, 31 Jul 2023**
 
-**7pm – 8pm**
+**7pm – 8pm | Zoom**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-conservation-and-preservation-of-photographic-materials-tickets-652660193207)
 
@@ -81,3 +33,48 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 __________________________________________________________
+![](/images/Calendar%20of%20Events/eventbrite%20banner_au%20talk%20on%2019%20aug%202023.jpg)
+
+**Sat, 19 Aug 2023**
+
+**6.45pm – 7.45pm | NAS Oldham Theatre**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-michael-flecker-sg-maritime-history-shipwreck-evidence-tickets-666744559927)
+
+### Archives Invites: Michael Flecker: SG Maritime History- Shipwreck Evidence
+Much is now known of Singapore’s thriving 14th-century Temasek Period from texts and archaeological findings. With the recent discovery of the _Temasek Wreck_, which was almost certainly bound for this entrepôt, our understanding is further enhanced. However, the long spell from the 15th until the 19th century remains cloudy.
+
+The distant, but linked _Binh Thuan Wreck_ can provide some illumination. Two decades before Raffles’s arrival to Singapore, the colossal _Shah Muncher_ was lost in Singapore waters mid-voyage from Canton to Bombay. While only passing by, her cargo can still tell us much about life and trade in the early port of Singapore.
+
+### About the Speaker
+Dr Michael Flecker started working life in 1985 as a civil engineer in a Singapore-based company. Two years later he changed course, signing up as diving supervisor for the two-year excavation of the Manila Galleon, Nuestra Senora de la Concepcion, in Saipan. He then founded Maritime Explorations and went on to direct some of the most important shipwreck excavations in Asia, spanning a millennium from the 9th to the 19th centuries. He earned his PhD from the National University of Singapore, based on his excavation of the 10th century _Intan Wreck_, and specialises in ancient Asian ship construction and maritime trade. Apart from new archaeological findings, he has written extensively on ethics, politics, legislation and pragmatism in the troubled realm of underwater cultural heritage in Southeast Asia.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives.
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
+
+__________________________________________________________
+![](/images/Calendar%20of%20Events/eventbrite%20banner%20au%2029%20aug%202023.jpg)
+
+**Tue, 29 Aug 2023**
+
+**7pm – 8pm | Zoom**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlockedbrief-history-of-transcription-in-the-oral-history-centre-tickets-657498484667)
+
+### Archives Unlocked: Brief History of Transcription in the Oral History Centre
+
+Oral history practitioners have long been concerned with whether interviews should be transcribed, and to what extent, especially when it comes to the available technology of the time. Learn how the Oral History Centre has adapted from its typing pool beginnings in the 1980s, to the dream of video recordings in the 1990s and the voice-to-text revolution in the 2010s.
+
+With the surge of virtual conferencing software and artificial intelligence capabilities since the COVID-19 pandemic, where will we go next?
+
+### About the Speaker
+John Choo is an Assistant Specialist at the Oral History Centre, National Archives of Singapore. As an oral history interviewer, he has conversed with religious practitioners, charity employees, corporate volunteers, community leaders, and para-athletes. A significant number of these conversations took place during the recent COVID-19 pandemic, which forced the use of remote audio-visual platforms and other digital technologies, incorporating automated transcription features.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the archives’ collections.
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
