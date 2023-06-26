@@ -37,7 +37,7 @@ __________________________________________________________
 
 **Sat, 19 Aug 2023**
 
-**6.45pm – 7.45pm | NAS Oldham Theatre**
+**6.45pm – 7.45pm I NAS Oldham Theatre**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlocked-michael-flecker-sg-maritime-history-shipwreck-evidence-tickets-666744559927)
 
@@ -60,7 +60,7 @@ __________________________________________________________
 
 **Tue, 29 Aug 2023**
 
-**7pm – 8pm | Zoom**
+**7pm – 8pm I Zoom**
 
 Register now via [Eventbrite](https://www.eventbrite.sg/e/archives-unlockedbrief-history-of-transcription-in-the-oral-history-centre-tickets-657498484667)
 
