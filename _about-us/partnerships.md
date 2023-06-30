@@ -11,8 +11,10 @@ The International Council of Archives is the professional organisation for the w
 
 <hr>
 
-### Southeast Asian Regional Branch International Council on Archives (SARBICA)
+### Southeast Asia Regional Branch International Council on Archives (SARBICA)
 
-<img src="/images/sarbica.jpg" alt="Sarbica" style="width:150px;">
 
-The National Archives of Singapore is a member of the Southeast Asian Regional Branch of the International Council on Archives, established during the Inaugural Conference of SARBICA in Kuala Lumpur on 9 July 1968. It had the distinction to be the first regional branch of ICA and is responsible for carrying out the policy and programmes of ICA in this region. At present, SARBICA comprises the National Archives Institutions of Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, The Philippines, Thailand, Vietnam and Singapore.
+
+![](/images/logo_sarbica_new.jpg)
+
+The National Archives of Singapore is a member of the Southeast Asia Regional Branch of the International Council on Archives, established during the Inaugural Conference of SARBICA in Kuala Lumpur on 9 July 1968. It had the distinction to be the first regional branch of ICA and is responsible for carrying out the policy and programmes of ICA in this region. At present, SARBICA comprises the National Archives Institutions of Brunei Darussalam, Cambodia, Indonesia, Laos, Malaysia, Myanmar, The Philippines, Singapore, Thailand and Vietnam.
