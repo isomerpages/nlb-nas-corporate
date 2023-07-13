@@ -16,6 +16,16 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: National Day Rally Speeches Throughout the Years
+      subtitle: FEATURES
+      description: Reflect on the National Day Rally speeches of Prime Minister Lee
+        Kuan Yew, with audio visual recordings from the National Archives of
+        Singapore’s collection.
+      button: National Day Rally Speeches
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-National-Day-Rally-Speeches-Throughout-the-Years-S1-390305
+      image: /images/Features/lky nd rally speeches_960x320.jpg
+      alt: Image alt text
+  - infopic:
       title: Lee Kuan Yew - Through Images, Audio and Videos
       subtitle: FEATURES
       description: To mark the 100th anniversary of founding Prime Minister Lee Kuan
@@ -34,15 +44,6 @@ sections:
       url: https://www.nas.gov.sg/archivesonline/sandsoftime
       image: /images/Features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
-  - infopic:
-      title: The Time Travelling Trio
-      subtitle: Features
-      description: Join us to rediscover classic games, snacks and places from
-        Singapore's past!
-      button: View The Time Travelling Trio
-      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
-      alt: Time Travelling Trio
-      image: /images/Features/Time Travelling Trio banner.jpg
   - infopic:
       title: Changing Landscapes
       subtitle: Features
