@@ -45,15 +45,6 @@ sections:
       image: /images/Features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
   - infopic:
-      title: The Time Travelling Trio
-      subtitle: Features
-      description: Join us to rediscover classic games, snacks and places from
-        Singapore's past!
-      button: View The Time Travelling Trio
-      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-The-Time-Travelling-Trio-340648
-      alt: Time Travelling Trio
-      image: /images/Features/Time Travelling Trio banner.jpg
-  - infopic:
       title: Changing Landscapes
       subtitle: Features
       description: A curation of moments from the archive’s Oral History collection
