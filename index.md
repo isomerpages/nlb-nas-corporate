@@ -67,6 +67,16 @@ sections:
       image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
+  - infopic:
+      title: National Day Rally Speeches Throughout the Years
+      subtitle: FEATURES
+      description: Reflect on the National Day Rally speeches of Prime Minister Lee
+        Kuan Yew, with audio visual recordings from the National Archives of
+        Singapore’s collection.
+      button: National Day Rally Speeches
+      url: https://www.mewatch.sg/season/Stories-of-Yesteryear-National-Day-Rally-Speeches-Throughout-the-Years-S1-390305
+      image: /images/Features/lky nd rally speeches_960x320.jpg
+      alt: Image alt text
 notification: ""
 description: The National Archives of Singapore (NAS) is the keeper of records
   of national or historical significance.
