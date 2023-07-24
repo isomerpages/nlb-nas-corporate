@@ -17,24 +17,12 @@ Saturday & Sunday, 11.00am - 12.00pm
 Note: If a Public Holiday falls on these days,
 there will be no tours.
 
-**No guided tours on Sunday 4 June 2023**
-
-**No guided tour on Saturday 17 June 2023 3.30pm - 4.30pm**
-
-
-
 
 #### **Mandarin Tours**
-
-Saturday 3 June 2023 11.30am - 12.30pm
-
-Saturday 17 June 2023 11.30am - 12.30pm
 
 Saturday 1 July 2023 11.30am - 12.30pm
 
 Saturday 15 July 2023 11.30am - 12.30pm
-
-Saturday 5 August 2023 11.30am - 12.30pm
 
 Saturday 19 August 2023 11.30am - 12.30pm
 
