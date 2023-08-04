@@ -19,12 +19,17 @@ there will be no tours.
 
 
 #### **Mandarin Tours**
+Time: 11.30am - 12.30pm
 
-Saturday 1 July 2023 11.30am - 12.30pm
+Saturday 19 Aug 2023 
 
-Saturday 15 July 2023 11.30am - 12.30pm
+Saturday 16 Sept 2023 
 
-Saturday 19 August 2023 11.30am - 12.30pm
+Saturday 30 Sept 2023
+
+Saturday 14 Oct 2023
+
+Saturday 28 Oct 2023
 
 Tour schedules are subject to changes.
 
