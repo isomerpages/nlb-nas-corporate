@@ -17,7 +17,7 @@ Saturday & Sunday, 11.00am - 12.00pm
 Note: If a Public Holiday falls on these days,
 there will be no tours.
 
-**No English tour at 11.00am - 12.00pm
+**No English tour from 11.00am - 12.00pm
 on 28 October 2023.**
 
 #### **Mandarin Tours**
