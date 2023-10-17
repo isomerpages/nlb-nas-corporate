@@ -25,8 +25,15 @@ Time: 11.30am - 12.30pm
 
 **No Mandarin Tours in October 2023**
 
-Tour schedules are subject to changes.
+Saturday, 4 Nov 2023
 
+Saturday, 18 Nov 2023
+
+Saturday, 2 Dec 2023
+
+Saturday, 16 Dec 2023
+
+Tour schedules are subject to changes.
 
 ### GROUP VISITS
 
