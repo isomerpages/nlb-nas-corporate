@@ -16,7 +16,6 @@ Saturday & Sunday, 11.00am - 12.00pm
 
 Note: If a Public Holiday falls on these days,
 there will be no tours.
-
 **No English tour from 11.00am - 12.00pm
 on 28 October 2023.**
 
@@ -25,8 +24,15 @@ Time: 11.30am - 12.30pm
 
 **No Mandarin Tours in October 2023**
 
-Tour schedules are subject to changes.
+Saturday, 4 Nov 2023
 
+Saturday, 18 Nov 2023
+
+Saturday, 2 Dec 2023
+
+Saturday, 16 Dec 2023
+
+Tour schedules are subject to changes.
 
 ### GROUP VISITS
 
