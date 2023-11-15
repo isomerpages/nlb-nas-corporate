@@ -3,6 +3,7 @@ title: Tours
 permalink: /former-ford-factory/visit/tours/
 breadcrumb: Tours
 third_nav_title: Visit
+variant: markdown
 ---
 #### VOLUNTEER GUIDED TOURS
 
@@ -17,17 +18,12 @@ Saturday & Sunday, 11.00am - 12.00pm
 Note: If a Public Holiday falls on these days,
 there will be no tours.
 
-**No English tour from 11.00am - 12.00pm
-on 28 October 2023.**
+**No English tours from 23 Dec 2023 to 31 Dec 2023
+.**
 
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-**No Mandarin Tours in October 2023**
-
-Saturday, 4 Nov 2023
-
-Saturday, 18 Nov 2023
 
 Saturday, 2 Dec 2023
 
