@@ -20,7 +20,7 @@ Free admission for Citizens, Permanent Residents, children aged 6 and below, Fri
 and one caregiver.
 
 For foreign visitors : $7.06 per person (After 8% GST),
-$7.13 per person (After GST) with effect from 1 Jan 2024.
+$7.13 per person (After 9% GST) with effect from 1 Jan 2024.
 
 
 **Our** **gallery** **can** **be** **very** **cold**. **Please** **bring** **along** 
