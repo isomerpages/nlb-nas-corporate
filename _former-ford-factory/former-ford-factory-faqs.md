@@ -1,12 +1,13 @@
 ---
 title: Former Ford Factory FAQs
 permalink: /former-ford-factory/fff-faq/
+variant: markdown
 ---
 **1.	What are the opening hours at Former Ford Factory?**
 
 Tue – Sun: 9:00 AM – 5:30 PM
 
-Open during Public Holidays except on the first day of Chinese New Year. 
+Open during Public Holidays except on the first day of Chinese New Year and Public Holidays which fall on Mondays.
 
 **2.	Where is Former Ford Factory located?**
 
@@ -16,7 +17,8 @@ Former Ford Factory is located at 351 Upper Bukit Timah Road, Singapore 588192.
 
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member.
  
-For foreign visitors : $7.06 per person (After 8% GST).
+For foreign visitors : $7.06 per person (After 8% GST),
+$7.13 per person (After 9% GST) with effect from 1 Jan 2024.
 
 **4.	How do I get to Former Ford Factory?**
 

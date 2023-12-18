@@ -3,6 +3,7 @@ title: Opening Hours & Admission
 permalink: /former-ford-factory/visit/opening-hours/
 breadcrumb: Opening Hours & Admission
 third_nav_title: Visit
+variant: markdown
 ---
 ### OPENING HOURS
 
@@ -18,7 +19,8 @@ Last admission to the galleries is half an hour before closing.
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member, Persons with disabilities (PWDs)
 and one caregiver.
 
-For foreign visitors : $7.06 per person (After 8% GST)
+For foreign visitors : $7.06 per person (After 8% GST),
+$7.13 per person (After 9% GST) with effect from 1 Jan 2024.
 
 
 **Our** **gallery** **can** **be** **very** **cold**. **Please** **bring** **along** 

@@ -27,7 +27,15 @@ Time: 11.30am - 12.30pm
 
 Saturday, 2 Dec 2023
 
-Saturday, 16 Dec 2023
+Saturday, 23 Dec 2023
+
+Saturday, 6 Jan 2024
+
+Saturday, 20 Jan 2024
+
+Saturday, 3 Feb 2024
+
+Saturday, 17 Feb 2024
 
 Tour schedules are subject to changes.
 
