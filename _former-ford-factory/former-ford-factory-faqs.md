@@ -17,8 +17,7 @@ Former Ford Factory is located at 351 Upper Bukit Timah Road, Singapore 588192.
 
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member.
  
-For foreign visitors : $7.06 per person (After 8% GST),
-$7.13 per person (After 9% GST) with effect from 1 Jan 2024.
+For foreign visitors : $7.13 per person (After 9% GST) 
 
 **4.	How do I get to Former Ford Factory?**
 
