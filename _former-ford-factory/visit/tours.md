@@ -18,8 +18,12 @@ Saturday & Sunday, 11.00am - 12.00pm
 Note: If a Public Holiday falls on these days,
 there will be no tours.
 
-**No English tours on 10 Feb 2024
-.**
+**No English tours on Sat, 10 Feb 2024
+.** 
+
+**We are closed on Sat ,10 Feb 2024**
+
+
 
 **No English Tour on 17 Feb 2024, 11.00am**
 
