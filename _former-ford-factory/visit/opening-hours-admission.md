@@ -21,8 +21,7 @@ We are closed on 10 Feb 2024 (1st Day of Chinese New Year)
 Free admission for Citizens, Permanent Residents, children aged 6 and below, Friends of the Museums (FOM) and 1 guest of each FOM member, Persons with disabilities (PWDs)
 and one caregiver.
 
-For foreign visitors : $7.06 per person (After 8% GST),
-$7.13 per person (After 9% GST) with effect from 1 Jan 2024.
+For foreign visitors : $7.13 per person (After 9% GST)
 
 
 **Our** **gallery** **can** **be** **very** **cold**. **Please** **bring** **along** 
