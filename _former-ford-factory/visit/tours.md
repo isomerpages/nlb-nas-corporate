@@ -21,6 +21,8 @@ there will be no tours.
 **No English tours on 10 Feb 2024
 .**
 
+**No English Tour on 17 Feb 2024, 11.00am**
+
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
