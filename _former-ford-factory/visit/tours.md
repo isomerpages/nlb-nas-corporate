@@ -30,7 +30,7 @@ there will be no tours.
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 3 Feb 2024
+Saturday, 24 Feb 2024
 
 
 Tour schedules are subject to changes.
