@@ -19,7 +19,7 @@ http://www.nas.gov.sg/archivesonline/
 http://catalogue.nlb.gov.sg/
 
 **Off the Record**
-/media/collections-and-research/ww2comestosingapore
+https://corporate.nas.gov.sg/media/collections-and-research/ww2comestosingapore
 
 **National Heritage Board**
 http://www.nhb.gov.sg/
