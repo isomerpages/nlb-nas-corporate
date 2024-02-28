@@ -27,6 +27,10 @@ Saturday, 2 March 2024
 
 Saturday, 16 March 2024
 
+Saturday, 6 April 2024
+
+Saturday 20 April 2024
+
 Tour schedules are subject to changes.
 
 ### GROUP VISITS
