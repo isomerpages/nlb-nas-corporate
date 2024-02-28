@@ -18,20 +18,14 @@ Saturday & Sunday, 11.00am - 12.00pm
 Note: If a Public Holiday falls on these days,
 there will be no tours.
 
-**No English tours on Sat, 10 Feb 2024
-.** 
-
-**We are closed on Sat ,10 Feb 2024**
-
-
-
-**No English Tour on 17 Feb 2024, 11.00am**
+**No English Tour on 9 March 2024, 3.30pm**
 
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 24 Feb 2024
+Saturday, 2 March 2024
 
+Saturday, 16 March 2024
 
 Tour schedules are subject to changes.
 
