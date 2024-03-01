@@ -11,7 +11,7 @@ sections:
         - title: Archives Online
           url: http://www.nas.gov.sg/archivesonline/
         - title: Singapore Policy History Project
-          url: http://www.nas.gov.sg/archivesonline/policy_history/
+          url: https://www.nas.gov.sg/archivesonline/policy_history
         - title: E-Request
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
