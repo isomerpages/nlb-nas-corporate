@@ -64,7 +64,7 @@ sections:
         relevant to us in this current time, as the nation celebrates another
         year of nationhood, in the midst of a historic health and economic
         situation.
-      url: https://tv.mewatch.sg/en/shows/s/stories-of-singapore-reflections-of-yesteryear/episodes
+      url: https://www.mewatch.sg/season/Reflections-of-Yesteryear-170278
       image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
