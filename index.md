@@ -16,6 +16,15 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
+      id: infopic
+      description: Visit the curated page of archived audiovisual records documenting
+        P. Ramlee’s life and work, as well as a crowdsourcing call for records.
+      button: Visit here
+      url: https://www.nas.gov.sg/archivesonline/rememberingpramlee
+      image: /images/SocialMedia_1080x1080_new.png
+      alt: Image alt text
+  - infopic:
       title: National Day Rally Speeches Throughout the Years
       subtitle: FEATURES
       description: Reflect on the National Day Rally speeches of Prime Minister Lee
@@ -64,7 +73,7 @@ sections:
         relevant to us in this current time, as the nation celebrates another
         year of nationhood, in the midst of a historic health and economic
         situation.
-      url: https://tv.mewatch.sg/en/shows/s/stories-of-singapore-reflections-of-yesteryear/episodes
+      url: https://www.mewatch.sg/season/Reflections-of-Yesteryear-170278
       image: /images/Features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
