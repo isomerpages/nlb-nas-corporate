@@ -17,7 +17,6 @@ sections:
       url: https://www.ioha2021.gov.sg/
   - infopic:
       title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
-      subtitle: Add an image and text
       id: infopic
       description: Visit the curated page of archived audiovisual records documenting
         P. Ramlee’s life and work, as well as a crowdsourcing call for records.
