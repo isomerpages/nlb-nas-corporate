@@ -44,7 +44,7 @@ ________________________________________________________________________________
 
 **7pm – 8pm I Zoom**
 
-Register now via [[Eventbite]](https://www.eventbrite.sg/e/johore-causeway-archival-materials-in-the-national-archives-of-malaysia-tickets-874334697617?aff=oddtdtcreator)
+Register now via [[Eventbrite]](https://www.eventbrite.sg/e/johore-causeway-archival-materials-in-the-national-archives-of-malaysia-tickets-874334697617?aff=oddtdtcreator)
 
 ### Archives Invites: Archival Materials in the National Archives of Malaysia
 
