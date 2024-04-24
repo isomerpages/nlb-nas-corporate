@@ -27,7 +27,7 @@ Saturday, 18 May 2024
 
 Saturday, 1 June 2024
 
-Saturday 15 June 2024
+Saturday, 15 June 2024
 
 Tour schedules are subject to changes.
 
