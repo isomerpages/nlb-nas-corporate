@@ -25,7 +25,7 @@ Breakdancing was the rage in 1980s and Orchard Road was the central of the fad. 
 
 [[1\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref1) [Centrepoint Kids gone](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860223-1.2.7.1.6), The Straits Times, 23 February 1986, Page 2
 
-[[2\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref2) [Centrepoint Kids must go, says youth group](http://newspapers.nl.sg/Digitised/Article/straitstimes19860128-1.2.73.aspx), The Straits Times, 28 January 1986, Page 36
+[[2\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref2) [Centrepoint Kids must go, says youth group](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860128-1.2.73), The Straits Times, 28 January 1986, Page 36
 
 [[3\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref3) [Centrepoint Kids normal, says study](http://newspapers.nl.sg/Digitised/Article/straitstimes19851118-1.2.27.8.aspx), The Straits Times, 18 November 1985, Page 10
 
