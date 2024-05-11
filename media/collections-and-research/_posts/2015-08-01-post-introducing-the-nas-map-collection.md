@@ -1,11 +1,9 @@
 ---
-title: 'Introducing the NAS Map Collection'
+title: Introducing the NAS Map Collection
 date: 2015-08-01T00:00:00.000Z
-permalink: /media/collections-and-research/nasmapcollection
-
+permalink: /media/collections-and-research/nasmapcollection/
+variant: markdown
 ---
-
-
 # Introducing the NAS Map Collection
 
 Grace Ho 4 years ago 19 min. read
@@ -72,7 +70,7 @@ As for the chronology of the NAS map collection, just under 40 maps come from th
 
 ![De-Bry-1607-Map-of-SG-Battle](../../../images/blogs/De-Bry-1607-Map-of-SG-Battle-686x1000.jpg)
 
-*Among the oldest maps known depicting Singapore, the map records a battle occurring in 1602 between Dutch & Portuguese naval ships off Singapore’s eastern coast. Source: Prime Minister’s Office, Courtesy of National Archives of Singapore Ref: HC000308*
+*Among the oldest maps known depicting Singapore, the map records a battle occurring in 1602 between Dutch &amp; Portuguese naval ships off Singapore’s eastern coast. Source: Prime Minister’s Office, Courtesy of National Archives of Singapore Ref: HC000308*
 
 NAS holds about 190 maps from the early colonial period (1819-1866) when Singapore was administered with Penang and Malacca under the British East India Company and subsequently the British India government based in Calcutta. The period marked the beginning of more precise mapping of the physical environment of Singapore. The first map which accurately traced the outline of Singapore island emerged around 1822, sketched by Captain James Franklin, a visiting Bengal military surveyor. Detailed maps of the rapidly developing Singapore town as well as hydrographic charts of its surrounding waters also emerged. Notable among maps of this period in the NAS collection is an 1819 British hydrographic map detailing the shape and depth of the harbour off the Singapore River. Captain Daniel Ross, a hydrographer of the East India Company who accompanied Raffles and William Farquhar to Singapore, prepared the map while Raffles was negotiating with the Tememggong to establish a trading post. An important map of this period is John Turnbull Thomson’s 1846 map of Singapore town and its suburbs. Thomson was the first Government Surveyor of the Eastern Settlements, with overall responsibility for surveying of the three Straits Settlements, and his map is the most detailed of Singapore town available of this period and an invaluable historical resource. Thomson also conducted meticulous hydrographic surveys of the Singapore Straits and published them in 1846. The quality of Thomson’s hydrographic charts was highly regarded and he was honoured by having some of them incorporated into the sea-charts of the British Admiralty.[[15\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftn15) Another notable map by Thomson is a copy of an 1850 British survey map detailing the development of Singapore’s interior. This map is the earliest in the NAS collection furnishing such detail and the copy was acquired from the National Archives of the United Kingdom (NAUK).
 
@@ -83,7 +81,7 @@ NAS has about 530 maps covering the next 50 years of Singapore’s history, star
 ![The 1898 Map of the Island of Singapore and Its Dependencies was a highly detailed map showing names of major buildings, districts, hills, islands and other landmarks, in addition to major transportation arteries around the island at the turn of the century Source: Survey Department, Courtesy of National Archives of Singapore ](../../../images/blogs/1898-Map-of-SG-Island-1000x657.jpg)*The 1898 Map of the Island of Singapore and Its Dependencies was a highly detailed map showing names of major buildings, districts, hills, islands and other landmarks, in addition to major transportation arteries around the island at the turn of the century*
  *Source: Survey Department, Courtesy of National Archives of Singapore Ref: TM000012*
 
-NAS has a rich collection of about 1,700 maps covering the inter-war period 1919-1938, between the end of the First World War and the outbreak of the Second World War. This was an important period for cartography in Singapore which saw successful efforts to improve the quality of local maps through better funding and staff for the survey department. The survey departments of the British controlled Federated Malay States (F.M.S.) and Straits Settlements (S.S.) were merged allowing for greater flexibility in allocating funding and manpower. In 1920, a decision was made, after decades of delays, by the newly merged F.M.S. & S.S. Survey department to initiate a modern trigonometrical survey of the Straits Settlements that would greatly enhance the accuracy of subsequent maps. One of the results of this effort was a comprehensive 16-part modern, coloured topographic map of Singapore published in 1924. This was the first proper topographical map of Singapore ever made and represented a considerable improvement in accuracy over previous Singapore maps. Other topographical maps of Singapore followed, including the publication of a single-sheet topographical map of Singapore Island in 1932.
+NAS has a rich collection of about 1,700 maps covering the inter-war period 1919-1938, between the end of the First World War and the outbreak of the Second World War. This was an important period for cartography in Singapore which saw successful efforts to improve the quality of local maps through better funding and staff for the survey department. The survey departments of the British controlled Federated Malay States (F.M.S.) and Straits Settlements (S.S.) were merged allowing for greater flexibility in allocating funding and manpower. In 1920, a decision was made, after decades of delays, by the newly merged F.M.S. &amp; S.S. Survey department to initiate a modern trigonometrical survey of the Straits Settlements that would greatly enhance the accuracy of subsequent maps. One of the results of this effort was a comprehensive 16-part modern, coloured topographic map of Singapore published in 1924. This was the first proper topographical map of Singapore ever made and represented a considerable improvement in accuracy over previous Singapore maps. Other topographical maps of Singapore followed, including the publication of a single-sheet topographical map of Singapore Island in 1932.
 
 ![1932 single-sheet topographic map of Singapore showing the island divided by Mukim (../../../images/blogs/1932-20050000691-0007_Acc.-No-1000x781.jpg) districts. Source: Survey Department, Courtesy of National Archives of Singapore ](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/04/1932-20050000691-0007_Acc.-No-1000x781.jpg)*1932 single-sheet topographic map of Singapore showing the island divided by*
  *Mukim (or Civil Parish) districts.*
@@ -131,13 +129,13 @@ Looking to the future where maps are increasingly created using digital techniqu
 
 [[2\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref2) (ed.) Robinson, Morrison, Muehrcke, Kimerling and Guptill, Elements of Cartography (Sixth Edition), p.9 and Evelyn Edson, “Bibliographic Essay: History of Cartography”, CHOICE: current reviews for academic libraries, pp. 1899
 
-[[3\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref3) J.B. Harley & David Woodward, ‘Preface’, The History of Cartography, v.1, University of Chicago: Chicago, 1987, pp.xv-xvi
+[[3\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref3) J.B. Harley &amp; David Woodward, ‘Preface’, The History of Cartography, v.1, University of Chicago: Chicago, 1987, pp.xv-xvi
 
 [[4\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref4) Evelyn Edson, “Bibliographic Essay: History of Cartography”, CHOICE: current reviews for academic libraries, pp. 1899-1909
 
 [[5\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref5) Matthew H. Edney, Mapping an Empire: The Geographical Construction of British India, 1765-1843, University of Chicago Press: Chicago, 1997, pp.294-318
 
-[[6\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref6) (ed.) Robinson, Morrison, Muehrcke, Kimerling and Guptill Elements of Cartography (Sixth Edition), John Wiley & Sons, 1995, p.12
+[[6\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref6) (ed.) Robinson, Morrison, Muehrcke, Kimerling and Guptill Elements of Cartography (Sixth Edition), John Wiley &amp; Sons, 1995, p.12
 
 [[7\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref7) Roger J.P. Kain, The Cadastral Map in the Service of the State, University of Chicago Press: Chicago, 1992 p.1
 
@@ -145,11 +143,11 @@ Looking to the future where maps are increasingly created using digital techniqu
 
 [[9\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref9)  See Mok Ly Yng’s discussion in his essay, ‘Mapping Singapore:1819-2014’
 
-[[10\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref10) “Asiac Nova Descriptio” by Abraham Ortelius.  Reprinted by J E Bushmann, Singapore Maritime Museum, National Archives of Singapore, Acc. HC000402 & “Exacta accurata delineatio cum orarum maritimarum…regionibus, China, Cauchinchina, Camboja…Japan”,  derived from portolan chart compiled in 1573 by Fernao Vaz Dourado, Portuguese Cartographer, published in 1598, National Archives of Singapore, Acc. GM000394
+[[10\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref10) “Asiac Nova Descriptio” by Abraham Ortelius.  Reprinted by J E Bushmann, Singapore Maritime Museum, National Archives of Singapore, Acc. HC000402 &amp; “Exacta accurata delineatio cum orarum maritimarum…regionibus, China, Cauchinchina, Camboja…Japan”,  derived from portolan chart compiled in 1573 by Fernao Vaz Dourado, Portuguese Cartographer, published in 1598, National Archives of Singapore, Acc. GM000394
 
 [[11\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref11) The NLB map collection has a coloured copy of the same map
 
-[[12\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref12) ‘Mapping the Mysterious East’, in Mapping New Worlds: The Cartography of European Exploration & Colonization: 1450-1750 an online exhibition by Bryn Mawr College: <http://www.brynmawr.edu/library/exhibits/maps/asia1.shtml#ortelius> (Last Accessed: 20 Oct 2014)
+[[12\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref12) ‘Mapping the Mysterious East’, in Mapping New Worlds: The Cartography of European Exploration &amp; Colonization: 1450-1750 an online exhibition by Bryn Mawr College: [https://digitalcollections.tricolib.brynmawr.edu/object/bmc95331](https://digitalcollections.tricolib.brynmawr.edu/object/bmc95331) (Last Accessed: 20 Oct 2014)
 
 [[13\]](http://www.nas.gov.sg/blogs/offtherecord/introduction-to-the-national-archives-of-singapore-map-collection/#_ftnref13) “Schematic map of the naval battle between Dutch Vice-Admiral Pietersz and Portuguese Captain Estevao Teixeira de Matos. On 6 October 1602, reproduced in Joannes Theodore de Bry’s “Grands et Petits Voyages” printed in Frankfort in 1607. National Archives of Singapore, Acc. HC000308
 
