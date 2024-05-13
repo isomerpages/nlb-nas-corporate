@@ -1,11 +1,9 @@
 ---
-title: 'Centrepoint Kids'
+title: Centrepoint Kids
 date: 2016-06-17T00:00:00.000Z
-permalink: /media/collections-and-research/centrepoint-kids
-
+permalink: /media/collections-and-research/centrepoint-kids/
+variant: markdown
 ---
-
-
 # Centrepoint Kids
 
 Fiona Tan 4 years ago 1 min. read
@@ -25,13 +23,12 @@ Breakdancing was the rage in 1980s and Orchard Road was the central of the fad. 
 
 ### References
 
-[[1\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref1) [Centrepoint Kids gone](http://newspapers.nl.sg/Digitised/Article/straitstimes19860223-1.2.7.1.6.aspx), The Straits Times, 23 February 1986, Page 2
+[[1\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref1) [Centrepoint Kids gone](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860223-1.2.7.1.6), The Straits Times, 23 February 1986, Page 2
 
-[[2\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref2) [Centrepoint Kids must go, says youth group](http://newspapers.nl.sg/Digitised/Article/straitstimes19860128-1.2.73.aspx), The Straits Times, 28 January 1986, Page 36
+[[2\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref2) [Centrepoint Kids must go, says youth group](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860128-1.2.73), The Straits Times, 28 January 1986, Page 36
 
-[[3\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref3) [Centrepoint Kids normal, says study](http://newspapers.nl.sg/Digitised/Article/straitstimes19851118-1.2.27.8.aspx), The Straits Times, 18 November 1985, Page 10
+[[3\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref3) [Centrepoint Kids normal, says study](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851118-1.2.27.8), The Straits Times, 18 November 1985, Page 10
 
-[[4\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref4) [School’s out — and it’s time for a break](http://newspapers.nl.sg/Digitised/Article/straitstimes19840610-1.2.10.aspx), The Straits Times, 10 June 1984, Page 1
+[[4\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref4) [School’s out — and it’s time for a break](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19840610-1.1.1), The Straits Times, 10 June 1984, Page 1
 
-[[5\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref5) [The breaking point](http://newspapers.nl.sg/Digitised/Article/straitstimes19840624-1.2.32.aspx), The Straits Times, 24 June 1984, Page 10
-
+[[5\]](http://www.nas.gov.sg/blogs/offtherecord/centrepoint-kids/#_ftnref5) [The breaking point](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840624-1.2.32), The Straits Times, 24 June 1984, Page 10

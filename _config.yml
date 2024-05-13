@@ -46,8 +46,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-staging: https://nas-corporate-staging.netlify.com
-prod: https://nas-corporate-prod.netlify.com
+staging: https://nas-corporate-staging.netlify.app
+prod: https://nas-corporate-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets

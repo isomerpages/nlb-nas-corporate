@@ -1,11 +1,9 @@
 ---
-title: 'Frequently Asked Questions'
+title: Frequently Asked Questions
 permalink: /conservation-and-preservation/frequently-asked-qn/
-breadcrumb: 'Frequently Asked Questions'
-
+breadcrumb: Frequently Asked Questions
+variant: markdown
 ---
-
-
 **What is the difference between preservation and conservation?**
 
 Preservation is the protection of cultural properties through activities that minimise chemical and physical deterioration and damage to prevent loss of informational content; its primary goal is to prolong the existence of cultural property and it encompasses conservation. 
@@ -172,18 +170,18 @@ Depending on the type of your collection and your needs, you can approach art ga
 
 **SELECTED RESOURCES:**
 
-AIC FAIC <https://learning.culturalheritage.org/public> 
+AIC FAIC  
 
-AIC Wiki <http://www.conservation-wiki.com/wiki/Main_Page> 
+AIC Wiki  
 
-Canadian Conservation Institute <https://www.canada.ca/en/conservation-institute/services/conservation-preservation-publications/canadian-conservation-institute-notes.html> 
+Canadian Conservation Institute  
 
-Connecting to Collections Care <http://www.connectingtocollections.org/resources> 
+Connecting to Collections Care  
 
-Library of Congress <https://www.loc.gov/preservation/> 
+Library of Congress  
 
 Northeast Document Conservation Center (NEDCC) [https://www.nedcc.org](https://www.nedcc.org/) 
 
-The Book & Paper Gathering [https://thebookandpapergathering.org](https://thebookandpapergathering.org/)  
+The Book &amp; Paper Gathering [https://thebookandpapergathering.org](https://thebookandpapergathering.org/)  
 
-The Conservation Center <http://www.theconservationcenter.com/article> 
+The Conservation Center
