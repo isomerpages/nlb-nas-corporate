@@ -7,11 +7,28 @@ variant: markdown
 ### LATEST EVENTS
 __________________________________________________________
 
+![](/images/Calendar%20of%20Events/Eventbrite_banner.jpg)
 
+**Thu, 19 Sep 2024**
 
+**7pm – 8pm I NAS Oldham Theatre**
 
+Register now via [[Eventbrite]](https://www.eventbrite.sg/e/archives-invitestim-bunnell-100-year-connection-johor-singapore-causeway-tickets-914402110327)
 
-__________________________________________________________
+### Archives Invites: Tim Bunnell |100-Year Connection: Johor-Singapore Causeway
+
+The Johor-Singapore Causeway can be examined through a variety of perspectives. As the Causeway celebrates its centenary year, Professor Tim Bunnell (NUS) distils some of the ways Social Sciences and Humanities scholars have studied the linkway. Professor Bunnell will draw on work that was included in a two-day academic workshop held at the NUS Asia Research Institute (ARI) in May 2024, which he co-organised with Francis Hutchinson (ISEAS-Yusof Ishak Institute) and Shaun Lin (NUS College). That body of work delves into a wide range of archival and other resources used to study the Causeway.
+
+### About the Speaker
+Tim Bunnell is a Professor at the Department of Geography and Director of the Asia Research Institute (ARI) at the National University of Singapore. The primary focus of his research is urbanisation in Southeast Asia, examining the historical and ongoing transformation of cities in the region. This includes a longstanding interest in the urban development of both Malaysia and Singapore and their inter-urban connections with other parts of the world. He is the author of _From World City to the World in One City: Liverpool through Malay Lives_ (Wiley, 2016), and is also currently part of a Singapore MOE-funded collaborative research project comparing urban future imaginaries of Nusantara (the new capital of Indonesia), Putrajaya and Singapore. Prof Bunnell’s academic engagement with the Causeway, initially in the form of an article published in the _Journal of Southeast Asian Studies_ (Hutchinson, Lin and Bunnell, 2023), has also been collaborative.
+
+### About Archives Invites
+Community histories unfold in this series that traces Singapore’s social past with help from the archives.
+
+### Subscribe to eNewsletter
+Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
+
+________________________________________________________________________
 ![](/images/Calendar%20of%20Events/AU_Talk_on_25_Jun_2024.jpg)
 
 **Thu, 4 Jul 2024**
