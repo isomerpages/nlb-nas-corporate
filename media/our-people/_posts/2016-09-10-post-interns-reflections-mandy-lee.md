@@ -20,7 +20,7 @@ As part of my 10 weeks internship at National Archives of Singapore (NAS), I was
 
  
 
-![img](../../../images/blogs/img_5987b1c59373b.png)
+![img](/images/blogs/img_5987b1c59373b.png)
 
 ​																						Figure 1
 
@@ -28,7 +28,7 @@ Figure 1 shows how a municipal’s burial register would look like. In particula
 
  
 
-![img](../../../images/blogs/img_5987b1dbb5a4d.png)
+![img](/images/blogs/img_5987b1dbb5a4d.png)
 
 ​																					Figure 2
 
@@ -36,7 +36,7 @@ Figure 2 shows the various handwritten letters written during British administra
 
  
 
-![img](../../../images/blogs/img_5987b204b1cfa.png)
+![img](/images/blogs/img_5987b204b1cfa.png)
 
 ​																					Figure 3
 
@@ -46,7 +46,7 @@ After the two fieldtrips, I was better able to understand the various death-rela
 
  
 
-![img](../../../images/blogs/img_5987b223380c8.png)
+![img](/images/blogs/img_5987b223380c8.png)
 
 ​																					Figure 4
 
@@ -54,7 +54,7 @@ Being an intern in NAS during this period also gave me the opportunity to partic
 
  
 
-![img](../../../images/blogs/img_5987b26b10420.png)
+![img](/images/blogs/img_5987b26b10420.png)
 
 ​																				Figure 5
 
@@ -62,7 +62,7 @@ On Week 10, it was time to present our findings and to show our completed help g
 
  
 
-![img](../../../images/blogs/img_5987b2474c9a6.png)
+![img](/images/blogs/img_5987b2474c9a6.png)
 
 ​																					Figure 6
 

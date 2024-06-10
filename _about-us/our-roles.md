@@ -21,13 +21,13 @@ To ensure long term preservation, the records are stored in environmentally-cont
 Records are also digitised for preservation and access by researchers and members of the public. Research can be conducted through the Archives Online portal as well as the Archives Reading Room (ARR). The ARR services around 300 enquiries a month and the number of records accessed online annually exceeds 400,000. 
 
 
-![Archives Services](../images/movie-1577352062355.jpg) 
+![Archives Services](/images/movie-1577352062355.jpg) 
 
 
 ### Records Management
 The Records Management Department of the NAS plays a regulatory role for the Government, by identifying public records of long-term value for safe-keeping and implementing a records management programme for the civil service. It also offers advisory and preservation services to assist government agencies in managing records, as good recordkeeping is essential to good corporate governance. The Records Management Department also trains public officers from government agencies, and shares our experiences with local and overseas recordkeeping practitioners on the management and preservation of public records. Every year, we conduct regular briefings and workshops, as well as host training attachments for our counterparts from overseas archival institutions. The topics covered in our workshops range from digital records management, digitisation standards and best practices, managing repository facilities and archival appraisal. 
 
-![Records Management Seminar](../images/roles_2.jpg) 
+![Records Management Seminar](/images/roles_2.jpg) 
 
 *A public sector seminar organised to impart records management skills and knowledge* 
 
@@ -36,13 +36,13 @@ The Oral History Centre (OHC) was set up in 1979. Using life stories and eye wit
 
 Our projects are both broad and deep in scope, covering aspects of the social, economic and political history of Singapore.
 
-![Oral History Centre](../images/roles_ohc.jpg)
+![Oral History Centre](/images/roles_ohc.jpg)
 
 
 ### Audio Visual Archives
 In 1989, the Advisory Council on Culture and the Arts chaired by then Second Deputy Prime Minister Ong Teng Cheong recommended the setting up of an audiovisual archives in Singapore to "*strengthen the national heritage collection in all media to cover sound-and-moving images*".	 
 
-![Audio Visual Archives](../images/av.jpg) 
+![Audio Visual Archives](/images/av.jpg) 
 
 *At-risk audiovisual formats* 
 

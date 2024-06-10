@@ -29,4 +29,4 @@ Read the [full speech here](http://www.nas.gov.sg/archivesonline/data/pdfdoc/Pre
 
  
 
-[![img](../../../images/blogs/19980000679-0009.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/19980000679-0009.jpg)S Rajaratnam greets supporters before leaving for the United Nations Conference, 16 Sept 1965
+[![img](/images/blogs/19980000679-0009.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2017/01/19980000679-0009.jpg)S Rajaratnam greets supporters before leaving for the United Nations Conference, 16 Sept 1965

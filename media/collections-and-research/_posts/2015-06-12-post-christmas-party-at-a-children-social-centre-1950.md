@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/childrensocialcentre/
 
 # CHRISTMAS PARTY AT A CHILDREN SOCIAL CENTRE, 1950
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-06-12-l.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](/images/blogs/2015-06-12-l.jpg)
 
 ​						Ministry of Information and The Arts Collection, National Archives of Singapore
 

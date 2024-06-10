@@ -24,6 +24,6 @@ Domestically, falling birth rates meant fewer national servicemen for the SAF, r
 
 Furthermore, after a decade of growth, the SAF needed to upgrade its defence equipment to keep up with regional political changes.
 
-![img](../../../images/blogs/img_599d93b72257c.png)
+![img](/images/blogs/img_599d93b72257c.png)
 
 The domino theory was first proposed by United States President Dwight D. Eisenhower in 1954. The theory predicted that if a country came under communist influence, the countries surrounding it would soon follow, toppling like a row of falling dominos. Milwaukee Journal, courtesy of NAS.

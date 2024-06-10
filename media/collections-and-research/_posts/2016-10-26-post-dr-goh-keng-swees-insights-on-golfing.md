@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/dr-goh-keng-swee/
 
  Grace Ho 3 years ago 1 min. read
 
-![19980006752 - 0098 GKS colour wm](../../../images/blogs/19980006752-0098-gks-colour-wm-300x200.jpg)
+![19980006752 - 0098 GKS colour wm](/images/blogs/19980006752-0098-gks-colour-wm-300x200.jpg)
 
 *A portrait of Dr Goh taken in 1984, when he was Singapore’s First Deputy Prime Minister and Minister for Education.* *MITA collection, courtesy of NAS. Ref: 19980006752 – 0098* 
 
@@ -24,7 +24,7 @@ In this extract from a humorous & insightful speech he gave at  the opening of t
 
 You can read the rest of the speech online at the National Archive’s database: <http://www.nas.gov.sg/archivesonline/data/pdfdoc/GKS19840317.pdf>
 
-![Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965. Ref: 19980000605 - 0030](../../../images/blogs/19980000605-0030-gks-golf-wm.jpg)
+![Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965. Ref: 19980000605 - 0030](/images/blogs/19980000605-0030-gks-golf-wm.jpg)
 
 ​                                       Dr Goh taking a swing shot at Bukit Club, Sime Road, 1965. 
 *Ministry of Information and the Arts collection, courtesy of NAS.* Ref: [19980000605 – 0030](http://www.nas.gov.sg/archivesonline/photographs/record-details/c3336aed-1161-11e3-83d5-0050568939ad)

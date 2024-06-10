@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/first-chingay-street-parade/
 
 # THE FIRST CHINGAY STREET PARADE, 1973
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-02-20-l.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](/images/blogs/2015-02-20-l.jpg)
 
 Ministry of Information and The Arts Collection, National Archives of Singapore
 

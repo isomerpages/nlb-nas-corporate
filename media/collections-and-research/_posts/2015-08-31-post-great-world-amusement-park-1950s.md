@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/greatworld/
 
 # GREAT WORLD AMUSEMENT PARK, 1950s
 
-![Wong Kwan Collection, National Archives of Singapore](../../../images/blogs/2015-08-28-l.jpg)
+![Wong Kwan Collection, National Archives of Singapore](/images/blogs/2015-08-28-l.jpg)
 
 ​												Wong Kwan Collection, National Archives of Singapore
 

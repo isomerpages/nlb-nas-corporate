@@ -14,7 +14,7 @@ Grace Ho 3 years ago 4 min. read
 
 
 
-![Abigail (../../../images/blogs/Abi-Ee-Hoon-1000x667.jpg), our reference archivist, in conversation with one of our regular researchers Ee Hoon (left)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/11/Abi-Ee-Hoon-1000x667.jpg)Abigail Huang (right), our reference archivist, in conversation with one of our regular researchers Ms Khoo Ee Hoon (left)
+![Abigail (/images/blogs/Abi-Ee-Hoon-1000x667.jpg), our reference archivist, in conversation with one of our regular researchers Ee Hoon (left)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/11/Abi-Ee-Hoon-1000x667.jpg)Abigail Huang (right), our reference archivist, in conversation with one of our regular researchers Ms Khoo Ee Hoon (left)
 
 **What do you do as a reference archivist?**
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/changi-prison-internment-camp-menu/
 
 # CHANGI PRISON INTERNMENT CAMP MENU BY W R M HAXWORTH, 1942
 
-![W R M Haxworth Collection, National Archives of Singapore](../../../images/blogs/2015-02-27-l.jpg)
+![W R M Haxworth Collection, National Archives of Singapore](/images/blogs/2015-02-27-l.jpg)
 
 ​										W R M Haxworth Collection, National Archives of Singapore
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/singaporeminiaturezoo/
 
 # SINGAPORE MINIATURE ZOO, 1950s-1960s
 
-![Tong Seng Mun Collection, courtesy of National Archives of Singapore](../../../images/blogs/2015-05-22-l.jpg)
+![Tong Seng Mun Collection, courtesy of National Archives of Singapore](/images/blogs/2015-05-22-l.jpg)
 
 ​										Tong Seng Mun Collection, National Archives of Singapore
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/oral-history-interview-experiences-of
 
 # ORAL HISTORY INTERVIEW OF THE EXPERIENCES OF A MIDWIFE, RECORDED IN 1997
 
-![National Archives of Singapore](../../../images/blogs/2015-01-23-l-1024x720.jpg)
+![National Archives of Singapore](/images/blogs/2015-01-23-l-1024x720.jpg)
 
 ​																National Archives of Singapore
 

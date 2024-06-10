@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/pontianak/
 
 # CHINESE ADVERTISEMENT OF THE MALAY FILM ‘PONTIANAK’, 1957
 
-![2015-05-08 (../../../images/blogs/2015-05-08-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-08-L.jpg)
+![2015-05-08 (/images/blogs/2015-05-08-L.jpg)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/05/2015-05-08-L.jpg)
 
 ​															National Archives of Singapore
 

@@ -14,7 +14,7 @@ In 1992, the Singapore Heritage Society, with the support of partners including 
 
  
 
-![img](../../../images/blogs/img_59aa3a3293cc5-500x473.png)
+![img](/images/blogs/img_59aa3a3293cc5-500x473.png)
 
 ​					Facade of the Former Ford Factory, 2017. Courtesy of National Archives of Singapore.
 
@@ -22,13 +22,13 @@ In 2003, the National Archives of Singapore (NAS) was offered the Former Ford Fa
 
 More than 300,000 visitors passed through MOFF since its opening by then- Defence Minister Teo Chee Hean on 16 February 2006. MOFF has played an important national role in educating citizens and visitors on the indelible mark left by the Occupation on our national psyche.
 
-![img](../../../images/blogs/img_59aa3a69cc189-500x388.png)
+![img](/images/blogs/img_59aa3a69cc189-500x388.png)
 
 ​			Interior shot of the revamped exhibiton in 2017. Courtesy of National Archives of Singapore.
 
 The government felt that a revamp of MOFF was timely to refresh the exhibits and storyline.  The revamp was also occasioned, in part, by key changes in our society and consciousness – not least, the awakening of interest in aspects of our past. This was most noticeable during the celebrations for the 50th year of Singapore’s independence in 2015. But there has been renewed interest, too, on account of the growing realization that those who lived through the Japanese Occupation are few, and those who remember its privations, ever fewer. More has to be done to commemorate this part of our history. Within a short span of time, these recollections will pass out of living remembrance. The revamp is therefore not just timely but important.
 
-![img](../../../images/blogs/img_59aa3b155df70.png)
+![img](/images/blogs/img_59aa3b155df70.png)
 
 ​																	Courtesy of Landmark Books.
 

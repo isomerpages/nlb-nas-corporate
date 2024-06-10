@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/pm''s-new-year-message/
 
 Grace Ho 3 years ago1 min. read
 
-![img](../../../images/blogs/img_586b5ba44090b.png)      
+![img](/images/blogs/img_586b5ba44090b.png)      
 
 **The first page of PM Lee’s 1982 New Year’s Day speech**
 

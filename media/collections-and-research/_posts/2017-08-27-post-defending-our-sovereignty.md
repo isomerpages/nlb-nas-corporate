@@ -24,17 +24,17 @@ To re-establish public confidence, the immediate task of the young Republic was 
 
  
 
-![img](../../../images/blogs/img_599d8c755a8ab.png)
+![img](/images/blogs/img_599d8c755a8ab.png)
 
 PDF artillery exercise at Pasir Laba on 24 November 1966. *Ministry of Information, Communications and the Arts, courtesy of NAS*. Ref.: [*19980005290 – 0089*](http://www.nas.gov.sg/archivesonline/photographs/record-details/c8b2d13b-1161-11e3-83d5-0050568939ad)
 
 Immediately after Independence in 1965, Singapore’s military forces consisted of the First and Second Singapore Infantry Regiment (1 SIR and 2 SIR), the Vigilante Corps and the Singapore Volunteer Corps. In October that year, there was another recruitment drive for more volunteers to form the People’s Defence Force (PDF). By the end of the year, more than 3,000 Singaporeans had signed up.[[2\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn2)
 
-![img](../../../images/blogs/img_599d8c95c31e6.png)
+![img](/images/blogs/img_599d8c95c31e6.png)
 
 Dr Goh inspecting the second batch of PDF volunteers, which included Minister for Labour, Jek Yeun Thong (on the left), 29 November 1966. *The Straits Times, courtesy of NAS.*
 
-![img](../../../images/blogs/img_599d8ca72a2b1.png)
+![img](/images/blogs/img_599d8ca72a2b1.png)
 
 National Service (Amendment) Act came into force on 17 March 1967. Singapore Government Gazette, 1967, courtesy of NAS.
 
@@ -50,31 +50,31 @@ Dr Goh’s defence strategy was to establish a small force of regulars to comman
 
  
 
-![img](../../../images/blogs/19980005330img0035.jpg)
+![img](/images/blogs/19980005330img0035.jpg)
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/img0029-667x1000.jpg)
+![img](/images/blogs/img0029-667x1000.jpg)
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/img0040-667x1000.jpg)
+![img](/images/blogs/img0040-667x1000.jpg)
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/19980005330img0033.jpg)Ministry of Information, Communications and the Arts, courtesy of NAS.
+![img](/images/blogs/19980005330img0033.jpg)Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/19980005330img0037.jpg)Ministry of Information, Communications and the Arts, courtesy of NAS.
+![img](/images/blogs/19980005330img0037.jpg)Ministry of Information, Communications and the Arts, courtesy of NAS.
 
 Registration exercise of first batch of National Service recruits – 29 March to 18 April 1967. Of the 9,428 men eligible for NS, over 96% registered.[[5\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn5) *Ministry of Information, Communications and the Arts**, courtesy of NAS. Ref.: 19980005330-0037.*
 
  
 
-![img](../../../images/blogs/10x12-19990006073img0031-768x525.jpg)Minister of State for Culture and MP for Hong Lim, Lee Khoon Choy, hosting a send-off party for NS recruits on 31 August 1967. This was one of the many send-off parties organised by the different constituencies. *Ministry of Information, Communications and the Arts, courtesy of NAS.*
+![img](/images/blogs/10x12-19990006073img0031-768x525.jpg)Minister of State for Culture and MP for Hong Lim, Lee Khoon Choy, hosting a send-off party for NS recruits on 31 August 1967. This was one of the many send-off parties organised by the different constituencies. *Ministry of Information, Communications and the Arts, courtesy of NAS.*
 
  
 
-![img](../../../images/blogs/img_599d8ed24a96e.png)
+![img](/images/blogs/img_599d8ed24a96e.png)
 
 Minister of The Interior and Defence Dr Goh Keng Swee Inspecting Contingents at Singapore Armed Forces Training Institute (Safti) Commissioning Parade at Pasir Laba, Jurong, 16 July 1967. *Ministry of Information and the Arts, courtesy of NAS.* [Ref.: 19980005381-0009.](http://www.nas.gov.sg/archivesonline/photographs/record-details/caaa3115-1161-11e3-83d5-0050568939a)
 
@@ -84,35 +84,35 @@ Singapore Armed Forces Training Institute (SAFTI), the first training institute 
 
  
 
-![img](../../../images/blogs/img_599d8f1dd0421.png)
+![img](/images/blogs/img_599d8f1dd0421.png)
 
 Dr Goh at the opening of the School of Artillery at SAFTI on 1 August 1967. *Ministry of Information, Communications and the Arts, courtesy of NAS. Ref.: 19980005392-0113.*
 
  
 
-![img](../../../images/blogs/img_599d8fb342f01.png)
+![img](/images/blogs/img_599d8fb342f01.png)
 
 Dr Goh viewing exhibits at the opening of the School of Signals at SAFTI on 22 July 1967. *Ministry of Information, Communications and the Arts, courtesy of NAS. Ref.: 19980005384-0018.*
 
  
 
-![img](../../../images/blogs/img_599d8f34bbc19.png)
+![img](/images/blogs/img_599d8f34bbc19.png)
 
 Four Air Force technicians sent to France for training on the Alouette helicopter in 1968. To strengthen air defence, the French-trained Alouette Helicopter Squadron was formed in October 1969. In less than three months, 16 Strikemaster jet aircrafts were ready for deployment.[[7\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn7) *SAF and 30 Years of National Service, courtesy of NAS.*
 
-![img](../../../images/blogs/img_599d8f3e8d9c8.png)
+![img](/images/blogs/img_599d8f3e8d9c8.png)
 
 Inspection of Singapore Navy at Telok Ayer Basin by Permanent Secretary of Defence George Bogaars on 5 May 1967. After establishing land defence, the Republic rapidly built up its air and sea forces. The School of Naval Training formed in November 1968 and Pulau Brani Naval Base was set up within the next three years.[[8\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn8) *Ministry of Information, Communications and the Arts, courtesy of NAS. Ref.: 19980005347- 0005.*
 
 
 
-![img](../../../images/blogs/img_599d8f4cd3f64.png)
+![img](/images/blogs/img_599d8f4cd3f64.png)
 
 PM Lee Kuan Yew presenting SAFTI its colours, the first in SAF, two days before its second anniversary in 1968. *The Straits Times, courtesy of NAS.*
 
 To give the Republic’s small armed forces a technological edge, Dr Goh initiated the modernisation of its weaponry. In 1972, an Electronic Test Centre (the precursor of the Defence Science Organisation) was established to develop electronic warfare and cryptography.
 
-![img](../../../images/blogs/img_599d8f5f5c6af.png)
+![img](/images/blogs/img_599d8f5f5c6af.png)
 
 Armoured Infantry Training with Singapore Armed Forces’ AMX-13 Tanks. *Ministry of the Information and the Arts, courtesy of NAS. Ref.: 19980006289-0104*
 
@@ -128,7 +128,7 @@ To meet the changing security needs, Singapore continues to develop and refine i
 
 In today’s geopolitical arena, Singapore continues to uphold this legacy of defence, striving to enhance our peace and security through deterrence and diplomacy.
 
-![img](../../../images/blogs/img_599d90521e950.png)
+![img](/images/blogs/img_599d90521e950.png)
 
 FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore on 4 – 5 June 2006. The ministers reaffirmed the important role of the FPDA in regional security, as more joint and complex exercises were being conducted. The meeting highlighted FPDA’s increased focus in countering terrorism and non-conventional threats in the region.[[10\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn10) *Pioneer Magazine, MINDEF Public Affairs, courtesy of NAS.*
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/leedaisoh/
 
 # POPULAR STORYTELLER LEE DAI SOH TELLING STORIES ON AIR, 1966
 
-![img](../../../images/blogs/2015-07-03-l.jpg)
+![img](/images/blogs/2015-07-03-l.jpg)
 
 ​												Lee Dai Soh Collection, National Archives of Singapore
 

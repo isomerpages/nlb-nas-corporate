@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/proclamationofsingapore/
 
 # PROCLAMATION OF SINGAPORE, 1965
 
-![National Archives of Singapore](../../../images/blogs/2015-08-07-l.jpg)
+![National Archives of Singapore](/images/blogs/2015-08-07-l.jpg)
 
 ​                                                                   National Archives of Singapore
 
@@ -24,7 +24,7 @@ The secrecy surrounding the negotiations and hurried nature of the separation is
 
 This is in marked contrast with the celebratory nature reflected in the elaborately designed Proclamation of Malaysia when Singapore became part of Malaysia in 1963 and it was declared that “Singapore shall be forever a part of the sovereign democratic and independent State of Malaysia, founded upon the principles of liberty and justice and ever seeking the welfare and happiness of her people in a more just and equal society”.
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-08-07-l2.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-08-07-l2.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

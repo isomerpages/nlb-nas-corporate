@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/transcribing-ssr/
 
 Grace Ho 3 years ago 2 min. read
 
-![img](../../../images/blogs/img_587dc52829328.png)
+![img](/images/blogs/img_587dc52829328.png)
 
 ***This is part of a series of posts on the Citizen Archivist Project. For more information on this crowd-sourcing platform, please see www.nas.gov.sg/citizenarchivist/.*** 
 

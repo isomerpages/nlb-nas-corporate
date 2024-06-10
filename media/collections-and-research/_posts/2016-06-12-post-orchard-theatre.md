@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/orchard-theatre/
 
 Fiona Tan 4 years ago 1 min. read
 
-![19980007383---0113-Orchard-Theatre](../../../images/blogs/19980007383-0113-orchard-theatre.jpg)Orchard Theatre (pictured here in 1994) was the second cinema owned by Cathay but boasted several firsts. *Courtesy of NAS*. Ref: [19980007383 – 0113](http://www.nas.gov.sg/archivesonline/photographs/record-details/516f2a0b-1162-11e3-83d5-0050568939ad)
+![19980007383---0113-Orchard-Theatre](/images/blogs/19980007383-0113-orchard-theatre.jpg)Orchard Theatre (pictured here in 1994) was the second cinema owned by Cathay but boasted several firsts. *Courtesy of NAS*. Ref: [19980007383 – 0113](http://www.nas.gov.sg/archivesonline/photographs/record-details/516f2a0b-1162-11e3-83d5-0050568939ad)
 
 ***This was published as part of a series of posts based on irememberOrchard, an exhibition organised by the National Archives of Singapore at library@Orchard from 23 October 2014 to 26 April 2015.***
 

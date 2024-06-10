@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/itineranthawker/
 
 # ITINERANT HAWKER, 1950s
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-24-l.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](/images/blogs/2015-07-24-l.jpg)
 
 Ministry of Information and The Arts Collection, National Archives of Singapore
 

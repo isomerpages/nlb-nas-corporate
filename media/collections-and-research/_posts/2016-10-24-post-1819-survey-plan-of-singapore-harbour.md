@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/1819-survey-plan/
 
 Grace Ho 4 years ago 1 min. read
 
-![Plan of Singapore Harbour](../../../images/blogs/20120001528_002_hc000535-compressed-wm.jpg)
+![Plan of Singapore Harbour](/images/blogs/20120001528_002_hc000535-compressed-wm.jpg)
 
 Plan Of Singapore Harbour By Captain D. Ross
 *Courtesy of NAS* Ref: [HC000535](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb684cf4-115c-11e3-83d5-0050568939ad)
