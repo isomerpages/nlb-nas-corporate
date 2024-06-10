@@ -1,7 +1,7 @@
 ---
 title: 'Mr Lim Nang Seng Sculpting a Miniature Merlion Statue, 1972'
 date: 2015-03-06T00:00:00.000Z
-permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion
+permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion/
 
 ---
 

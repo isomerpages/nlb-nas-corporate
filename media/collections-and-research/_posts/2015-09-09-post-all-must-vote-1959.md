@@ -1,7 +1,7 @@
 ---
 title: 'All Must Vote, 1959'
 date: 2015-09-09T00:00:00.000Z
-permalink: /media/collections-and-research/all-must-vote
+permalink: /media/collections-and-research/all-must-vote/
 
 ---
 

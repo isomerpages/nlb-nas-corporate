@@ -1,7 +1,7 @@
 ---
 title: Bukit Brown Cemetery Burial Registers Online
 date: 2016-09-03T00:00:00.000Z
-permalink: /media/finding-aids/burialregistersonline
+permalink: /media/finding-aids/burialregistersonline/
 ---
 # Bukit Brown Cemetery Burial Registers Online : 1922 to 1972
 

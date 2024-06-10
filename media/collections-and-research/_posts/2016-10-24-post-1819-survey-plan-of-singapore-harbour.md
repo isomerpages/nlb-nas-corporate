@@ -1,7 +1,7 @@
 ---
 title: '1819 Survey Plan of Singapore Harbour'
 date: 2016-10-24T00:00:00.000Z
-permalink: /media/collections-and-research/1819-Survey-Plan
+permalink: /media/collections-and-research/1819-survey-plan/
 
 ---
 

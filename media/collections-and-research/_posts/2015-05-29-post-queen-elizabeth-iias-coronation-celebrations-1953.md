@@ -1,7 +1,7 @@
 ---
 title: 'Queen Elizabeth II’s Coronation Celebrations, 1953'
 date: 2015-05-29T00:00:00.000Z
-permalink: /media/collections-and-research/queenelizabethcoronation
+permalink: /media/collections-and-research/queenelizabethcoronation/
 
 ---
 

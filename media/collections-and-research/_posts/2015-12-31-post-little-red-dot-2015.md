@@ -1,7 +1,7 @@
 ---
 title: 'Little Red Dot, 2015'
 date: 2015-12-31T00:00:00.000Z
-permalink: /media/collections-and-research/little-red-dot
+permalink: /media/collections-and-research/little-red-dot/
 
 ---
 

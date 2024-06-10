@@ -1,6 +1,6 @@
 ---
 title: Children's Season
-permalink: /former-ford-factory/childrenseason
+permalink: /former-ford-factory/childrenseason/
 description: Children's Season 2021 at Former Ford Factory
 ---
 

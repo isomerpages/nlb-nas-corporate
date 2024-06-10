@@ -1,7 +1,7 @@
 ---
 title: 'Post Office Savings Bank Poster, 1977'
 date: 2015-01-02T00:00:00.000Z
-permalink: /media/collections-and-research/post-office-savings-bank-poster
+permalink: /media/collections-and-research/post-office-savings-bank-poster/
 
 ---
 

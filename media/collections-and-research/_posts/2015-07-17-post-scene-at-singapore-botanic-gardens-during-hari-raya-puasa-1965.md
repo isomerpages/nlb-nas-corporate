@@ -1,7 +1,7 @@
 ---
 title: 'Scene at Singapore Botanic Gardens During Hari Raya Puasa, 1965'
 date: 2015-07-17T00:00:00.000Z
-permalink: /media/collections-and-research/harirayapuasabotanicgardens
+permalink: /media/collections-and-research/harirayapuasabotanicgardens/
 
 ---
 

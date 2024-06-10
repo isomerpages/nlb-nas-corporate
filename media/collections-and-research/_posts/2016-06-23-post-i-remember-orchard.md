@@ -1,7 +1,7 @@
 ---
 title: 'I Remember Orchard'
 date: 2016-06-23T00:00:00.000Z
-permalink: /media/collections-and-research/i-rem-orchard
+permalink: /media/collections-and-research/i-rem-orchard/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Memories of War and Its Legacies'
 date: 2017-02-01T00:00:00.000Z
-permalink: /media/collections-and-research/memoriesofwarandlegacies
+permalink: /media/collections-and-research/memoriesofwarandlegacies/
 
 ---
 

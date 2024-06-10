@@ -1,7 +1,7 @@
 ---
 title: 'External Threats: Storm Clouds Over Indochina'
 date: 2017-02-22T00:00:00.000Z
-permalink: /media/collections-and-research/external-threats
+permalink: /media/collections-and-research/external-threats/
 
 ---
 

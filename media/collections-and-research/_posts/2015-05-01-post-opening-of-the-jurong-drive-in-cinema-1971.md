@@ -1,7 +1,7 @@
 ---
 title: 'Opening of the Jurong Drive-In Cinema, 1971'
 date: 2015-05-01T00:00:00.000Z
-permalink: /media/collections-and-research/jurongdriveincinema
+permalink: /media/collections-and-research/jurongdriveincinema/
 
 ---
 

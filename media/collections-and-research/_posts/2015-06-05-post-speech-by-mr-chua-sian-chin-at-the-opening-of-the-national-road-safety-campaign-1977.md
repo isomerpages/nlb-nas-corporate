@@ -1,7 +1,7 @@
 ---
 title: 'Speech by Mr Chua Sian Chin at the Opening of the National Road Safety Campaign, 1977'
 date: 2015-06-05T00:00:00.000Z
-permalink: /media/collections-and-research/roadsafetycampaign
+permalink: /media/collections-and-research/roadsafetycampaign/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Sharity The Elephant And Friends, 1993'
 date: 2015-10-16T00:00:00.000Z
-permalink: /media/collections-and-research/sharity-the-elephant
+permalink: /media/collections-and-research/sharity-the-elephant/
 
 ---
 

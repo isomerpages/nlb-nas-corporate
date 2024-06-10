@@ -1,7 +1,7 @@
 ---
 title: 'Total Defence'
 date: 2017-05-14T00:00:00.000Z
-permalink: /media/collections-and-research/total-defence
+permalink: /media/collections-and-research/total-defence/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Behind the Scenes with Abigail Huang Reference Archivist'
 date: 2016-09-15T00:00:00.000Z
-permalink: /media/finding-aids/behind-the-scenes
+permalink: /media/finding-aids/behind-the-scenes/
 
 ---
 

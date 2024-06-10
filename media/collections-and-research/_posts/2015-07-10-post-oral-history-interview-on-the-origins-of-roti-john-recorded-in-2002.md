@@ -1,7 +1,7 @@
 ---
 title: 'Oral History Interview on the Origins of ''Roti John'', Recorded in 2002'
 date: 2015-07-10T00:00:00.000Z
-permalink: /media/collections-and-research/rotijohn
+permalink: /media/collections-and-research/rotijohn/
 
 ---
 

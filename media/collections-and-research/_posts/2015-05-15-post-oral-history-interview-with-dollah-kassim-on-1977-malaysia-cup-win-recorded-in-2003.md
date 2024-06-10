@@ -1,7 +1,7 @@
 ---
 title: 'Oral History Interview with Dollah Kassim on 1977 Malaysia Cup Win, Recorded in 2003'
 date: 2015-05-15T00:00:00.000Z
-permalink: /media/collections-and-research/dollahkassim
+permalink: /media/collections-and-research/dollahkassim/
 
 ---
 

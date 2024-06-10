@@ -1,6 +1,6 @@
 ---
 title: Browser Compatibility
-permalink: /browser-compatibility
+permalink: /browser-compatibility/
 ---
 
 The NAS website supports the following browsers: 

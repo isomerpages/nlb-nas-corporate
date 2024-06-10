@@ -1,7 +1,7 @@
 ---
 title: 'Interns Reflections - Lim Hui Xiang'
 date: 2016-09-10T00:00:00.000Z
-permalink: /media/finding-aids/intern-limhuixiang
+permalink: /media/finding-aids/intern-limhuixiang/
 
 ---
 

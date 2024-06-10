@@ -1,7 +1,7 @@
 ---
 title: 'Cattle Disposal Squad Press Statement, 1965'
 date: 2015-01-16T00:00:00.000Z
-permalink: /media/collections-and-research/cattle-disposal-squad-press-stmt
+permalink: /media/collections-and-research/cattle-disposal-squad-press-stmt/
 
 ---
 

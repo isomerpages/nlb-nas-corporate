@@ -1,7 +1,7 @@
 ---
 title: 'Girls'' Sports Club''s New Year''s Eve Dance at the Victoria Memorial Hall, 1960'
 date: 2015-01-09T00:00:00.000Z
-permalink: /media/collections-and-research/girls-sports-club-new-year-eve-dance
+permalink: /media/collections-and-research/girls-sports-club-new-year-eve-dance/
 
 ---
 

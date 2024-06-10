@@ -1,7 +1,7 @@
 ---
 title: 'Turbo-charging the Armed Forces'
 date: 2017-03-15T00:00:00.000Z
-permalink: /media/collections-and-research/turbocharging-armed-forces
+permalink: /media/collections-and-research/turbocharging-armed-forces/
 
 ---
 

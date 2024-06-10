@@ -1,7 +1,7 @@
 ---
 title: 'Fit to Fight: Reservists On The Frontline'
 date: 2017-04-25T00:00:00.000Z
-permalink: /media/collections-and-research/fit-to-fight
+permalink: /media/collections-and-research/fit-to-fight/
 
 ---
 

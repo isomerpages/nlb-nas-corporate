@@ -1,7 +1,7 @@
 ---
 title: 'Berita Singapura: Launch of Television Singapura, 1960s'
 date: 2015-11-12T00:00:00.000Z
-permalink: /media/collections-and-research/launch-of-television
+permalink: /media/collections-and-research/launch-of-television/
 
 ---
 

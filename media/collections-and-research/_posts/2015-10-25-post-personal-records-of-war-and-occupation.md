@@ -1,7 +1,7 @@
 ---
 title: 'Personal Records of War and Occupation'
 date: 2015-10-25T00:00:00.000Z
-permalink: /media/collections-and-research/personal-records
+permalink: /media/collections-and-research/personal-records/
 
 ---
 

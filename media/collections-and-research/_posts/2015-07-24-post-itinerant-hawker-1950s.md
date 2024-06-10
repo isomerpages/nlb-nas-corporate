@@ -1,7 +1,7 @@
 ---
 title: 'Itinerant Hawker, 1950s'
 date: 2015-07-24T00:00:00.000Z
-permalink: /media/collections-and-research/itineranthawker
+permalink: /media/collections-and-research/itineranthawker/
 
 ---
 

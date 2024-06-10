@@ -1,7 +1,7 @@
 ---
 title: 'Dr Goh Keng Swee''s Insights on Golfing'
 date: 2016-10-26T00:00:00.000Z
-permalink: /media/collections-and-research/dr-goh-keng-swee
+permalink: /media/collections-and-research/dr-goh-keng-swee/
 
 ---
 

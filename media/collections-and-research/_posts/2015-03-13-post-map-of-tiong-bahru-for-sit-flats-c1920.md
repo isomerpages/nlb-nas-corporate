@@ -1,7 +1,7 @@
 ---
 title: 'Map of Tiong Bahru for SIT Flats, c.1920'
 date: 2015-03-13T00:00:00.000Z
-permalink: /media/collections-and-research/map-of-tiong-bahru
+permalink: /media/collections-and-research/map-of-tiong-bahru/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'The Mystery of Kunnuck Mistree'
 date: 2016-10-30T00:00:00.000Z
-permalink: /media/collections-and-research/kunnuck-mistree
+permalink: /media/collections-and-research/kunnuck-mistree/
 
 ---
 

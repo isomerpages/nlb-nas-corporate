@@ -1,7 +1,7 @@
 ---
 title: 'The First Chingay Street Parade, 1973'
 date: 2015-02-20T00:00:00.000Z
-permalink: /media/collections-and-research/first-chingay-street-parade
+permalink: /media/collections-and-research/first-chingay-street-parade/
 
 ---
 

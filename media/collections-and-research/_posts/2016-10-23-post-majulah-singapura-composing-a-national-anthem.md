@@ -1,7 +1,7 @@
 ---
 title: 'Majulah Singapura - Composing a National Anthem'
 date: 2016-10-23T00:00:00.000Z
-permalink: /media/collections-and-research/majulah-singapura
+permalink: /media/collections-and-research/majulah-singapura/
 
 ---
 

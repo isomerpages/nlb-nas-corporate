@@ -1,7 +1,7 @@
 ---
 title: 'Teeth Brushing Exercise, 1969'
 date: 2015-06-19T00:00:00.000Z
-permalink: /media/collections-and-research/teethbrushing
+permalink: /media/collections-and-research/teethbrushing/
 
 ---
 

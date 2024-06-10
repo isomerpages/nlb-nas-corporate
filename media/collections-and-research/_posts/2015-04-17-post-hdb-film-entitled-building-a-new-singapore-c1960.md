@@ -1,7 +1,7 @@
 ---
 title: 'HDB Film Entitled ''Building a New Singapore'', c.1960'
 date: 2015-04-17T00:00:00.000Z
-permalink: /media/collections-and-research/hdb-film
+permalink: /media/collections-and-research/hdb-film/
 
 ---
 

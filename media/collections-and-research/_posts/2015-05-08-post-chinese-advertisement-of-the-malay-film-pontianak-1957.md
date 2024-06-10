@@ -1,7 +1,7 @@
 ---
 title: 'Chinese Advertisement of the Malay Film, ''Pontianak'', 1957'
 date: 2015-05-08T00:00:00.000Z
-permalink: /media/collections-and-research/pontianak
+permalink: /media/collections-and-research/pontianak/
 
 ---
 

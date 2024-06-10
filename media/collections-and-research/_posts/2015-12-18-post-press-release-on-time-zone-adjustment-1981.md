@@ -1,7 +1,7 @@
 ---
 title: 'Press Release on Time Zone Adjustment, 1981'
 date: 2015-12-18T00:00:00.000Z
-permalink: /media/collections-and-research/time-zone-adjustment
+permalink: /media/collections-and-research/time-zone-adjustment/
 
 ---
 

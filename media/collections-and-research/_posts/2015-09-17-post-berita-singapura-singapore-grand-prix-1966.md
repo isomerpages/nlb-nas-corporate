@@ -1,7 +1,7 @@
 ---
 title: 'Berita Singapura: Singapore Grand Prix, 1966'
 date: 2015-09-17T00:00:00.000Z
-permalink: /media/collections-and-research/berita-singapura
+permalink: /media/collections-and-research/berita-singapura/
 
 ---
 

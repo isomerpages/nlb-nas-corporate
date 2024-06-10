@@ -1,7 +1,7 @@
 ---
 title: 'Great World Amusement Park, 1950s'
 date: 2015-08-31T00:00:00.000Z
-permalink: /media/collections-and-research/greatworld
+permalink: /media/collections-and-research/greatworld/
 
 ---
 

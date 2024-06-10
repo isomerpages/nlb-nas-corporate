@@ -1,7 +1,7 @@
 ---
 title: 'The Inche Yusof Ishak Collection'
 date: 2015-10-01T00:00:00.000Z
-permalink: /media/collections-and-research/incheyusofishak
+permalink: /media/collections-and-research/incheyusofishak/
 
 ---
 

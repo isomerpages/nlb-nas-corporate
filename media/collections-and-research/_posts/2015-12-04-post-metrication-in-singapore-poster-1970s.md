@@ -1,7 +1,7 @@
 ---
 title: 'Metrication in Singapore Poster, 1970s'
 date: 2015-12-04T00:00:00.000Z
-permalink: /media/collections-and-research/metrication
+permalink: /media/collections-and-research/metrication/
 
 ---
 

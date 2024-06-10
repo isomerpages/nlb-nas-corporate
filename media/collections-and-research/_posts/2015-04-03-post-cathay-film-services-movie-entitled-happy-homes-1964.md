@@ -1,7 +1,7 @@
 ---
 title: 'Cathay Film Services Movie Entitled ''Happy Homes'', 1964'
 date: 2015-04-03T00:00:00.000Z
-permalink: /media/collections-and-research/cathay-film-services-movie
+permalink: /media/collections-and-research/cathay-film-services-movie/
 
 ---
 

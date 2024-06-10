@@ -1,7 +1,7 @@
 ---
 title: 'Independence Day?'
 date: 2015-08-16T00:00:00.000Z
-permalink: /media/collections-and-research/independenceday
+permalink: /media/collections-and-research/independenceday/
 
 ---
 

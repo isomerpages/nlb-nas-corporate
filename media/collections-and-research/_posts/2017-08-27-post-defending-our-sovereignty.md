@@ -1,7 +1,7 @@
 ---
 title: 'Defending Our Sovereignty'
 date: 2017-08-27T00:00:00.000Z
-permalink: /media/collections-and-research/defending-sovereignty
+permalink: /media/collections-and-research/defending-sovereignty/
 
 ---
 

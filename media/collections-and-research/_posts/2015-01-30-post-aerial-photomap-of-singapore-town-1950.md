@@ -1,7 +1,7 @@
 ---
 title: 'Aerial Photomap of Singapore Town, 1950'
 date: 2015-01-30T00:00:00.000Z
-permalink: /media/collections-and-research/aerial-photomap-singapore-town
+permalink: /media/collections-and-research/aerial-photomap-singapore-town/
 
 ---
 

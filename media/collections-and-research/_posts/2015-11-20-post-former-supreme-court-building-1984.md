@@ -1,7 +1,7 @@
 ---
 title: 'Former Supreme Court Building, 1984'
 date: 2015-11-20T00:00:00.000Z
-permalink: /media/collections-and-research/supreme-court-building
+permalink: /media/collections-and-research/supreme-court-building/
 
 ---
 

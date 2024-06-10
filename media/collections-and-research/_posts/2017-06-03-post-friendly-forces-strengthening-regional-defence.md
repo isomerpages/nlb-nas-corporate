@@ -1,7 +1,7 @@
 ---
 title: 'Friendly Forces: Strengthening Regional Defence'
 date: 2017-06-03T00:00:00.000Z
-permalink: /media/collections-and-research/friendly-forces
+permalink: /media/collections-and-research/friendly-forces/
 
 ---
 

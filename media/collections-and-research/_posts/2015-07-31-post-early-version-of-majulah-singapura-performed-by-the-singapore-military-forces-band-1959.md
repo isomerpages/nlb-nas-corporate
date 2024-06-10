@@ -1,7 +1,7 @@
 ---
 title: 'Early Version of Majulah Singapura Performed by the Singapore Military Forces Band, 1959'
 date: 2015-07-31T00:00:00.000Z
-permalink: /media/collections-and-research/majulahsingapura
+permalink: /media/collections-and-research/majulahsingapura/
 
 ---
 

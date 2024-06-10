@@ -1,7 +1,7 @@
 ---
 title: 'Singapore, Mileages along Roads, 1936'
 date: 2015-12-11T00:00:00.000Z
-permalink: /media/collections-and-research/singapore-mileages
+permalink: /media/collections-and-research/singapore-mileages/
 
 ---
 

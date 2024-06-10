@@ -1,7 +1,7 @@
 ---
 title: 'Proclamation of Singapore, 1965'
 date: 2015-08-14T00:00:00.000Z
-permalink: /media/collections-and-research/proclamationofsingapore
+permalink: /media/collections-and-research/proclamationofsingapore/
 
 ---
 

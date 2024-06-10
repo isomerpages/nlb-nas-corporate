@@ -1,7 +1,7 @@
 ---
 title: 'Popular Storyteller Lee Dai Soh Telling Stories On Air, 1966'
 date: 2015-07-03T00:00:00.000Z
-permalink: /media/collections-and-research/leedaisoh
+permalink: /media/collections-and-research/leedaisoh/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Footage of a Peranakan Chinese Bride, 1940'
 date: 2015-02-13T00:00:00.000Z
-permalink: /media/collections-and-research/footage-of-peranakan-chinese-bride
+permalink: /media/collections-and-research/footage-of-peranakan-chinese-bride/
 
 ---
 

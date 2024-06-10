@@ -1,7 +1,7 @@
 ---
 title: 'Singapore Miniature Zoo, 1950s - 1960s'
 date: 2015-05-22T00:00:00.000Z
-permalink: /media/collections-and-research/singaporeminiaturezoo
+permalink: /media/collections-and-research/singaporeminiaturezoo/
 
 ---
 

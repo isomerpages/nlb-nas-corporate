@@ -1,7 +1,7 @@
 ---
 title: 'Educational Television Series'' English For You: Old Singapore, 1972'
 date: 2015-04-24T00:00:00.000Z
-permalink: /media/collections-and-research/educational-television-series
+permalink: /media/collections-and-research/educational-television-series/
 
 ---
 

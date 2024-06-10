@@ -1,7 +1,7 @@
 ---
 title: 'Oral History Interview of the Experiences of a Midwife, recorded in 1997'
 date: 2015-01-23T00:00:00.000Z
-permalink: /media/collections-and-research/oral-history-interview-experiences-of-midwife
+permalink: /media/collections-and-research/oral-history-interview-experiences-of-midwife/
 
 ---
 

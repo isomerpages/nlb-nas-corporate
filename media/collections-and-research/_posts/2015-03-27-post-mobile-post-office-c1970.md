@@ -1,7 +1,7 @@
 ---
 title: 'Mobile Post Office, c.1970'
 date: 2015-03-27T00:00:00.000Z
-permalink: /media/collections-and-research/mobile-post-office
+permalink: /media/collections-and-research/mobile-post-office/
 
 ---
 

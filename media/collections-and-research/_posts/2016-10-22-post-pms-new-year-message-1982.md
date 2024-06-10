@@ -1,7 +1,7 @@
 ---
 title: 'PM''s New Year Message, 1982'
 date: 2016-10-22T00:00:00.000Z
-permalink: '/media/collections-and-research/pm''s-new-year-message'
+permalink: /media/collections-and-research/pm''s-new-year-message/
 
 ---
 

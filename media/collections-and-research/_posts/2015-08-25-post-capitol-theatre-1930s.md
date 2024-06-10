@@ -1,7 +1,7 @@
 ---
 title: 'Capitol Theatre, 1930s'
 date: 2015-08-25T00:00:00.000Z
-permalink: /media/collections-and-research/capitoltheatre
+permalink: /media/collections-and-research/capitoltheatre/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Mobile Library, 1965'
 date: 2015-10-09T00:00:00.000Z
-permalink: /media/collections-and-research/mobile-library
+permalink: /media/collections-and-research/mobile-library/
 
 ---
 
