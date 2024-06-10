@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/cattle-disposal-squad-press-stmt/
 
 # CATTLE DISPOSAL SQUAD PRESS STATEMENT, 1965
 
-![National Archives of Singapore](../../../images/blogs/2015-01-16-L-1024x769.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-01-16-l-1024x769.jpg)
 
 ​																National Archives of Singapore
 

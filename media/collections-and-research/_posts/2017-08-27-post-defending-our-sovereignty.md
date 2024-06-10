@@ -54,11 +54,11 @@ Dr Goh’s defence strategy was to establish a small force of regulars to comman
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/IMG0029-667x1000.jpg)
+![img](../../../images/blogs/img0029-667x1000.jpg)
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
-![img](../../../images/blogs/IMG0040-667x1000.jpg)
+![img](../../../images/blogs/img0040-667x1000.jpg)
 
 Ministry of Information, Communications and the Arts, courtesy of NAS.
 
@@ -70,7 +70,7 @@ Registration exercise of first batch of National Service recruits – 29 March t
 
  
 
-![img](../../../images/blogs/10x12-19990006073IMG0031-768x525.jpg)Minister of State for Culture and MP for Hong Lim, Lee Khoon Choy, hosting a send-off party for NS recruits on 31 August 1967. This was one of the many send-off parties organised by the different constituencies. *Ministry of Information, Communications and the Arts, courtesy of NAS.*
+![img](../../../images/blogs/10x12-19990006073img0031-768x525.jpg)Minister of State for Culture and MP for Hong Lim, Lee Khoon Choy, hosting a send-off party for NS recruits on 31 August 1967. This was one of the many send-off parties organised by the different constituencies. *Ministry of Information, Communications and the Arts, courtesy of NAS.*
 
  
 

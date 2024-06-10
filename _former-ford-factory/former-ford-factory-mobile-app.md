@@ -7,4 +7,4 @@ Launched on 1 September 2019, the Former Ford Factory Mobile App comprises exclu
 
 Download the app for free from the Google Play Store or the Apple App Store using the QR code below.
 
-![](/images/FFF%20Mobile%20QR%20Code%201.jpg)
+![](/images/fff%20mobile%20qr%20code%201.jpg)

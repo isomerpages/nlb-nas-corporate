@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/map-of-tiong-bahru/
 
 # MAP OF TIONG BAHRU FOR SIT FLATS, c.1920
 
-![Survey Department Collection, National Archives of Singapore](../../../images/blogs/2015-03-13-L.jpg)
+![Survey Department Collection, National Archives of Singapore](../../../images/blogs/2015-03-13-l.jpg)
 
 Survey Department Collection, National Archives of Singapore
 

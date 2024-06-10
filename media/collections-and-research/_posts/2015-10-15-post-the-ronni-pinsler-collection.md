@@ -12,7 +12,7 @@ Grace Ho 4 years ago 4 min. read
 
 Mr Ronni Pinsler is an independent photographer who has made invaluable contributions to Singapore heritage by documenting the nation’s changing landscape between the 1970s and 1990s. He is best known for his extraordinary efforts recording the multifaceted practices of local Taoism and has captured many valuable images of Singapore, focusing on vanishing local street scenes and people portraits. He received the prestigious Supporter of Heritage award from the National Heritage Board in April 2010 in honour of his generous permanent loan of a comprehensive collection of his work to the National Archives of Singapore.
 
-![Mr Ronni Pinsler at the Thian Hock Kheng Temple at Telok Ayer Street, 1980 Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore](../../../images/blogs/Ronni_11x.gif)
+![Mr Ronni Pinsler at the Thian Hock Kheng Temple at Telok Ayer Street, 1980 Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore](../../../images/blogs/ronni_11x.gif)
 
 *Mr Ronni Pinsler at the Thian Hock Kheng Temple at Telok Ayer Street, 1980* *Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990007471 – 056*
 
@@ -32,44 +32,44 @@ The National Archives of Singapore (NAS) extends its warmest thanks and congratu
 
 \1. The collection contains many images of Taoist priests and devotees engaged in religious rites and prayers, as well as figurines of Taoist deities, with accompanying captions giving their names.
 
-![This picture captures devotees at the entrance of the former Leng Hiang Twa Temple at Clarke Quay during a religious festival, 1976. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore](../../../images/blogs/Ronni_3x.gif)
+![This picture captures devotees at the entrance of the former Leng Hiang Twa Temple at Clarke Quay during a religious festival, 1976. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore](../../../images/blogs/ronni_3x.gif)
 
 *This picture captures devotees at the entrance of the former Leng Hiang Twa Temple at Clarke Quay during a religious festival, 1976. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990008747 – 0032*
 
-![ This picture shows Taoist priests officiating at a public rite at Hokkien Street in the 1970s. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore ](../../../images/blogs/Ronni_4x.gif)
+![ This picture shows Taoist priests officiating at a public rite at Hokkien Street in the 1970s. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore ](../../../images/blogs/ronni_4x.gif)
 
 *This picture shows Taoist priests officiating at a public rite at Hokkien Street in the 1970s. Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990008736 – 0001*
 
 \2. The collection also contains many valuable photographs of Chinese opera actors in Singapore both onstage and backstage. The photos below show a pair of Chinese opera actors in elaborate costumes (1978), and an actor backstage applying his makeup and his traditional makeup kit (1979).
 
-![Ronni_7x](../../../images/blogs/Ronni_7x.gif)
+![Ronni_7x](../../../images/blogs/ronni_7x.gif)
 
 *Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990007483 – 0062*
 
-![Ronni_8-1x](../../../images/blogs/Ronni_8-1x.gif)
+![Ronni_8-1x](../../../images/blogs/ronni_8-1x.gif)
 
 *Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990007488 – 0091*
 
 \3. Other vanishing trades are also captured by Mr Pinsler, for instance, the images below of a traditional Indian goldsmith (top) and a roadside soy bean vendor (bottom) from the late 1970s.
 
-![Ronni_9x](../../../images/blogs/Ronni_9x.gif)
+![Ronni_9x](../../../images/blogs/ronni_9x.gif)
 
 *Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990007465 – 098*
 
-![Ronni_10x](../../../images/blogs/Ronni_10x.gif)
+![Ronni_10x](../../../images/blogs/ronni_10x.gif)
 
 *Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: 19990007085 – 006*
 
  \4. The collection also includes valuable photos of old street and rural scenes that have vanished from Singapore. The first photo below shows a colonial-era house at Wilkie Road (1977). The centre photo shows shop houses along the Singapore River (1977). The last shows a farmer at work in Chua Chu Kang. (1978).
 
-![Ronni_111x](../../../images/blogs/Ronni_111x.gif)
+![Ronni_111x](../../../images/blogs/ronni_111x.gif)
 
 Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref:[ 19990007462 – 082](http://www.nas.gov.sg/archivesonline/photographs/record-details/8625ad12-1162-11e3-83d5-0050568939ad)
 
-![Ronni_12x](../../../images/blogs/Ronni_12x.gif)
+![Ronni_12x](../../../images/blogs/ronni_12x.gif)
 
 Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref: [19990007095 – 036](http://www.nas.gov.sg/archivesonline/photographs/record-details/859f6750-1162-11e3-83d5-0050568939ad)
 
-![Ronni_13x](../../../images/blogs/Ronni_13x.gif)
+![Ronni_13x](../../../images/blogs/ronni_13x.gif)
 
 Source: Ronni Pinsler Collection, Courtesy of National Archives of Singapore Ref:[19990007464 – 048](http://www.nas.gov.sg/archivesonline/photographs/record-details/86551ef8-1162-11e3-83d5-0050568939ad)

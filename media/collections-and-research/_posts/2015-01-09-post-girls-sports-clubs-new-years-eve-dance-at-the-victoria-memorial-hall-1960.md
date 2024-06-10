@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/girls-sports-club-new-year-eve-dance/
 
 # GIRLS’ SPORTS CLUB’S NEW YEAR’S EVE DANCE AT THE VICTORIA MEMORIAL HALL, 1960
 
-![Margaret Clarke Collection, National Archives of Singapore](../../../images/blogs/2015-01-02-L.jpg)
+![Margaret Clarke Collection, National Archives of Singapore](../../../images/blogs/2015-01-02-l.jpg)
 
 ​											Margaret Clarke Collection, National Archives of Singapore
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/mobile-post-office/
 
 # MOBILE POST OFFICE, c.1970
 
-![National Archives of Singapore](../../../images/blogs/2015-03-27-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-03-27-l.jpg)
 
 ​																National Archives of Singapore
 

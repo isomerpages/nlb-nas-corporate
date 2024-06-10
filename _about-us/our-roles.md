@@ -42,7 +42,7 @@ Our projects are both broad and deep in scope, covering aspects of the social, e
 ### Audio Visual Archives
 In 1989, the Advisory Council on Culture and the Arts chaired by then Second Deputy Prime Minister Ong Teng Cheong recommended the setting up of an audiovisual archives in Singapore to "*strengthen the national heritage collection in all media to cover sound-and-moving images*".	 
 
-![Audio Visual Archives](../images/AV.jpg) 
+![Audio Visual Archives](../images/av.jpg) 
 
 *At-risk audiovisual formats* 
 

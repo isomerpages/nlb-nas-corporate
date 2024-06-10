@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/s-rajaratnam/
 
 Grace Ho 3 years ago 4 min. read
 
-![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](../../../images/blogs/28-20080000050-img0094-WML-667x1000.jpg)
+![S Rajaratnam, Minister for Culture, in his office, 1950s Source: National Archives of Singapore](../../../images/blogs/28-20080000050-img0094-wml-667x1000.jpg)
 
 *S Rajaratnam, Minister for Culture, in his office, 1950s*
 
@@ -48,7 +48,7 @@ The proposed state symbols were unanimously accepted by the Legislative Council.
 >
 >  
 
-![19980006514---0012--LR](../../../images/blogs/19980006514-0012-LR.jpg)*The flypast of Singapore’s State Flag during National Day Parade 1990 held at the Padang. The 1990 parade celebrated Singapore’s Silver Jubilee or 25th anniversary as an independent Republic. Source: Ministry of Information and the Arts Ref: 19980006514-0012*
+![19980006514---0012--LR](../../../images/blogs/19980006514-0012-lr.jpg)*The flypast of Singapore’s State Flag during National Day Parade 1990 held at the Padang. The 1990 parade celebrated Singapore’s Silver Jubilee or 25th anniversary as an independent Republic. Source: Ministry of Information and the Arts Ref: 19980006514-0012*
 
  
 

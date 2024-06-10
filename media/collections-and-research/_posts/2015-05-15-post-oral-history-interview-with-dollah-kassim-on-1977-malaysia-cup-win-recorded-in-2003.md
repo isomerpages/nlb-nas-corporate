@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/dollahkassim/
 
 # ORAL HISTORY INTERVIEW WITH DOLLAH KASSIM ON 1977 MALAYSIA CUP WIN, RECORDED IN 2003
 
-![National Archives of Singapore](../../../images/blogs/2015-05-15-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-05-15-l.jpg)
 
 ​															National Archives of Singapore
 

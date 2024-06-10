@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/supreme-court-building/
 
 # FORMER SUPREME COURT BUILDING, 1984
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-11-20-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-11-20-l.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/all-must-vote/
 
 # ALL MUST VOTE, 1959
 
-![Department of Information Services Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-L.jpg)
+![Department of Information Services Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-l.jpg)
 
 Department of Information Services Collection, National Archives of Singapore
 
@@ -18,17 +18,17 @@ The end of World War II saw an uprising of decolonisation across the whole Briti
 
 [Mr Lim Yew Hock](http://www.nas.gov.sg/archivesonline/photographs/record-details/618bdf90-1162-11e3-83d5-0050568939ad), who was Minister for Labour and Welfare, succeeded Mr Marshall as Chief Minister and led the next rounds of talks in 1957 and 1958. At these talks, London agreed to grant Singapore self-government status; while still controlling foreign relations and defence matters. Mr Lee Kuan Yew was to call it *tiga suku merdeka* (literally – three quarters independence).
 
-![Department of Information Services Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-L2.jpg)
+![Department of Information Services Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-l2.jpg)
 
 Department of Information Services Collection, National Archives of Singapore
 
 The general election for the first fully elected government was held on 30 May 1959 and the importance of voting was emphasised through colourful posters. The first cabinet of self-government was sworn in on 5 June 1959.
 
-![Ministry of Information, Communications and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-L3.jpg)
+![Ministry of Information, Communications and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-09-09-l3.jpg)
 
 Ministry of Information, Communications and the Arts Collection, National Archives of Singapore
 
-![2015-09-09 (../../../images/blogs/2015-09-09-L4.jpg)(4)](../../../images/blogs/2015-09-09-L4.jpg)
+![2015-09-09 (../../../images/blogs/2015-09-09-l4.jpg)(4)](../../../images/blogs/2015-09-09-L4.jpg)
 
 Ministry of Information, Communications and the Arts Collection, National Archives of Singapore
 

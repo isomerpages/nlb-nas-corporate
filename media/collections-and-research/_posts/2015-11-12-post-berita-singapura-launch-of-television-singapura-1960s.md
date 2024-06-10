@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/launch-of-television/
 
 # BERITA SINGAPURA: LAUNCH OF TELEVISION SINGAPURA, 1960s
 
-![img](../../../images/blogs/2015-11-13-L.jpg)
+![img](../../../images/blogs/2015-11-13-l.jpg)
 
 Ministry of Culture Collection, National Archives of Singapore. To watch the video clip, select ‘Television Singapore’ from the options available [ here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/58f29c96-1164-11e3-83d5-0050568939ad).
 

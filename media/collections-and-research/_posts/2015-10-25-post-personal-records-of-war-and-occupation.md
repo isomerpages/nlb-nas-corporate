@@ -36,7 +36,7 @@ Identity Card (Population Census). *Acc Number 20/1992. Microfilm No.: NA 1835. 
 
 By 1944 and 1945, Malaya experienced massive inflation due to the combination of the collapse of the export industry, the lack of revenue-generating economic activities and the Japanese administration’s policy of issuing currency notes to meet expenses.[[2\]](http://www.nas.gov.sg/blogs/offtherecord/personal-records-of-war-and-occupation/#_ftn2) From depositing five dollars in 19 May 1944 to five thousand dollars in 13 August 1945; this Syonan Post Office Passbook belonging to Mr Lee Hiok Khuang reveals the extent of inflation and the drop in value of the Japanese currency during this period. In many oral histories, stories are told of how the Japanese currency became valueless and people had to shop with bags of notes.  An egg could cost as much as $100 and a used towel could be sold for $300.[[3\]](http://www.nas.gov.sg/blogs/offtherecord/personal-records-of-war-and-occupation/#_ftn3)
 
-![gh](../../../images/blogs/Acc-25-1992.jpg)
+![gh](../../../images/blogs/acc-25-1992.jpg)
 
 Syonan Post Office Savings Bank passbook. *Acc No.: 25 / 1992. Microfilm No.: NA 1834. Lee Siew Hong collection, courtesy of NAS.*
 
@@ -44,7 +44,7 @@ Syonan Post Office Savings Bank passbook. *Acc No.: 25 / 1992. Microfilm No.: NA
 
 Harsh living conditions and serious shortages of basic food items were among the reasons why the death rate in 1945 was double that of the pre-war period.[[4\]](http://www.nas.gov.sg/blogs/offtherecord/personal-records-of-war-and-occupation/#_ftn4) Census-taking lists, like the one shown below, reflected these difficult living conditions. These documents were also a record of a new system introduced by the Japanese administrators to keep track of the population under their control, as each household had to register their family members with the administration. Changes to the household composition were registered and recorded. Despite the mundane nature of such administrative documents, upon closer examination, some of them reveal heartwrenching stories. This particular one of the family of Mr Tay Yew Hoon shows how Tay Soh Eng, was born (“Birth” under “Reason of increase”) on 4 September 1943 and but by the next census check on 6 May 1944, had been recorded as a decrease (“die” under “Reason of Decrease”). She was only two months old.
 
-![hh](../../../images/blogs/Acc-20-2.jpg)Census-Taking List. *Acc No.: 20/2. Microfilm No.: NA 1135. Tay Yen Hoon collection, courtesy of NAS.*
+![hh](../../../images/blogs/acc-20-2.jpg)Census-Taking List. *Acc No.: 20/2. Microfilm No.: NA 1135. Tay Yen Hoon collection, courtesy of NAS.*
 
  
 

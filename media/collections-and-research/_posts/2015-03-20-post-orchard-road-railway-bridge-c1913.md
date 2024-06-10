@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/orchard-road-railway-bridge/
 
 # ORCHARD ROAD RAILWAY BRIDGE, c.1913
 
-![National Archives of Singapore](../../../images/blogs/2015-03-20-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-03-20-l.jpg)
 
 ​																National Archives of Singapore
 

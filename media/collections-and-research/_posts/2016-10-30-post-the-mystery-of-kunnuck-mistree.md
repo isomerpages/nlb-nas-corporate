@@ -22,7 +22,7 @@ While transcribing the Straits Settlements Records for the National Archives of 
 
  
 
-![The official letter of appeal sent by the lawyers of Kunnick Mistree to Frederick James Halliday, the Lieutenant Governor of Bengal, 19 July 1856. To read the transcribed pages of the letter please visit Citizen Archivist. ](../../../images/blogs/S026_0075-with-Logo-639x1024.jpg)The official letter of appeal sent by the lawyers of Kunnick Mistree to Frederick James Halliday, the Lieutenant Governor of Bengal, 19 July 1856. [To read the transcribed pages of the letter please visit Citizen Archivist.](http://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6413#collection)
+![The official letter of appeal sent by the lawyers of Kunnick Mistree to Frederick James Halliday, the Lieutenant Governor of Bengal, 19 July 1856. To read the transcribed pages of the letter please visit Citizen Archivist. ](../../../images/blogs/s026_0075-with-logo-639x1024.jpg)The official letter of appeal sent by the lawyers of Kunnick Mistree to Frederick James Halliday, the Lieutenant Governor of Bengal, 19 July 1856. [To read the transcribed pages of the letter please visit Citizen Archivist.](http://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?collectionId=44&itemId=6413#collection)
 
 View [Kunnuck’s Original Appeal Letter](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/07/Kunnucks-Appeal-Letter.pdf) here in full text!
 
@@ -70,7 +70,7 @@ From 1846 onwards Kunnuck busied himself as a native holistic doctor, specialisi
 
 It was in 1856, by which time Kunnuck was probably around 70 years of age, he petitioned that he be allowed to return home. He had been away from his homeland for upwards of 38 years. In his final years he wanted to die in his country of birth, on the banks of the River Ganges that Hindus hold so sacred. [[13\]](http://www.nas.gov.sg/blogs/offtherecord/the-mystery-of-kunnuck-mistree/#_ftn13)
 
-![S026_0067 - with Logo](../../../images/blogs/S026_0067-with-Logo-667x1024.jpg)Letter dated 22 Dec 1857 from J.F. McNair, Superintendent of Convicts & Roads for the Straits Settlements, verifying Kunnuck’s life story and certifying his good behaviour since being transferred to Singapore in Apr 1825. [To read the transcribed pages of the letter please visit Citizen Archivist. ](http://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6405&collectionId=44)
+![S026_0067 - with Logo](../../../images/blogs/s026_0067-with-logo-667x1024.jpg)Letter dated 22 Dec 1857 from J.F. McNair, Superintendent of Convicts & Roads for the Straits Settlements, verifying Kunnuck’s life story and certifying his good behaviour since being transferred to Singapore in Apr 1825. [To read the transcribed pages of the letter please visit Citizen Archivist. ](http://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6405&collectionId=44)
 
  
 

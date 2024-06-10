@@ -27,16 +27,16 @@ You can also look out for a variety of activities and educational programmes for
 
  
 # Turning Singapore Into Syonan
-![Alt text for image on Isomer site](/images/children2021/Street%20in%20Sg.png)
+![Alt text for image on Isomer site](/images/children2021/street%20in%20sg.png)
 
 After the surrender of the British, Singapore was renamed Syonan-to, or “Light of the South”. Along with this name change came the Nipponisation of Singapore. Nipponisation, or Japanisation, was a process where the Japanese tried to make the people of Singapore act and think more like them and embody the Japanese spirit. Buildings and roads were given Japanese names and school teachers even had to learn Nippon-go so they could conduct their classes in Japanese!
 
-![Alt text for image on Isomer site](/images/children2021/Group%20pic%20of%20Jap%20class.png)
+![Alt text for image on Isomer site](/images/children2021/group%20pic%20of%20jap%20class.png)
 
-![Alt text for image on Isomer site](/images/children2021/New%20Textbooks.png)
+![Alt text for image on Isomer site](/images/children2021/new%20textbooks.png)
 *Books in other languages were replaced and all subjects were to be taught in Japanese. [Syonan Shimbun](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19430921-1.2.23), 21 September 1943, p.2. (From NewspaperSG)*
 
-![Alt text for image on Isomer site](/images/children2021/Nippon%20Lesson%20on%20news.png)
+![Alt text for image on Isomer site](/images/children2021/nippon%20lesson%20on%20news.png)
 *A Nippon-go lesson printed in the newspaper Syonan Shimbun on 21 February 1942. These lessons began appearing in the newspapers almost immediately after the Occupation began. [Syonan Shimbun](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420221-1.2.31.1), 21 February 1942, p.4. (From NewspaperSG)*
 
 In addition to making people learn Nippon-go, the Japanese military wanted people to adopt other aspects of Japanese culture, such as bowing and wearing the kimono.
@@ -53,7 +53,7 @@ You can find a lot of resources about the Japanese Occupation of Singapore on [N
 
 Read the following excerpt from an oral history interview with Lim Choo Sye, who lived through and survived the Japanese Occupation.
 
-![Alt text for image on Isomer site](/images/children2021/OH%20extract.png)
+![Alt text for image on Isomer site](/images/children2021/oh%20extract.png)
 
 **Reflections:**
 1.	How do you think the people of Singapore felt about having to learn a new language so suddenly? Imagine you are a student during the occupation and that you must now learn Mathematics, but in Japanese. Would you be able to cope? 
@@ -64,7 +64,7 @@ Read the following excerpt from an oral history interview with Lim Choo Sye, who
 # Hardships of War
 There was a strong Japanese military presence in Singapore and there were many checkpoints across the island. Getting through these checkpoints was quite an ordeal. Locals had to present proper documentation to pass through these checkpoints and also had to bow to the soldiers there. Not doing so meant that they risked getting slapped, punched or even detained.
 
-![Alt text for image on Isomer site](/images/children2021/Jap%20military%20checkpoint.png)
+![Alt text for image on Isomer site](/images/children2021/jap%20military%20checkpoint.png)
 *Illustration of people bowing to a guard at Japanese military checkpoint.*
 
 

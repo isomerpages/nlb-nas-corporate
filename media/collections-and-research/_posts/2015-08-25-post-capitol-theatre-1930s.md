@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/capitoltheatre/
 
 # CAPITOL THEATRE, 1930s
 
-![National Archives of Singapore](../../../images/blogs/2015-08-21-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-08-21-l.jpg)
 
 ​																	National Archives of Singapore
 

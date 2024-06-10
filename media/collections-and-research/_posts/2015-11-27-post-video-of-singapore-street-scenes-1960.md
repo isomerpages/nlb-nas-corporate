@@ -8,7 +8,7 @@ variant: markdown
 
 # VIDEO OF SINGAPORE STREET SCENES, 1960
 
-![John Christianse Collection, National Archives of Singapore. To watch the video clip, click here .](../../../images/blogs/2015-11-27-L.jpg)
+![John Christianse Collection, National Archives of Singapore. To watch the video clip, click here .](../../../images/blogs/2015-11-27-l.jpg)
 
 John Christianse Collection, National Archives of Singapore. To watch the video clip, click [ here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5b00d128-1164-11e3-83d5-0050568939ad).
 

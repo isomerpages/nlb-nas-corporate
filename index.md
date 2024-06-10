@@ -22,7 +22,7 @@ sections:
         P. Ramlee’s life and work, as well as a crowdsourcing call for records.
       button: Visit here
       url: https://www.nas.gov.sg/archivesonline/rememberingpramlee
-      image: /images/SocialMedia_1080x1080_new.png
+      image: /images/socialmedia_1080x1080_new.png
       alt: Image alt text
   - infopic:
       title: National Day Rally Speeches Throughout the Years
@@ -32,7 +32,7 @@ sections:
         Singapore’s collection.
       button: National Day Rally Speeches
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-National-Day-Rally-Speeches-Throughout-the-Years-S1-390305
-      image: /images/Features/lky nd rally speeches_960x320.jpg
+      image: /images/features/lky nd rally speeches_960x320.jpg
       alt: Image alt text
   - infopic:
       title: Lee Kuan Yew - Through Images, Audio and Videos
@@ -42,7 +42,7 @@ sections:
         complimentary download.
       button: LKY – Images, Audio & Videos
       url: https://www.nas.gov.sg/archivesonline/lky100
-      image: /images/Features/lky ao av 960 x 320.jpg
+      image: /images/features/lky ao av 960 x 320.jpg
       alt: Image alt text
   - infopic:
       title: Sands of Time
@@ -51,7 +51,7 @@ sections:
         interviews, and audiovisual recordings from NLB’s collections.
       button: View Sands of Time
       url: https://www.nas.gov.sg/archivesonline/sandsoftime
-      image: /images/Features/960-x-320_sands of time s2 (ao main page).png
+      image: /images/features/960-x-320_sands of time s2 (ao main page).png
       alt: Sands of Time
   - infopic:
       title: Changing Landscapes
@@ -62,7 +62,7 @@ sections:
       button: View Changing Landscapes
       alt: Image alt text
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
-      image: /images/Features/960-x-400-changinglandscape.jpg
+      image: /images/features/960-x-400-changinglandscape.jpg
   - infopic:
       title: Reflections of Yesteryear
       subtitle: Features
@@ -74,7 +74,7 @@ sections:
         year of nationhood, in the midst of a historic health and economic
         situation.
       url: https://www.mewatch.sg/season/Reflections-of-Yesteryear-170278
-      image: /images/Features/reflectionsystyear.jpg
+      image: /images/features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
 notification: ""

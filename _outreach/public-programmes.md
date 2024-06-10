@@ -13,7 +13,7 @@ Part of our Outreach efforts involves organising exciting programmes for the pub
 
 
 
-[![Children's Season 2016 - Little Archivist for a Day](../images/636099917536367129.JPG)                     ](javascript:void(0))                 
+[![Children's Season 2016 - Little Archivist for a Day](../images/636099917536367129.jpg)                     ](javascript:void(0))                 
 
 ### Children's Season 2016 - Little Archivist for a Day
 
@@ -21,7 +21,7 @@ Have you ever wondered what happens to the old maps or documents and photographs
 
 
 
-[![“irememberOrchard” Exhibition - 23 October 2014 to 26 April 2015](../images/635639356131071942.JPG)                     ](javascript:void(0))                 
+[![“irememberOrchard” Exhibition - 23 October 2014 to 26 April 2015](../images/635639356131071942.jpg)                     ](javascript:void(0))                 
 
 ### “irememberOrchard” Exhibition - 23 October 2014 to 26 April 2015
 
@@ -31,7 +31,7 @@ In conjunction with the “irememberOrchard” exhibition on display at the libr
 
 
 
-[![Children's Season 14-15 June 2014 – A Race Against Time](../images/635640152488300970.JPG)                     ](javascript:void(0))                 
+[![Children's Season 14-15 June 2014 – A Race Against Time](../images/635640152488300970.jpg)                     ](javascript:void(0))                 
 
 ### Children's Season 14-15 June 2014 – A Race Against Time
 
@@ -39,7 +39,7 @@ Racing against time, the children are brought back to the days of the Japanese O
 
 
 
-[![Children’s Season 15 and 29 June 2013 – History Through Drama](../images/635339554731593755.JPG)                     ](javascript:void(0))                 
+[![Children’s Season 15 and 29 June 2013 – History Through Drama](../images/635339554731593755.jpg)                     ](javascript:void(0))                 
 
 ### Children’s Season 15 and 29 June 2013 – History Through Drama
 
@@ -47,7 +47,7 @@ History Through Drama presented a fun and stimulating way of learning about Sing
 
 
 
-![Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012](../images/635339556213468755.JPG)                                     
+![Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012](../images/635339556213468755.jpg)                                     
 
 ### Conference on the Causes and Impact of the Fall of Singapore – 16 February 2012
 
@@ -55,7 +55,7 @@ This conference brought together historians, students, veterans and history enth
 
 
 
-[![Remembrance Ceremony – 15 February 2012](../images/635339558090187505.JPG)                     ](javascript:void(0))                 
+[![Remembrance Ceremony – 15 February 2012](../images/635339558090187505.jpg)                     ](javascript:void(0))                 
 
 ### Remembrance Ceremony – 15 February 2012
 

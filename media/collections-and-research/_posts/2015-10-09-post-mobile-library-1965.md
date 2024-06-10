@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/mobile-library/
 
 # MOBILE LIBRARY, 1965
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-02-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-02-l.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

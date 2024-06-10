@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/jurongdriveincinema/
 
 # OPENING OF THE JURONG DRIVE-IN CINEMA, 1971
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-05-01-L.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-05-01-l.jpg)
 
 Ministry of Information and The Arts Collection, National Archives of Singapore
 

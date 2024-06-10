@@ -7,7 +7,7 @@ third_nav_title: 'What''s On'
 ---
 
 
-![Former Ford Factory Mobile App](/images/formerford/NAS-FFF-QR.jpg)
+![Former Ford Factory Mobile App](/images/formerford/nas-fff-qr.jpg)
 
 ### THE EXHIBITION
 

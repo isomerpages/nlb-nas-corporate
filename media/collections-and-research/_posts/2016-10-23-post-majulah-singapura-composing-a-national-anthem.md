@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/majulah-singapura/
 
 Fiona Tan 3 years ago 3 min. read
 
-![Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958 Opening Performance: New Victoria Theatre. Ref: 7033/3. Microfilm No.: PUB386](../../../images/blogs/Majulah-Singapura-1958-Score-WM-622x1000.jpg)
+![Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958 Opening Performance: New Victoria Theatre. Ref: 7033/3. Microfilm No.: PUB386](../../../images/blogs/majulah-singapura-1958-score-wm-622x1000.jpg)
 
 Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958
  Opening Performance: New Victoria Theatre. Ref: [7033/3](http://www.nas.gov.sg/archivesonline/government_records/record-details/0ec89ec7-115a-11e3-83d5-0050568939ad). Microfilm No.: PUB386

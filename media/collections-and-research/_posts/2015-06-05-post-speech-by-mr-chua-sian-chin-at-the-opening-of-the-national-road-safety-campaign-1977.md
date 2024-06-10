@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/roadsafetycampaign/
 
 # SPEECH BY MR CHUA SIAN CHIN AT THE OPENING OF THE NATIONAL ROAD SAFETY CAMPAIGN, 1977
 
-![National Archives of Singapore](../../../images/blogs/2015-06-05-L-1024x701.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-06-05-l-1024x701.jpg)
 
 ​																	National Archives of Singapore
 

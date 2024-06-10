@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/rotijohn/
 
 # ORAL HISTORY INTERVIEW ON THE ORIGINS OF ‘ROTI  JOHN’, RECORDED IN 2002
 
-![National Archives of Singapore](../../../images/blogs/2015-07-10-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-07-10-l.jpg)
 
 ​																	National Archives of Singapore
 

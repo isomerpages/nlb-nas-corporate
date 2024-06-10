@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/queenelizabethcoronation/
 
 # QUEEN ELIZABETH II’S CORONATION CELEBRATIONS, 1953
 
-![National Archives of Singapore](../../../images/blogs/2015-05-29-L.jpg)
+![National Archives of Singapore](../../../images/blogs/2015-05-29-l.jpg)
 
 ​															National Archives of Singapore
 

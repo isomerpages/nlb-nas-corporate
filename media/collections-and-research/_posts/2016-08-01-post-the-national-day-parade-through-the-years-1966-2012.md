@@ -16,7 +16,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ------
 
-![Picture1x](../../../images/blogs/Picture1x-1000x666.jpg)
+![Picture1x](../../../images/blogs/picture1x-1000x666.jpg)
 
 ### 1966
 
@@ -26,7 +26,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
  
 
-![Picture2x](../../../images/blogs/Picture2x.jpg)
+![Picture2x](../../../images/blogs/picture2x.jpg)
 
 ### 1966
 
@@ -36,7 +36,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
  
 
-### ![Picture3x](../../../images/blogs/Picture3x.jpg)
+### ![Picture3x](../../../images/blogs/picture3x.jpg)
 
 ### 1966
 
@@ -46,7 +46,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
  
 
-### ![Picture4x](../../../images/blogs/Picture4x.jpg)
+### ![Picture4x](../../../images/blogs/picture4x.jpg)
 
 ### 1967
 
@@ -56,7 +56,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
  
 
-### ![Picture5x](../../../images/blogs/Picture5x.jpg)
+### ![Picture5x](../../../images/blogs/picture5x.jpg)
 
 ### 1967
 
@@ -68,7 +68,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture6x](../../../images/blogs/Picture6x.jpg)
+### ![Picture6x](../../../images/blogs/picture6x.jpg)
 
 ### 1968
 
@@ -78,7 +78,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture7x](../../../images/blogs/Picture7x.jpg)
+### ![Picture7x](../../../images/blogs/picture7x.jpg)
 
 ### 1968
 
@@ -88,7 +88,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
  
 
-![Picture8x](../../../images/blogs/Picture8x.jpg)
+![Picture8x](../../../images/blogs/picture8x.jpg)
 
 ### 1969
 
@@ -98,7 +98,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture9x](../../../images/blogs/Picture9x.jpg)
+### ![Picture9x](../../../images/blogs/picture9x.jpg)
 
 ### 1970
 
@@ -108,7 +108,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture10x](../../../images/blogs/Picture10x.jpg)
+### ![Picture10x](../../../images/blogs/picture10x.jpg)
 
 ### 1975
 
@@ -118,7 +118,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture11x](../../../images/blogs/Picture11x-1000x667.jpg)
+### ![Picture11x](../../../images/blogs/picture11x-1000x667.jpg)
 
 ### 1975
 
@@ -128,7 +128,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture12x](../../../images/blogs/Picture12x.jpg)
+### ![Picture12x](../../../images/blogs/picture12x.jpg)
 
 ### 1976
 
@@ -138,7 +138,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture13x](../../../images/blogs/Picture13x.jpg)
+### ![Picture13x](../../../images/blogs/picture13x.jpg)
 
 ### 1985
 
@@ -148,7 +148,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture14x](../../../images/blogs/Picture14x.jpg)
+### ![Picture14x](../../../images/blogs/picture14x.jpg)
 
 ### 1985
 
@@ -158,7 +158,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture15x](../../../images/blogs/Picture15x-1000x664.jpg)
+### ![Picture15x](../../../images/blogs/picture15x-1000x664.jpg)
 
 ### 1990
 
@@ -168,7 +168,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture16x](../../../images/blogs/Picture16x.jpg)
+### ![Picture16x](../../../images/blogs/picture16x.jpg)
 
 ### 1990
 
@@ -178,7 +178,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture17x](../../../images/blogs/Picture17x.jpg)
+### ![Picture17x](../../../images/blogs/picture17x.jpg)
 
 ### 1990
 
@@ -188,7 +188,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture18x](../../../images/blogs/Picture18x.jpg)
+### ![Picture18x](../../../images/blogs/picture18x.jpg)
 
 ### 1992
 
@@ -198,7 +198,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture19x](../../../images/blogs/Picture19x-1000x664.jpg)
+### ![Picture19x](../../../images/blogs/picture19x-1000x664.jpg)
 
 ### 1993
 
@@ -208,7 +208,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture20x](../../../images/blogs/Picture20x.jpg)
+### ![Picture20x](../../../images/blogs/picture20x.jpg)
 
 ### 1994
 
@@ -218,7 +218,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture21x](../../../images/blogs/Picture21x.jpg)
+### ![Picture21x](../../../images/blogs/picture21x.jpg)
 
 ### 2000
 
@@ -228,7 +228,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture22x](../../../images/blogs/Picture22x.jpg)
+### ![Picture22x](../../../images/blogs/picture22x.jpg)
 
 ### 2002
 
@@ -238,7 +238,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture23x](../../../images/blogs/Picture23x.jpg)
+### ![Picture23x](../../../images/blogs/picture23x.jpg)
 
 ### 2006
 
@@ -248,7 +248,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture24x](../../../images/blogs/Picture24x.jpg)
+### ![Picture24x](../../../images/blogs/picture24x.jpg)
 
 ### 2006
 
@@ -258,7 +258,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture25x](../../../images/blogs/Picture25x.jpg)
+### ![Picture25x](../../../images/blogs/picture25x.jpg)
 
 ### 2007
 
@@ -268,7 +268,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture26x](../../../images/blogs/Picture26x.jpg)
+### ![Picture26x](../../../images/blogs/picture26x.jpg)
 
 ### 2007
 
@@ -278,7 +278,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture27x](../../../images/blogs/Picture27x.jpg)
+### ![Picture27x](../../../images/blogs/picture27x.jpg)
 
 ### 2007
 
@@ -288,7 +288,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture28x](../../../images/blogs/Picture28x.jpg)
+### ![Picture28x](../../../images/blogs/picture28x.jpg)
 
 ### 2008
 
@@ -298,7 +298,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture29x](../../../images/blogs/Picture29x.jpg)
+### ![Picture29x](../../../images/blogs/picture29x.jpg)
 
 ### 2011
 
@@ -308,7 +308,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture30x](../../../images/blogs/Picture30x-1000x667.jpg)
+### ![Picture30x](../../../images/blogs/picture30x-1000x667.jpg)
 
 ### 2011
 
@@ -318,7 +318,7 @@ We look at how the National Day parade evolved over the years through the archiv
 
 ### 
 
-### ![Picture31x](../../../images/blogs/Picture31x.jpg)
+### ![Picture31x](../../../images/blogs/picture31x.jpg)
 
 ### 2012
 
