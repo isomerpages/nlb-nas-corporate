@@ -1,0 +1,9 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - mandate.md
+      - history.md
+      - our-roles.md
+      - partnerships.md
+      - archives-reading-room-faqs.md
