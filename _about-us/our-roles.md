@@ -1,11 +1,9 @@
 ---
-title: 'Our Roles'
+title: Our Roles
 permalink: /about-us/our-roles/
-breadcrumb: 'Our Roles'
-
+breadcrumb: Our Roles
+variant: markdown
 ---
-
-
 ## About the National Archives of Singapore
 The National Archives of Singapore (NAS) is the keeper of records of national or historical significance. The records acquired by NAS come from both public agencies and private sources. Records in various mediums and formats are safeguarded and preserved. 
 
@@ -52,7 +50,7 @@ In 1997, the Audio Visual Archives Department of the NAS was established to appr
 
 
 ### Declassification
-The Declassification Department sets up frameworks to increase and govern access to Government Records. The team also curates content, highlight archival resources and develop guides for researchers to discover our collection such as the [Singapore Policy History Project](http://www.nas.gov.sg/archivesonline/policy_history/).
+The Declassification Department sets up frameworks to increase and govern access to Government Records. The team also curates content, highlight archival resources and develop guides for researchers to discover our collection such as the [Singapore Policy History Project](https://www.nas.gov.sg/archivesonline/policy_history).
 
  
 
@@ -60,4 +58,3 @@ The Declassification Department sets up frameworks to increase and govern access
 
 
 The Former Ford Factory is a museum under NAS and runs a permanent World War 2 exhibition. The NAS collection of audio visual archives, oral history interviews with survivors and various artefacts such as newspaper cuttings help bring to life, the stories and experiences during the war. More information can be found [here](https://corporate.nas.gov.sg/former-ford-factory/overview/).
-
