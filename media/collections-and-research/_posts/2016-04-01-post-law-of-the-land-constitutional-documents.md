@@ -1,7 +1,7 @@
 ---
 title: 'Law Of The Land: Constitutional Documents'
 date: 2016-04-01T00:00:00.000Z
-permalink: /media/collections-and-research/lawoftheland
+permalink: /media/collections-and-research/lawoftheland/
 
 ---
 

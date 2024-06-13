@@ -1,7 +1,7 @@
 ---
 title: 'Mapping Singapore: 1819 - 2014'
 date: 2016-10-20T00:00:00.000Z
-permalink: /media/collections-and-research/mapping-singapore
+permalink: /media/collections-and-research/mapping-singapore/
 
 ---
 
@@ -15,4 +15,4 @@ This fascinating essay detailing the history of mapping in Singapore between 181
 [***Please click to read the a PDF copy of the essay***]:
 [Visualising Space_Ch3. Mapping Singapore 1819 – 2014 by Mr Mok Ly Yng](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/06/Visualising-Space_Ch3.-Mapping-Singapore-1819-2014-by-Mr-Mok-Ly-Yng.pdf)
 
-![Moniot 1860s Map of SG Town - Logo](../../../images/blogs/Moniot-1860s-Map-of-SG-Town-Logo-e1466136530344-1000x515.jpg)A colored reproduction of a map of Singapore town, 1862. The map was drafted by Jules M. Moniot, who was the first Surveyor General of the Straits Settlements, appointed in 1855 (Source: URA, [Acc: SP006422](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fab8607c-115c-11e3-83d5-0050568939ad))
+![Moniot 1860s Map of SG Town - Logo](/images/blogs/moniot-1860s-map-of-sg-town-logo-e1466136530344-1000x515.jpg)A colored reproduction of a map of Singapore town, 1862. The map was drafted by Jules M. Moniot, who was the first Surveyor General of the Straits Settlements, appointed in 1855 (Source: URA, [Acc: SP006422](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fab8607c-115c-11e3-83d5-0050568939ad))

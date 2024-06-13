@@ -7,7 +7,7 @@ variant: markdown
 ### LATEST EVENTS
 __________________________________________________________
 
-![](/images/Calendar%20of%20Events/Eventbrite_banner.jpg)
+![](/images/calendar%20of%20events/eventbrite_banner.jpg)
 
 **Thu, 19 Sep 2024**
 
@@ -29,7 +29,7 @@ Community histories unfold in this series that traces Singapore’s social past 
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 ________________________________________________________________________
-![](/images/Calendar%20of%20Events/AU_Talk_on_25_Jun_2024.jpg)
+![](/images/calendar%20of%20events/au_talk_on_25_jun_2024.jpg)
 
 **Thu, 4 Jul 2024**
 
@@ -55,7 +55,7 @@ Curious about what goes on in the National Archives of Singapore? Join us for th
 Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
 
 ________________________________________________________________________________________
-![](/images/Calendar%20of%20Events/AI_Talk_on_27_Jun_2024.jpg)
+![](/images/calendar%20of%20events/ai_talk_on_27_jun_2024.jpg)
 
 **Thu, 27 Jun 2024**
 

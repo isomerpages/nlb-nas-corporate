@@ -1,7 +1,7 @@
 ---
 title: 'Aerial Photomap of Singapore Town, 1950'
 date: 2015-01-30T00:00:00.000Z
-permalink: /media/collections-and-research/aerial-photomap-singapore-town
+permalink: /media/collections-and-research/aerial-photomap-singapore-town/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/aerial-photomap-singapore-town
 
 # AERIAL PHOTOMAP OF SINGAPORE TOWN, 1950
 
-![img](../../../images/blogs/2015-01-30-L-870x1024.jpg)
+![img](/images/blogs/2015-01-30-l-870x1024.jpg)
 
 Aerial photographs by the British Royal Air Force between 1940 to 1970s, from a collection held by the National Archives of Singapore. Crown copyright.
 

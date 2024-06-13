@@ -1,7 +1,7 @@
 ---
 title: 'Singapore, Mileages along Roads, 1936'
 date: 2015-12-11T00:00:00.000Z
-permalink: /media/collections-and-research/singapore-mileages
+permalink: /media/collections-and-research/singapore-mileages/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/singapore-mileages
 
 # SINGAPORE, MILEAGES ALONG ROADS, 1936
 
-![Survey Department, National Archives of Singapore](../../../images/blogs/2015-12-11-L.jpg)
+![Survey Department, National Archives of Singapore](/images/blogs/2015-12-11-l.jpg)
 
 Survey Department Collection, National Archives of Singapore
 

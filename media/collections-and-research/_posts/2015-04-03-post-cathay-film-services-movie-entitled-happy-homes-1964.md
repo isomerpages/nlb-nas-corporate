@@ -1,7 +1,7 @@
 ---
 title: 'Cathay Film Services Movie Entitled ''Happy Homes'', 1964'
 date: 2015-04-03T00:00:00.000Z
-permalink: /media/collections-and-research/cathay-film-services-movie
+permalink: /media/collections-and-research/cathay-film-services-movie/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/cathay-film-services-movie
 
 # CATHAY FILM SERVICES MOVIE ENTITLED ‘HAPPY HOMES’, 1964
 
-![Housing and Development Board, courtesy of the National Archives of Singapore](../../../images/blogs/2015-04-03-L.jpg)
+![Housing and Development Board, courtesy of the National Archives of Singapore](/images/blogs/2015-04-03-l.jpg)
 
 ​					Housing and Development Board, courtesy of the National Archives of Singapore
 

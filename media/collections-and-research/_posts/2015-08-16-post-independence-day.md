@@ -1,7 +1,7 @@
 ---
 title: 'Independence Day?'
 date: 2015-08-16T00:00:00.000Z
-permalink: /media/collections-and-research/independenceday
+permalink: /media/collections-and-research/independenceday/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/independenceday
 
 # INDEPENDENCE DAY?
 
-![Yusof Ishak Collection, National Archives of Singapore](../../../images/blogs/2015-08-14-L.jpg)
+![Yusof Ishak Collection, National Archives of Singapore](/images/blogs/2015-08-14-l.jpg)
 
 Yusof Ishak Collection, National Archives of Singapore
 
@@ -18,13 +18,13 @@ The photograph of the first National Day celebrations (in 1966) is from the Yuso
 
 The photograph carries the description “National Day Parade 1966 at the Padang – Bird’s eye view of parade” but press release records show that the important day was very close to being called something else. As late as 30 July 1966, a Singapore Government Press Statement “announced for general information that 9 August shall be known as Independence Day” and this was how the press referred to it throughout much of 1966.
 
-![National Archives of Singapore](../../../images/blogs/2015-08-14-L5.jpg)
+![National Archives of Singapore](/images/blogs/2015-08-14-l5.jpg)
 
 National Archives of Singapore
 
 Then with just 5 days to go, a final decision was made to call 9 August what we have known it to be for the last 49 years – National Day.
 
-![National Archives of Singapore](../../../images/blogs/2015-08-14-L4-683x1024.jpg)
+![National Archives of Singapore](/images/blogs/2015-08-14-l4-683x1024.jpg)
 
 National Archives of Singapore
 

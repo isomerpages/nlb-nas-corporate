@@ -1,7 +1,7 @@
 ---
 title: 'Guide To Transcribing Straits Settlements Records'
 date: 2016-10-29T00:00:00.000Z
-permalink: /media/collections-and-research/transcribing-SSR
+permalink: /media/collections-and-research/transcribing-ssr/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/transcribing-SSR
 
 Grace Ho 3 years ago 2 min. read
 
-![img](../../../images/blogs/img_587dc52829328.png)
+![img](/images/blogs/img_587dc52829328.png)
 
 ***This is part of a series of posts on the Citizen Archivist Project. For more information on this crowd-sourcing platform, please see www.nas.gov.sg/citizenarchivist/.*** 
 

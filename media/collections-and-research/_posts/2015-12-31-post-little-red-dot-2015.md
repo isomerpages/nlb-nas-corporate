@@ -1,7 +1,7 @@
 ---
 title: 'Little Red Dot, 2015'
 date: 2015-12-31T00:00:00.000Z
-permalink: /media/collections-and-research/little-red-dot
+permalink: /media/collections-and-research/little-red-dot/
 
 ---
 
@@ -22,49 +22,49 @@ Courtesy of Supermama
 
 We were delighted to agree to this artistic engagement – something totally new for NAS.  A set of 50 archival records, some of which you can view here, was selected by Supermama and they ranged from plans of national monuments to everyday things such as bus tickets and receipts for sewing machines. It was then intriguing to see the creative re-interpretations and imaginings as they started to come in. Some were anchored on shared collective memories we can all identify with, others on deep personal recollections; some took on serious tones while others were quirky and lively.
 
-![Tuck Sing Loong Laundry and Dry Cleaning Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L3-1577947518932.jpg)
+![Tuck Sing Loong Laundry and Dry Cleaning Collection, National Archives of Singapore](/images/blogs/2015-12-31-l3-1577947518932.jpg)
 
 Tuck Sing Loong Laundry and Dry Cleaning Collection, National Archives of Singapore
 
 This is a receipt from the purchase of a sewing machine from the Singer Sewing Machine Company in 1951.
 
-![Singapore Harbour Board Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L4-1577947518849.jpg)
+![Singapore Harbour Board Collection, National Archives of Singapore](/images/blogs/2015-12-31-l4-1577947518849.jpg)
 
 Singapore Harbour Board Collection, National Archives of Singapore
 
 This is a map of the Singapore Harbour in 1904 showing major buildings and street names. The proposed area for land reclamation beyond Raffles Quay is highlighted in the map.
 
-![National Archives of Singapore Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L5-1577947518861.jpg)
+![National Archives of Singapore Collection, National Archives of Singapore](/images/blogs/2015-12-31-l5-1577947518861.jpg)
 
 National Archives of Singapore Collection, National Archives of Singapore
 
 This is a view of the former Tanjong Pagar Railway Station at Keppel Road. It was officially opened by then Governor of Singapore, Sir Cecil Clementi on 2 May 1932.
 
-![National Archives of Singapore Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L6-1577947518866.jpg)
+![National Archives of Singapore Collection, National Archives of Singapore](/images/blogs/2015-12-31-l6-1577947518866.jpg)
 
 National Archives of Singapore Collection, National Archives of Singapore
 
 Street barbers started on the five-foot-way and roadsides before moving their businesses to shops and makeshift awnings. Apart from haircuts, the traditional street barbers also provide neck massages and ear cleaning services to their patrons.
 
-![Building Control Authority Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L7-1577947518877.jpg)
+![Building Control Authority Collection, National Archives of Singapore](/images/blogs/2015-12-31-l7-1577947518877.jpg)
 
 Building Control Authority Collection, National Archives of Singapore
 
 This is the building plan for the St Joseph’s Institution. Due to a lack of funds, the school was only completed 12 years later. It was opened in 1867.
 
-![Tay Swee Lan Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L8-1577947518889.jpg)
+![Tay Swee Lan Collection, National Archives of Singapore](/images/blogs/2015-12-31-l8-1577947518889.jpg)
 
 Tay Swee Lan Collection, National Archives of Singapore
 
 This is a ration card issued by the Rationing Office of the Food Control Department in 1947.
 
-![Paul Yap Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L9-1577947518997.jpg)
+![Paul Yap Collection, National Archives of Singapore](/images/blogs/2015-12-31-l9-1577947518997.jpg)
 
 Paul Yap Collection, National Archives of Singapore
 
 This is a view of Hill Street taken from Coleman Bridge circa 1920. The lookout tower of the Hill Street Fire Station, erected in 1909, can be seen in the background on the left.
 
-![Tay Swee Lan Collection, National Archives of Singapore](../../../images/blogs/2015-12-31-L10-1577947519010.jpg)
+![Tay Swee Lan Collection, National Archives of Singapore](/images/blogs/2015-12-31-l10-1577947519010.jpg)
 
 Tay Swee Lan Collection, National Archives of Singapore
 

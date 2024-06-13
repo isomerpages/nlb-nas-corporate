@@ -1,7 +1,7 @@
 ---
 title: 'Turbo-charging the Armed Forces'
 date: 2017-03-15T00:00:00.000Z
-permalink: /media/collections-and-research/turbocharging-armed-forces
+permalink: /media/collections-and-research/turbocharging-armed-forces/
 
 ---
 
@@ -24,7 +24,7 @@ Home grown companies like Chartered Industries of Singapore, the Singapore Shipb
 
 Apart from making improvements in hardware, the second decade saw new initiatives to attract talented Singaporeans into the armed forces. The public and professional image of the SAF was improved through public education campaigns, as well as job enhancements for SAF personnel, like better career development, overseas training opportunities, and tertiary education scholarships.
 
-![img](../../../images/blogs/img_599d96e5ed6e1.png)
+![img](/images/blogs/img_599d96e5ed6e1.png)
 
 German-designed and technologically advanced, the Republic of Singapore’s missile gunboats were commissioned by the Singapore navy in 1975. They were armed with anti-ship and anti-aircraft cannons as well as electronically guided missiles. Four of the six missile gunboats were locally manufactured by the Singapore Shipbuilding and Engineering Company. *MINDEF, courtesy of NAS.*
 
@@ -34,19 +34,19 @@ German-designed and technologically advanced, the Republic of Singapore’s miss
 >
 > Speech by Goh Chok Tong, Minister for Defence at the Promotion Ceremony for Reservist Officers, at Beach Road Camp on Tuesday, 29 June 1982*. Ministry of culture, courtesy of NAS. Ref.:* *gct19820629s*
 
-![img](../../../images/blogs/img_599d97253bf7c.png)
+![img](/images/blogs/img_599d97253bf7c.png)
 
 The handy and accurate Ultimax 100 light machine gun was developed by Chartered Industries of Singapore with guidance from Jim Sullivan, a renowned firearms designer who co-designed the M-16 rifle. Introduced to the SAF in 1983, it remains the lightest 5.56mm calibre machine gun in the world. *Fighting Fit-The Singapore Armed Forces*, 1990, courtesy of NAS.
 
  
 
-![img](../../../images/blogs/img_599d974201f51.png)
+![img](/images/blogs/img_599d974201f51.png)
 
 The American F-5E Tiger II, acquired in 1979, was Singapore’s first supersonic fighter aircraft *MINDEF, courtesy of NAS.*
 
  
 
-![img](../../../images/blogs/img_599d9762d0a3b.png)
+![img](/images/blogs/img_599d9762d0a3b.png)
 
 The F-5Es, flying in close formation, during Singapore’s 1980 National Day celebrations.  *MINDEF, courtesy of NAS.*
 
@@ -54,23 +54,23 @@ The SAF enhanced its air defences considerably in the second decade. High-tech a
 
  
 
-![img](../../../images/blogs/img_599d9775823a7.png)
+![img](/images/blogs/img_599d9775823a7.png)
 
 RBS-70 missile, mounted on an SAF V200 armoured vehicle. *MINDEF, courtesy of NAS.*
 
-![img](../../../images/blogs/img_599d98889f425.png)
+![img](/images/blogs/img_599d98889f425.png)
 
 ​                                                                          *MINDEF, courtesy of NAS.*
 
  
 
-![img](../../../images/blogs/img_599d978a9b24f.png)
+![img](/images/blogs/img_599d978a9b24f.png)
 
 In the second decade, American M113 armoured personnel carriers were purchased to replace our ageing fleet of V200 armoured vehicles, which were redesignated for air defence. The M113 was equipped with tracks, which enhanced manoeuvrability over rough terrain. *MINDEF, courtesy of NAS.*
 
  
 
-![img](../../../images/blogs/img_599d978f5901c.png)
+![img](/images/blogs/img_599d978f5901c.png)
 
 The American Bell UH-1H “Huey” helicopter was introduced to the SAF in 1977. The “Huey” was used to transport the SAF’s elite Commandos and Guardsmen, and was an integral part of early SAF efforts to develop the capacity to launch large-scale heliborne operations. *MINDEF, courtesy of NAS.*
 
@@ -78,37 +78,37 @@ The American Bell UH-1H “Huey” helicopter was introduced to the SAF in 1977.
 
 #### SAF recruitment posters used in 1978.
 
-![img](../../../images/blogs/img_599d979721cd4.png)
+![img](/images/blogs/img_599d979721cd4.png)
 
 Join the professionals, SAF, it’s a great life. *Singapore Armed Forces, courtesy of National Archives of Singapore. Ref.:* [*PO0420/98*](http://www.nas.gov.sg/archivesonline/posters/record-details/305200c7-115c-11e3-83d5-0050568939ad)*.*
 
  
 
-![img](../../../images/blogs/img_599d979e606d6.png)
+![img](/images/blogs/img_599d979e606d6.png)
 
 Your office in the sky. *Republic of Singapore Air Force, courtesy of NAS. Ref.: 19990003742-0024.*
 
  
 
-![img](../../../images/blogs/img_599d97ae94f4d.png)
+![img](/images/blogs/img_599d97ae94f4d.png)
 
 The SAF helped groom many of Singapore’s present generation of leaders. Several of our current Cabinet Ministers were SAF scholars, such as BG George Yeo (far left), RADM Teo Chee Hian (standing), and Mr Lim Hng Kiang (centre). SPH, courtesy of NAS.
 
  
 
-![img](../../../images/blogs/img_599d97bd99f07.png)
+![img](/images/blogs/img_599d97bd99f07.png)
 
 The SAF continued to engage Singaporeans through exciting public displays, showcasing its latest equipment and combat skills. *MINDEF, courtesy of NAS. Ref.: 19990005275 – 0035.*
 
-![img](../../../images/blogs/img_599d97c6eaedc.png)
+![img](/images/blogs/img_599d97c6eaedc.png)
 
 SAF Display ’83, in celebration of Armed Forces Day at West Coast Park. *Ministry of Culture, courtesy of NAS. Ref.: 19980006807.*
 
-![img](../../../images/blogs/img_599d97cd9739c.png)
+![img](/images/blogs/img_599d97cd9739c.png)
 
 *SAF Display ’83, in celebration of Armed Forces Day, at West Coast Park. Ministry of Information, Communications and the Arts, courtesy of NAS*. [*Ref.: 19980006807.*](http://www.nas.gov.sg/archivesonline/photographs/record-details/ebff7afd-1161-11e3-83d5-0050568939ad)
 
-![img](../../../images/blogs/img_599d97d8e0c8d.png)
+![img](/images/blogs/img_599d97d8e0c8d.png)
 
 Scenes from the SAF Display, 1983. Simulated assault on enemy positions by SAF armoured (top) and infantry forces (below) as well as a demonstration of the fire fox in simulated combat conditions (below). *Ministry of Culture, courtesy of NAS. Ref.: 19980006807-0102*
 

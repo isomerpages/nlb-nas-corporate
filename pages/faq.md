@@ -1,5 +1,5 @@
 ---
-permalink: /about-us/arrfaq
+permalink: /about-us/arrfaq/
 breadcrumb: FAQ
 title: Faq
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Mass Wedding at Victoria Memorial Hall organised by the Mayfair Dramatic and Musical Association, 1950'
 date: 2015-02-06T00:00:00.000Z
-permalink: /media/collections-and-research/mass-wedding-at-victoria-memorial-hall
+permalink: /media/collections-and-research/mass-wedding-at-victoria-memorial-hall/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/mass-wedding-at-victoria-memorial-hal
 
 # MASS WEDDING AT VICTORIA MEMORIAL HALL ORGANISED BY THE MAYFAIR DRAMATIC AND MUSICAL ASSOCIATION, 1950
 
-![David Ng Collection, National Archives of Singapore](../../../images/blogs/2015-02-06-L.jpg)
+![David Ng Collection, National Archives of Singapore](/images/blogs/2015-02-06-l.jpg)
 
 ​												David Ng Collection, National Archives of Singapore
 

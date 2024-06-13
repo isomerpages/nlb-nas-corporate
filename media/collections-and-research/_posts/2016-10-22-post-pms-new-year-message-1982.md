@@ -1,7 +1,7 @@
 ---
 title: 'PM''s New Year Message, 1982'
 date: 2016-10-22T00:00:00.000Z
-permalink: '/media/collections-and-research/pm''s-new-year-message'
+permalink: /media/collections-and-research/pm''s-new-year-message/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: '/media/collections-and-research/pm''s-new-year-message'
 
 Grace Ho 3 years ago1 min. read
 
-![img](../../../images/blogs/img_586b5ba44090b.png)      
+![img](/images/blogs/img_586b5ba44090b.png)      
 
 **The first page of PM Lee’s 1982 New Year’s Day speech**
 

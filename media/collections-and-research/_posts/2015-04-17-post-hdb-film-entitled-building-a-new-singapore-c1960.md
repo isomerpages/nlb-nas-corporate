@@ -1,7 +1,7 @@
 ---
 title: 'HDB Film Entitled ''Building a New Singapore'', c.1960'
 date: 2015-04-17T00:00:00.000Z
-permalink: /media/collections-and-research/hdb-film
+permalink: /media/collections-and-research/hdb-film/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/hdb-film
 
 # HDB FILM ENTITLED ‘BUILDING A NEW SINGAPORE’, c.1960
 
-![Housing and Development Board, courtesy of the National Archives of Singapore](../../../images/blogs/2015-04-17-L.jpg)
+![Housing and Development Board, courtesy of the National Archives of Singapore](/images/blogs/2015-04-17-l.jpg)
 
 ​					Housing and Development Board, courtesy of the National Archives of Singapore
 

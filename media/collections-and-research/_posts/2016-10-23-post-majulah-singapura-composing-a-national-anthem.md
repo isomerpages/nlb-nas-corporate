@@ -1,7 +1,7 @@
 ---
 title: 'Majulah Singapura - Composing a National Anthem'
 date: 2016-10-23T00:00:00.000Z
-permalink: /media/collections-and-research/majulah-singapura
+permalink: /media/collections-and-research/majulah-singapura/
 
 ---
 
@@ -10,14 +10,14 @@ permalink: /media/collections-and-research/majulah-singapura
 
 Fiona Tan 3 years ago 3 min. read
 
-![Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958 Opening Performance: New Victoria Theatre. Ref: 7033/3. Microfilm No.: PUB386](../../../images/blogs/Majulah-Singapura-1958-Score-WM-622x1000.jpg)
+![Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958 Opening Performance: New Victoria Theatre. Ref: 7033/3. Microfilm No.: PUB386](/images/blogs/majulah-singapura-1958-score-wm-622x1000.jpg)
 
 Score of City Council Song as presented to the Committee members involved in the Opening Performance of the Victoria Theatre on 6 September 1958
  Opening Performance: New Victoria Theatre. Ref: [7033/3](http://www.nas.gov.sg/archivesonline/government_records/record-details/0ec89ec7-115a-11e3-83d5-0050568939ad). Microfilm No.: PUB386
 
 *Majulah Singapura*, meaning “Onward Singapore” was originally composed as a song for Singapore’s City Council in 1958 to commemorate the reopening of Victoria Theatre after a major restoration. We trace the origins of Singapore’s national anthem in this article.
 
-![Zubir Said, the composer of Singapore’s national anthem, was a prolific composer of film scores and well-known songs such as Semogia Bahagia (../../../images/blogs/19980005388-0076-WM.jpg) sung by primary school children on Children’s Day. Ministry of Information and the Arts collection, courtesy of NAS. Ref.: 19980005388 - 0076](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/19980005388-0076-WM.jpg)Zubir Said, the composer of Singapore’s national anthem, was a prolific composer of film scores and well-known songs such as *Semogia Bahagia* (“May You Achieve Happiness”) sung by primary school children on Children’s Day. *Ministry of Information and the Arts collection, courtesy of NAS. Ref.: 19980005388 – 0076*
+![Zubir Said, the composer of Singapore’s national anthem, was a prolific composer of film scores and well-known songs such as Semogia Bahagia (/images/blogs/19980005388-0076-WM.jpg) sung by primary school children on Children’s Day. Ministry of Information and the Arts collection, courtesy of NAS. Ref.: 19980005388 - 0076](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2015/07/19980005388-0076-WM.jpg)Zubir Said, the composer of Singapore’s national anthem, was a prolific composer of film scores and well-known songs such as *Semogia Bahagia* (“May You Achieve Happiness”) sung by primary school children on Children’s Day. *Ministry of Information and the Arts collection, courtesy of NAS. Ref.: 19980005388 – 0076*
 
 In his oral history interview in 1984, Encik Zubir Said explained how he composed *Majulah Singapura*: “[T]he difficulty is in such a short melody, I have to put in all the words …it must be very simple, understandable for all the races in Singapore… I consult also an author in Malay language so that I can do it in proper Malay language but not too deep and not too difficult”.[[1\]](http://www.nas.gov.sg/blogs/offtherecord/majulah-singapura/#_ftn1)
 

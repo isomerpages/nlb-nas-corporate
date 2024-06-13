@@ -1,7 +1,7 @@
 ---
 title: 'Teeth Brushing Exercise, 1969'
 date: 2015-06-19T00:00:00.000Z
-permalink: /media/collections-and-research/teethbrushing
+permalink: /media/collections-and-research/teethbrushing/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/teethbrushing
 
 # TEETH BRUSHING EXERCISE, 1969
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-06-19-L.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](/images/blogs/2015-06-19-l.jpg)
 
 ​						Ministry of Information and The Arts Collection, National Archives of Singapore
 

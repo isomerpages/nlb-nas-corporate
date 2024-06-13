@@ -1,7 +1,7 @@
 ---
 title: 'Post Office Savings Bank Poster, 1977'
 date: 2015-01-02T00:00:00.000Z
-permalink: /media/collections-and-research/post-office-savings-bank-poster
+permalink: /media/collections-and-research/post-office-savings-bank-poster/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/post-office-savings-bank-poster
 
 # POST OFFICE SAVINGS BANK POSTER, 1977
 
-![Post Office Savings Bank Collection, National Archives of Singapore](../../../images/blogs/2015-01-09-L-3.jpg)
+![Post Office Savings Bank Collection, National Archives of Singapore](/images/blogs/2015-01-09-l-3.jpg)
 
 Post Office Savings Bank Collection, National Archives of Singapore
 

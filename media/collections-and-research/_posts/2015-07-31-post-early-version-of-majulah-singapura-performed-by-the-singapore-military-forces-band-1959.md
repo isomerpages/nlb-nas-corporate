@@ -1,7 +1,7 @@
 ---
 title: 'Early Version of Majulah Singapura Performed by the Singapore Military Forces Band, 1959'
 date: 2015-07-31T00:00:00.000Z
-permalink: /media/collections-and-research/majulahsingapura
+permalink: /media/collections-and-research/majulahsingapura/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/majulahsingapura
 
 # EARLY VERSION OF MAJULAH SINGAPURA PERFORMED BY THE SINGAPORE MILITARY FORCES BAND, 1959
 
-![National Archives of Singapore](../../../images/blogs/2015-07-31-L-1577954190325.jpg)
+![National Archives of Singapore](/images/blogs/2015-07-31-l-1577954190325.jpg)
 
 ​																National Archives of Singapore
 
@@ -24,7 +24,7 @@ When asked whether he was paid a fee for the composition, Encik Zubir said he di
 
 Upon independence in 1965, the *Majulah Singapura* became the national anthem of the Republic of Singapore. The version we hear today is a 2001 rearrangement.
 
-![img](../../../images/blogs/2015-07-31-L4-1577954190447.jpg)
+![img](/images/blogs/2015-07-31-l4-1577954190447.jpg)
 
 The National Archives of Singapore holds a copy of the first vinyl pressing of the Majulah Singapura produced by the Gramophone Company Ltd in 1959. This copy was the one presented to the Minister for Culture Mr S. Rajaratnam. Side 1 features the full and salute versions played by the Band of the Singapore Military Forces and Side 2 contains the version sung by the Ministry of Education Choir.
 

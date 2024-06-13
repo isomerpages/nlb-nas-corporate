@@ -1,7 +1,7 @@
 ---
 title: 'WWII Comes to Singapore'
 date: 2016-02-01T00:00:00.000Z
-permalink: /media/collections-and-research/ww2comestosingapore
+permalink: /media/collections-and-research/ww2comestosingapore/
 
 ---
 
@@ -21,10 +21,10 @@ However, the looming clouds of war had already begun gathering since the start o
 
 Initially, the British colonial administrators did not wish to cause panic and began with air raid precautions and training the local population for basic civil defence. Eventually the war preparations became more overt through screening of the population and training locals in volunteer forces from 1941 onwards.
 
-![Air Raid Precaution identity card belonging to Tan Geok Seng Donated by Victor Tan, National Archives collection 18/2 ](../../../images/blogs/Acc-18-2.jpg)Air Raid Precaution identity card belonging to Tan Geok Seng
+![Air Raid Precaution identity card belonging to Tan Geok Seng Donated by Victor Tan, National Archives collection 18/2 ](/images/blogs/acc-18-2.jpg)Air Raid Precaution identity card belonging to Tan Geok Seng
 Donated by Victor Tan, National Archives collection [18/2](http://www.nas.gov.sg/archivesonline/private_records/record-details/dca6e0fc-115b-11e3-83d5-0050568939ad)
 
-![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (../../../images/blogs/Acc-19-1992-1-1-659x1000.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)
+![Civil Defence Corps recruitment booklet, 1940 Donated by Chan Chon Hoe, National Archives collection 19/1992 (/images/blogs/Acc-19-1992-1-1-659x1000.jpg)](http://www.nas.gov.sg/blogs/offtherecord/wp-content/uploads/2016/12/Acc-19-1992-1-1-659x1000.jpg)
 
 ​                                              Civil Defence Corps recruitment booklet, 1940
 ​                                   Donated by Chan Chon Hoe, National Archives collection [19/1992 (1)](http://www.nas.gov.sg/archivesonline/private_records/record-details/e0bf7ac7-115b-11e3-83d5-0050568939ad)

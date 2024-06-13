@@ -1,7 +1,7 @@
 ---
 title: 'Christmas Party at a Children Social Centre, 1950'
 date: 2015-06-12T00:00:00.000Z
-permalink: /media/collections-and-research/childrensocialcentre
+permalink: /media/collections-and-research/childrensocialcentre/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/childrensocialcentre
 
 # CHRISTMAS PARTY AT A CHILDREN SOCIAL CENTRE, 1950
 
-![Ministry of Information and The Arts Collection, National Archives of Singapore](../../../images/blogs/2015-06-12-L.jpg)
+![Ministry of Information and The Arts Collection, National Archives of Singapore](/images/blogs/2015-06-12-l.jpg)
 
 ​						Ministry of Information and The Arts Collection, National Archives of Singapore
 

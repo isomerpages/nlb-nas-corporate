@@ -1,7 +1,7 @@
 ---
 title: 'Mobile Library, 1965'
 date: 2015-10-09T00:00:00.000Z
-permalink: /media/collections-and-research/mobile-library
+permalink: /media/collections-and-research/mobile-library/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/mobile-library
 
 # MOBILE LIBRARY, 1965
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-02-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-10-02-l.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
@@ -20,7 +20,7 @@ A modified van and two trailers were used to deliver the service and it was run 
 
 The community centres provided shelves for temporary book displays and the mobile library team would set up a counter to record loans and returns. The team visited the community centres on a specific day and time according to a roster and each visit lasted between two to three hours. At the end of each day, the books would be packed up and returned to the National Library building which was equipped with parking bays and packing rooms for the mobile libraries.
 
-![2015-10-02 (../../../images/blogs/2015-10-02-L2.jpg)(2)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-10-02-L2.jpg)
+![2015-10-02 (/images/blogs/2015-10-02-L2.jpg)(2)](http://www.nas.gov.sg/blogs/archivistpick/wp-content/uploads/2015/09/2015-10-02-L2.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

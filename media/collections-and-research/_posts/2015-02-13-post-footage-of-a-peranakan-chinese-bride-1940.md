@@ -1,7 +1,7 @@
 ---
 title: 'Footage of a Peranakan Chinese Bride, 1940'
 date: 2015-02-13T00:00:00.000Z
-permalink: /media/collections-and-research/footage-of-peranakan-chinese-bride
+permalink: /media/collections-and-research/footage-of-peranakan-chinese-bride/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/footage-of-peranakan-chinese-bride
 
 # FOOTAGE OF A PERANAKAN CHINESE BRIDE, 1940
 
-![Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click  here. ](../../../images/blogs/2015-02-13-L.jpg)
+![Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click  here. ](/images/blogs/2015-02-13-l.jpg)
 
 Tan Geok Choo Wee Law Collection, National Archives of Singapore. To watch the full video, click [ here. ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad)
 

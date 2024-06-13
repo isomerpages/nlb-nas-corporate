@@ -1,7 +1,7 @@
 ---
 title: 'Scene at Singapore Botanic Gardens During Hari Raya Puasa, 1965'
 date: 2015-07-17T00:00:00.000Z
-permalink: /media/collections-and-research/harirayapuasabotanicgardens
+permalink: /media/collections-and-research/harirayapuasabotanicgardens/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/harirayapuasabotanicgardens
 
 # SCENE AT SINGAPORE BOTANIC GARDENS DURING HARI RAYA PUASA, 1965
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-07-17-l.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
@@ -20,21 +20,21 @@ In 1965, there was a coincidence of two festivals, *Hari Raya Puasa* on 3 Februa
 
 Photographs from the archives show that many Singaporeans of all races congregated at the Singapore Botanic Gardens as part of the festivities in that year. The featured photograph shows the iconic octagonal bandstand that still draws the crowds today. Built in the 1930s, it was previously used for outdoor musical performances and was declared a conserved heritage structure in 2009 by the Urban Redevelopment Authority.
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L2.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-07-17-l2.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L3.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-07-17-l3.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
 While the scenes within the ever pristine Botanic Gardens may look very much the same apart from the fashions of that time, a different picture  can be seen at the entrances.
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L4.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-07-17-l4.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-07-17-L5.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-07-17-l5.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

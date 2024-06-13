@@ -1,7 +1,7 @@
 ---
 title: 'Mr Lim Nang Seng Sculpting a Miniature Merlion Statue, 1972'
 date: 2015-03-06T00:00:00.000Z
-permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion
+permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merlion/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/lim-nan-seng-sculpting-miniature-merl
 
 # MR LIM NANG SENG SCULPTING A MINIATURE MERLION STATUE, 1972
 
-![Lim Nang Seng Collection, National Archives of Singapore](../../../images/blogs/2015-03-06-L.jpg)
+![Lim Nang Seng Collection, National Archives of Singapore](/images/blogs/2015-03-06-l.jpg)
 
 ​											Lim Nang Seng Collection, National Archives of Singapore
 

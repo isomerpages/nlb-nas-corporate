@@ -1,7 +1,7 @@
 ---
 title: 'Press Release on Time Zone Adjustment, 1981'
 date: 2015-12-18T00:00:00.000Z
-permalink: /media/collections-and-research/time-zone-adjustment
+permalink: /media/collections-and-research/time-zone-adjustment/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/time-zone-adjustment
 
 # PRESS RELEASE ON TIME ZONE ADJUSTMENT, 1981
 
-![Ministry of Culture Collection, National Archives of Singapore](../../../images/blogs/2015-12-18-L.jpg)
+![Ministry of Culture Collection, National Archives of Singapore](/images/blogs/2015-12-18-l.jpg)
 
 ​                                           Ministry of Culture Collection, National Archives of Singapore
 

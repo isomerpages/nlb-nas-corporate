@@ -1,7 +1,7 @@
 ---
 title: 'Sharity The Elephant And Friends, 1993'
 date: 2015-10-16T00:00:00.000Z
-permalink: /media/collections-and-research/sharity-the-elephant
+permalink: /media/collections-and-research/sharity-the-elephant/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/sharity-the-elephant
 
 # SHARITY THE ELEPHANT AND FRIENDS, 1993
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-10-16-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-10-16-l.jpg)
 
 Ministry of Information and the Arts Collection, National Archives of Singapore
 

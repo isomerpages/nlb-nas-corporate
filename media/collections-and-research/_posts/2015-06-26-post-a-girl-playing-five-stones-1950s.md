@@ -1,7 +1,7 @@
 ---
 title: 'A Girl Playing Five Stones, 1950s'
 date: 2015-06-26T00:00:00.000Z
-permalink: /media/collections-and-research/fivestones
+permalink: /media/collections-and-research/fivestones/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/fivestones
 
 # A GIRL PLAYING FIVE STONES, 1950s
 
-![Singapore Sports Council Collection, National Archives of Singapore](../../../images/blogs/2015-06-26-L.jpg)
+![Singapore Sports Council Collection, National Archives of Singapore](/images/blogs/2015-06-26-l.jpg)
 
 Singapore Sports Council Collection, National Archives of Singapore
 

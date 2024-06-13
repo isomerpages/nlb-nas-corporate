@@ -1,7 +1,7 @@
 ---
 title: 'Educational Television Series'' English For You: Old Singapore, 1972'
 date: 2015-04-24T00:00:00.000Z
-permalink: /media/collections-and-research/educational-television-series
+permalink: /media/collections-and-research/educational-television-series/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/educational-television-series
 
 # EDUCATIONAL TELEVISION SERIES’ ENGLISH FOR YOU: OLD SINGAPORE, 1972
 
-![Ministry of Education, courtesy of the National Archives of Singapore](../../../images/blogs/2015-04-24-L.jpg)
+![Ministry of Education, courtesy of the National Archives of Singapore](/images/blogs/2015-04-24-l.jpg)
 
 Ministry of Education, National Archives of Singapore. To watch a clip from the film, click [ here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5c3ce7be-1164-11e3-83d5-0050568939ad).
 

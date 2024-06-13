@@ -1,7 +1,7 @@
 ---
 title: 'Oral History Interview of the Experiences of a Midwife, recorded in 1997'
 date: 2015-01-23T00:00:00.000Z
-permalink: /media/collections-and-research/oral-history-interview-experiences-of-midwife
+permalink: /media/collections-and-research/oral-history-interview-experiences-of-midwife/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/oral-history-interview-experiences-of
 
 # ORAL HISTORY INTERVIEW OF THE EXPERIENCES OF A MIDWIFE, RECORDED IN 1997
 
-![National Archives of Singapore](../../../images/blogs/2015-01-23-L-1024x720.jpg)
+![National Archives of Singapore](/images/blogs/2015-01-23-l-1024x720.jpg)
 
 ​																National Archives of Singapore
 

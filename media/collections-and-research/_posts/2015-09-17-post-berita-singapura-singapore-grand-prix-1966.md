@@ -1,7 +1,7 @@
 ---
 title: 'Berita Singapura: Singapore Grand Prix, 1966'
 date: 2015-09-17T00:00:00.000Z
-permalink: /media/collections-and-research/berita-singapura
+permalink: /media/collections-and-research/berita-singapura/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/berita-singapura
 
 # BERITA SINGAPURA: SINGAPORE GRAND PRIX, 1966
 
-![Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click here .](../../../images/blogs/2015-09-17-L.jpg)
+![Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click here .](/images/blogs/2015-09-17-l.jpg)
 
 Ministry of Culture Collection, National Archives of Singapore. To watch a clip from the event, click [ here ](http://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457cf916-1164-11e3-83d5-0050568939ad).
 

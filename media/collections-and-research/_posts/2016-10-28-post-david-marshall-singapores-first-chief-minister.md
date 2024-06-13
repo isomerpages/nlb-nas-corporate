@@ -1,7 +1,7 @@
 ---
 title: 'David Marshall: Singapore''s First Chief Minister'
 date: 2016-10-28T00:00:00.000Z
-permalink: /media/collections-and-research/david-marshall
+permalink: /media/collections-and-research/david-marshall/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/david-marshall
 
 Grace Ho 4 years ago 12 min. read
 
-![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_raisehandsx.gif)
+![A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](/images/blogs/dm_raisehandsx.gif)
 
 *A jubilant David Marshall, following his election as Chief Minister in 1955. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: 19980002917 – 0096*
 
@@ -26,7 +26,7 @@ Reflecting on his youth in the interview, Marshall pointed to three experiences 
 
 ## Racial Discrimination and Anti-colonialism
 
-![David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_speakingx.gif)
+![David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](/images/blogs/dm_speakingx.gif)
 
 *David Marshall speaking to a crowd of attentive supporters at Empress Place in 1955. Marshall was famed for his extraordinary oratorical skills. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: PCD0132 – 006*
 
@@ -58,7 +58,7 @@ Marshall’s brand of Socialism, which he briefly explained in the interview, wa
 
 ## Marshall as Loyal Critic of Singapore Society
 
-![David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](../../../images/blogs/dm_smokingx.gif)
+![David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore](/images/blogs/dm_smokingx.gif)
 
 *David Marshall taking a rest with his trademark smoking pipe outside the Singapore Legislative Assembly after a parliamentary session, 1961. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref: PCD0079 – 045*
 
@@ -82,7 +82,7 @@ Marshall also paid tribute to the personal qualities of Dr Goh Keng Swee, a lead
 
 Marshall was a vocal critic of Singapore yet he remained a loyal Singaporean. His opinions were controversial, contestable and perhaps wrong-headed at times, but few people doubted his sincerity, his courage and personal integrity. He was always ready to stand up for what he thought was right, and it is the memory of his nobility that his friends and admirers celebrate on his birthday centenary.
 
-![ David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore ](../../../images/blogs/dm_lastpic.jpg)
+![ David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore ](/images/blogs/dm_lastpic.jpg)
 
 *David Marshall in his later years. He possessed remarkable energy throughout his life, practicing law and representing Singapore as Ambassador to France, Portugal, Switzerland and Spain well into his mid-eighties. Source: Singapore Press Holdings, Courtesy of National Archives of Singapore Ref:20060000508 – 0073*
 

@@ -1,7 +1,7 @@
 ---
 title: 'Map of Tiong Bahru for SIT Flats, c.1920'
 date: 2015-03-13T00:00:00.000Z
-permalink: /media/collections-and-research/map-of-tiong-bahru
+permalink: /media/collections-and-research/map-of-tiong-bahru/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/map-of-tiong-bahru
 
 # MAP OF TIONG BAHRU FOR SIT FLATS, c.1920
 
-![Survey Department Collection, National Archives of Singapore](../../../images/blogs/2015-03-13-L.jpg)
+![Survey Department Collection, National Archives of Singapore](/images/blogs/2015-03-13-l.jpg)
 
 Survey Department Collection, National Archives of Singapore
 

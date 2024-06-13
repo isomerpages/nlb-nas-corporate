@@ -1,7 +1,7 @@
 ---
 title: 'Metrication in Singapore Poster, 1970s'
 date: 2015-12-04T00:00:00.000Z
-permalink: /media/collections-and-research/metrication
+permalink: /media/collections-and-research/metrication/
 
 ---
 
@@ -10,7 +10,7 @@ permalink: /media/collections-and-research/metrication
 
 # METRICATION IN SINGAPORE POSTER, 1970s
 
-![Singapore Metrication Board Collection, National Archives of Singapore](../../../images/blogs/2015-12-04-L.jpg)
+![Singapore Metrication Board Collection, National Archives of Singapore](/images/blogs/2015-12-04-l.jpg)
 
 ​                               Singapore Metrication Board Collection, National Archives of Singapore
 

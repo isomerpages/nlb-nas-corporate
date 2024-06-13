@@ -1,7 +1,7 @@
 ---
 title: 'Public Standpipe in Toa Payoh Village, c.1960'
 date: 2015-04-10T00:00:00.000Z
-permalink: /media/collections-and-research/public-standpipe
+permalink: /media/collections-and-research/public-standpipe/
 
 ---
 
@@ -12,7 +12,7 @@ permalink: /media/collections-and-research/public-standpipe
 
 
 
-![Ministry of Information and the Arts Collection, National Archives of Singapore](../../../images/blogs/2015-04-10-L.jpg)
+![Ministry of Information and the Arts Collection, National Archives of Singapore](/images/blogs/2015-04-10-l.jpg)
 
 ​						Ministry of Information and the Arts Collection, National Archives of Singapore
 
