@@ -16,6 +16,17 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: 360 Virtual Tour of Former Ford Factory Exhibition
+      subtitle: Features
+      id: infopic
+      description: Explore the Former Ford Factory, a WW II permanent exhibition
+        showcasing events and memories of the British surrender to the Japanese
+        Army on 15 Feb 1942.
+      button: Visit Here
+      url: https://my.matterport.com/show/?m=WJfnmz7WMAT
+      image: /images/formerford/FFF_Building.jpg
+      alt: Image alt text
+  - infopic:
       title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
       id: infopic
       description: Visit the curated page of archived audiovisual records documenting
@@ -24,6 +35,7 @@ sections:
       url: https://www.nas.gov.sg/archivesonline/rememberingpramlee
       image: /images/socialmedia_1080x1080_new.png
       alt: Image alt text
+      subtitle: Features
   - infopic:
       title: National Day Rally Speeches Throughout the Years
       subtitle: FEATURES
