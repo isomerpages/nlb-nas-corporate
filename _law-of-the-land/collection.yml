@@ -1,5 +1,0 @@
-collections:
-  law-of-the-land:
-    output: true
-    order:
-      - UI test.md
