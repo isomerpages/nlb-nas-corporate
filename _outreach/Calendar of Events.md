@@ -25,8 +25,7 @@ Tim Bunnell is a Professor at the Department of Geography and Director of the As
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
 
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
+
 
 ________________________________________________________________________
 ![](/images/calendar%20of%20events/au_talk_on_25_jun_2024.jpg)
