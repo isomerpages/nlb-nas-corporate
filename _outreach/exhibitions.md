@@ -46,7 +46,7 @@ Holidays: 10am – 10pm Admission ends 30 min before closing time</p>
 <p><a href="mailto:NAS@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NAS@nlb.gov.sg</a>
 </p>
 <h3>360 Virtual Tour</h3>
-<p>Explore 360 virtual tour of The Law of The Land exhibition here!</p>
+<p>Explore 360 virtual tour of The Law of The Land exhibition <a href="https://my.matterport.com/show/?m=PBMJZkcCaJ4" rel="noopener noreferrer nofollow" target="_blank">here</a>!</p>
 <h2>Exhibition Highlights</h2>
 <div class="isomer-image-wrapper">
 <img style="width:400px;" height="auto" width="100%" alt="Raffles' Regulations" src="/images/exhibitions/raffles-regulations (lr).jpg">
