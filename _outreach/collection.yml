@@ -2,7 +2,7 @@ collections:
   outreach:
     output: true
     order:
-      - exhibitions.md
+      - Law Of The Land.md
       - public-programmes.md
       - publications.md
       - Calendar of Events.md

@@ -1,8 +1,9 @@
 ---
-title: Exhibitions
-permalink: /outreach/exhibitions/
+title: Law Of The Land
+permalink: /outreach/lotl/
 breadcrumb: Exhibitions
 variant: tiptap
+description: ""
 ---
 <h2>Law of the Land: Highlights of Singapore’s Constitutional Documents</h2>
 <div class="isomer-image-wrapper">
