@@ -1,5 +1,5 @@
 ---
-title: Law Of The Land
+title: "Past Exhibition: Law Of The Land"
 permalink: /outreach/lotl/
 breadcrumb: Exhibitions
 variant: tiptap
