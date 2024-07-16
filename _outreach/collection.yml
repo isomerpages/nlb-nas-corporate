@@ -2,7 +2,6 @@ collections:
   outreach:
     output: true
     order:
-      - Law Of The Land.md
       - "Past Exhibition: Law Of The Land.md"
       - public-programmes.md
       - publications.md
