@@ -6,7 +6,7 @@ description: ""
 ---
 <h2>Laws of Our Land: Foundations of a New Nation</h2>
 <p></p>
-<h3>ABOUT THE EXHIBITION</h3>
+<h3>About the exhibition</h3>
 <p>About seven decades ago, the identity and legal status of Singapore citizens
 did not exist, wives in Singapore were not treated as equal partners in
 marriage, and Singapore’s archaic employment laws were unsuited for a modern
