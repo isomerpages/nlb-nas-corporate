@@ -35,4 +35,32 @@ in Singapore.</p>
 <p>These laws serve as foundation pillars of our nation by continuing to
 shape and underpin the rights and identities of Singapore’s citizens, women
 and workers.</p>
+<h3>FAQ</h3>
+<p><strong>Frequently Asked Questions</strong>
+</p>
+<p><strong>Q1. Is there a press or media release on the exhibition?</strong>
+</p>
+<p>Yes there is one which can be found at this link: (<a href="https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2024/Landmark-Laws-that-Shaped-Our-Nation" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
+<p><strong>Q2. What are the exhibition’s opening hours? Are you closed during public holidays?</strong>
+</p>
+<p>The National Gallery and the Laws of Our Land exhibition remain open during
+all public holidays, from 10.00am to 7.00pm daily. Admission and ticket
+sales end 30 minutes before closing time.</p>
+<p><strong>Q3. Do I need to purchase a Gallery Pass to enter the exhibition?</strong>
+</p>
+<p>Admission to the exhibition requires a General Admission pass to National
+Gallery Singapore, which is free for Singaporeans and Permanent Residents.
+National Gallery Singapore is open daily from 10am to 7pm. Please visit
+<a href="https://www.nationalgallery.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.nationalgallery.sg/admissions</a>for more information.</p>
+<p><strong>Q4. Are there guided tours of the exhibition?</strong>
+</p>
+<p>Visitors can participate in guided tours of the exhibition.Information
+on these tours can be found on NLB’s Eventbrite website (<a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
+and on National Gallery’s corporate website under Tours: (<a href="https://web.nationalgallery.sg/?utm_source=google_prosp&amp;utm_medium=ppc&amp;utm_campaign=alwayson&amp;utm_content=_rsa/&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uby0I6xw8vRuCc7qxgkq1vNfHVgme_uwMrf3wY02vwiLsvQtL714UaAsNQEALw_wcB&amp;gclsrc=aw.ds#/search?q=&amp;tab=Tours" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
+<p><strong>Q5. Where do I find more information on the National Archives of Singapore and National Library collections?</strong>
+</p>
+<p>More information on the National Archives of Singapore’s collections can
+be found at its Archives Online web portal: (<a href="https://www.nas.gov.sg/archivesonline/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
+<p>Information on National Library’s collections can be found at this online
+catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p></p>
