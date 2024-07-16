@@ -65,9 +65,10 @@ be found at its Archives Online web portal: (<a href="https://www.nas.gov.sg/arc
 catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <h3>TIMELINE</h3>
 <p>Download the PDF detailing more about the exhibits here:
-<br>1. Women's Charter
-<br>2. Employment Act
-<br>3. Citizenship Ordinance</p>
+<br><u>1. Women's Charter </u>
+<br><u>2. Employment Act </u>
+<br><u>3. Citizenship Ordinance</u>
+</p>
 <h3>VISITOR INFORMATION</h3>
 <p><strong>VISIT US</strong>
 </p>
