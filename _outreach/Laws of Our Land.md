@@ -13,7 +13,7 @@ marriage, and Singapore’s archaic employment laws were unsuited for a modern
 industrial economy. But all this changed with the introduction of three
 laws that are featured in a refreshed exhibition by the National Library
 Board (NLB).</p>
-<p><strong><em>Laws of Our Land: Foundations of a New Nation</em></strong> puts
+<p><strong><em>Laws of Our Land: Foundations of a New Nation </em></strong>puts
 a spotlight on the Citizenship Ordinance, the Women’s Charter, and the
 Employment Act. Through the 37 artefacts and reproductions on display from
 the collections of the National Archives of Singapore, the National Library
