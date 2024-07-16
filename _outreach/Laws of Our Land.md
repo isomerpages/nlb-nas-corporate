@@ -63,4 +63,83 @@ and on National Gallery’s corporate website under Tours: (<a href="https://web
 be found at its Archives Online web portal: (<a href="https://www.nas.gov.sg/archivesonline/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p>Information on National Library’s collections can be found at this online
 catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
+<h3>TIMELINE</h3>
+<p>Download the PDF detailing more about the exhibits here:
+<br>1. Women's Charter
+<br>2. Employment Act
+<br>3. Citizenship Ordinance</p>
+<h3>VISITOR INFORMATION</h3>
+<p><strong>VISIT US</strong>
+</p>
+<p>The exhibition is located at the former Chief Justice's Chamber &amp;
+Office at National Gallery Singapore’s Supreme Court Wing, on Level 3 adjoining
+the lower link bridge.</p>
+<p>National Gallery Singapore is located at 1 St Andrew's Road, Singapore
+178957</p>
+<p><strong>OPENING HOURS</strong>
+</p>
+<p>Daily | 10.00am - 7.00pm</p>
+<p>Admission and ticket sales end 30 minutes before closing time. Check (
+<a href="https://www.nationalgallery.sg/visit" rel="noopener noreferrer nofollow" target="_blank">Here</a>) for any revision to Opening Hours.</p>
+<p><strong>ADMISSION</strong>
+</p>
+<p>Access is through the General Admission pass, which is free for Singaporeans
+and Permanent Residents</p>
+<p><strong>HOW TO GET THERE</strong>
+</p>
+<p>The Gallery has two main entrances: the Coleman Street entrance and the
+Padang Atrium entrance, facing the Padang.</p>
+<p><strong><u>By Bus</u></strong>
+</p>
+<p>There are various buses that you can take to the Gallery</p>
+<p><u>Coleman Street entrance</u>
+</p>
+<p>130 stops at the Gallery’s Coleman Street entrance.</p>
+<p>63, 51, 80, 32, 851 stop opposite Peninsula Plaza. The Coleman Street
+entrance is a 5-minute walk away.</p>
+<p><u>St Andrew's Road entrance</u>
+</p>
+<p>195 and 961 stop at Parliament Place. Walk round the corner to the front
+of the building to get to the Padang Atrium entrance.</p>
+<p>61, 124, 145, 166, 174, 197 stop opposite The Treasury Building on North
+Bridge Road. The Padang Atrium entrance is approximately a 7-minute walk
+away.</p>
+<p>75, 100, 107, 130, 131, 167 stop in front of Victoria Concert Hall. The
+Gallery is approximately a 5-minute walk away.</p>
+<p><strong><u>By MRT</u></strong>
+</p>
+<p>Taking a train? Nearest station: City Hall MRT</p>
+<p><u>City Hall</u>
+</p>
+<p>Take Exit B. The Gallery is approximately a 7-minute walk from City Hall
+MRT station via the Art Connector.</p>
+<p><u>Clarke Quay</u>
+</p>
+<p>Take Exit E and enjoy a leisurely 10-minute stroll along the Singapore
+River to the Gallery.</p>
+<p><u>Raffles Place</u>
+</p>
+<p>Take Exit B. The Gallery is approximately a 10-minute walk away through
+the business district.</p>
+<p><strong><u>By Taxi/Car</u></strong>
+</p>
+<p>Taxi stand and drop-off point is located at the Coleman Street entrance.</p>
+<p><u>By Taxi</u>
+</p>
+<p>A taxi stand is located at the Gallery’s Coleman Street entrance, which
+is accessible by turning right at the end of Supreme Court Lane.</p>
+<p>Next closest taxi stands are located at The Adelphi.</p>
+<p><u>By Car</u>
+</p>
+<p>The main drop-off point for cars and taxis is located at Coleman Street
+Entrance. The nearest alternative drop off is located at The Adelphi.</p>
+<h3>CONTACT US</h3>
+<p>For general information on the exhibition, please refer to our Frequently
+Asked Questions</p>
+<p>If you have any enquiries about the National Archives of Singapore or
+other questions or feedback on the exhibition, please write to us at:
+<a href="mailto:nas@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nas@nlb.gov.sg</a>
+</p>
+<h3>FEEDBACK</h3>
+<p>Kindly share with us your feedback if any <a href="https://form.gov.sg/60012953ba0ee20011f31755" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
