@@ -95,7 +95,7 @@ and Permanent Residents</p>
 Padang Atrium entrance, facing the Padang.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
 </div>
 <p><strong><u>By Bus</u></strong>
 </p>
