@@ -151,8 +151,7 @@ other questions or feedback on the exhibition, please write to us at:
 <h3>FEEDBACK</h3>
 <p>Kindly share with us your feedback if any <a href="https://form.gov.sg/60012953ba0ee20011f31755" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>ARTEFACT HIGHLIGHTS</h3>
-<p><strong>The Citizenship Ordinance (1957)</strong>
-</p>
+<h4><strong>The Citizenship Ordinance (1957)</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
@@ -201,26 +200,74 @@ the Legislative Assembly general election on 30 May 1959.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/003.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/003.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
+<p><strong><em>White Paper on Education Policy</em></strong>
+<br>Singapore: Legislative Assembly, 1956
+<br>Collection of National Library, Singapore
+<br>B02853737B</p>
+<p>The White Paper on Education Policy (1956)
+<br>recommended equality of Singapore’s 4 main language streams in education,
+and played a key role in establishing multiculturalism in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
 </div>
-</th>
-</tr>
-</tbody>
-</table>
+<p><strong>Poster showing elected assemblymen in 1959 General Election</strong>
+<br>Singapore: Government Printing Office, 1959
+<br>Ministry of Culture Collection, National Archives of Singapore
+<br>PO4928/2007</p>
+<p>We display posters from the 1959 election, including a rare poster showing
+the 51 members of the first fully elected assembly</p>
+<h4>The Women’s Charter (1961)</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/005.png">
+</div>
+<p><strong>The Women’s Charter, 1961<br>from <em>State of Singapore Ordinances, Nos. 1–33</em></strong>
+<br>Singapore: Government Printer, 1961
+<br>On loan from the Supreme Court</p>
+<p>The signed copy of Women’s Charter, was assented to by the Yang di-Pertuan
+Negara on 30 May 1961.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/006.png">
+</div>
+<p><strong>Power of attorney, 1906.</strong> 
+<br>Koh Seow Chuan Collection, National Library, Singapore
+<br>B26057119I</p>
+<p>Under British law during the colonial period, married women lost rights
+to their property. Even though Muslim law allowed women to retain their
+property rights even after marriage, the patriarchal structure of Singapore’s
+colonial society made it difficult for women to administer their own property,
+and led them to legally depend on their husbands or male relatives. Such
+powers of attorney are documentary traces of how some Muslim women signed
+over the rights to administer their property to their male relatives in
+this patriarchal society.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/007.png">
+</div>
+<p><strong>Identification Card of a <em>Mui Tsai</em>, 1930s</strong> 
+<br>Lee Siew Hong Collection, National Archives of Singapore
+<br>25/1992</p>
+<p><em>Mui tsai</em> were young girls sold to affluent Chinese families as
+domestic servants. This identification card for Ang Chooi Bah was issued
+by the Chinese Protectorate under the Mui Tsai Ordinance of 1932. It indicates
+the terms and conditions for their employers, providing the girls with
+basic protection.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/008.png">
+</div>
+<p><strong>Civil Marriage Register Book, 1960</strong>
+<br>Registry of Marriages Collection, National Archives of Singapore
+<br>BV0503605L</p>
+<p>While the Marriage Registrars’ Ordinance of 1880 was the first colonial
+legislation passed to administrate Christian marriages in the Straits Settlements,
+it was not until 1940 when the Civil Marriage Ordinance was passed, allowing
+non-Christians to register a monogamous marriage with the Registry of Marriages.</p>
+<h4>The Employment Act (1968)</h4>
 <p></p>
