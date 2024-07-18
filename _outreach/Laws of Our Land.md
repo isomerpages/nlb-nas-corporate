@@ -155,7 +155,7 @@ other questions or feedback on the exhibition, please write to us at:
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
 </div>
 <p><strong>Singapore Citizenship Ordinance<br>from <em>Colony of Singapore Ordinances, Nos. 1–47 of 1957</em></strong>
 <br>Singapore, Government Printing Office, 1957
