@@ -165,5 +165,41 @@ the exhibition. It is signed off by British Governor Robert Brown Black
 and stamped with the seal of the Colony of Singapore’s Coat-of-Arms. The
 Ordinance created the legal status of Singapore citizens and marked the
 first time the people pledged allegiance to Singapore.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_1.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_2.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Singapore (Constitution) Order In Council<br>from <em>Gazette Supplement No. 81 of 1958</em></strong>
+<br>Singapore: Government Printing Office, 1958
+<br>Collection of National Library, Singapore
+<br>B02939108J</p>
+<p></p>
+<p>This constitution was conferred on Singapore by Queen Elizabeth II. It
+ended Singapore’s status as a colony and redefined it as a British-protected
+self-governing state, and provided for a fully elected Legislative Assembly
+empowered to form a government. The constitution came into effect after
+the Legislative Assembly general election on 30 May 1959.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
