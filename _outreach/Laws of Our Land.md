@@ -150,4 +150,20 @@ other questions or feedback on the exhibition, please write to us at:
 </p>
 <h3>FEEDBACK</h3>
 <p>Kindly share with us your feedback if any <a href="https://form.gov.sg/60012953ba0ee20011f31755" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<h3>ARTEFACT HIGHLIGHTS</h3>
+<p><strong>The Citizenship Ordinance (1957)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
+</div>
+<p><strong>Singapore Citizenship Ordinance<br>from Colony of Singapore Ordinances, Nos. 1–47 of 1957</strong>
+<br>Singapore, Government Printing Office, 1957
+<br>On loan from Supreme Court of Singapore</p>
+<p>The Supreme Court version of the Citizenship Ordinance is displayed in
+the exhibition. It is signed off by British Governor Robert Brown Black
+and stamped with the seal of the Colony of Singapore’s Coat-of-Arms. The
+Ordinance created the legal status of Singapore citizens and marked the
+first time the people pledged allegiance to Singapore.</p>
+<p></p>
 <p></p>
