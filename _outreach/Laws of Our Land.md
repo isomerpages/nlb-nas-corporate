@@ -175,13 +175,13 @@ first time the people pledged allegiance to Singapore.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_1.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_1.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_2.png">
 </div>
 </th>
 </tr>
@@ -211,13 +211,13 @@ the Legislative Assembly general election on 30 May 1959.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/003.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/003.png">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
 </div>
 </th>
 </tr>
