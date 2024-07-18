@@ -151,7 +151,7 @@ other questions or feedback on the exhibition, please write to us at:
 <h3>FEEDBACK</h3>
 <p>Kindly share with us your feedback if any <a href="https://form.gov.sg/60012953ba0ee20011f31755" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <h3>ARTEFACT HIGHLIGHTS</h3>
-<h4><strong>The Citizenship Ordinance (1957)</strong></h4>
+<h4>The Citizenship Ordinance (1957)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
