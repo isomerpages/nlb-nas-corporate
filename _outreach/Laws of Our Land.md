@@ -6,6 +6,9 @@ description: ""
 ---
 <h2>Laws of Our Land: Foundations of a New Nation</h2>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/A__Ad_Draft_v4_1.png">
+</div>
 <h3>ABOUT THE EXHIBITION</h3>
 <p>About seven decades ago, the identity and legal status of Singapore citizens
 did not exist, wives in Singapore were not treated as equal partners in
@@ -90,6 +93,10 @@ and Permanent Residents</p>
 </p>
 <p>The Gallery has two main entrances: the Coleman Street entrance and the
 Padang Atrium entrance, facing the Padang.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
+</div>
 <p><strong><u>By Bus</u></strong>
 </p>
 <p>There are various buses that you can take to the Gallery</p>
