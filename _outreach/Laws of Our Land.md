@@ -271,3 +271,71 @@ it was not until 1940 when the Civil Marriage Ordinance was passed, allowing
 non-Christians to register a monogamous marriage with the Registry of Marriages.</p>
 <h4>The Employment Act (1968)</h4>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/009.png">
+</div>
+<p><strong>Employment Act<br>from <em>Republic of Singapore Acts, Nos. 1–47 of 1986</em></strong>
+<br>Singapore: Government Printer, 1968
+<br>On loan from Supreme Court, Singapore</p>
+<p>The Employment Act of 1968 is a landmark legislation that has had a profound
+impact on the nature of work and workers in Singapore. It was enacted shortly
+after Singapore’s independence and is the cornerstone of employment law.
+The act consolidated previous labour laws and introduced a range of crucial
+employment standards and protections. Over time, the act has evolved to
+keep pace with changing labour market dynamics and societal needs, reflecting
+Singapore’s commitment to maintaining a competitive yet equitable legal
+framework that balances the interests of employers and employees, fostering
+industrial harmony, and supporting Singapore’s economy.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/010.png">
+</div>
+<p><strong>The Indian Immigrants’ Protection Ordinance, 5 February 1876, <br>from <em>Straits Settlements Government Gazette</em> (January–December, 1876)</strong> 
+<br>National Library, Singapore
+<br>B02969451B</p>
+<p>Many of the early Indian labourers came to Singapore to work in construction,
+cargo handling, ship repair, domestic labour and plantations. The Indian
+Immigrants’ Protection Ordinance of 1876 saw the appointment of a Protector
+of Immigrants. It stipulated forms of labour contracts and regulated who
+could leave India for work</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/011.png">
+</div>
+<p><strong>Labour Ordinance, 15 October 1920, from Straits Settlements Government Gazette (October–December, 1920)</strong> 
+<br>National Library, Singapore
+<br>B02969298A</p>
+<p>The Labour Ordinance of 1920 was a significant consolidation of previous
+labour laws, both race-specific and non-race-specific. It covered in detail
+the terms and conditions of labour agreements and contracts pertaining
+to wages, termination, leave and more. It also abolished the ‘truck system’
+where workers were paid in forms other than money, and mandated access
+to housing, water, sanitation and medical treatment for estate workers,
+who worked in remote areas.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/012.png">
+</div>
+<p><strong><em>Singapore Traction Company Employees Union Suara</em></strong> &nbsp;
+<br>National Library, Singapore&nbsp;
+<br>B29005361D&nbsp;</p>
+<p>The Singapore Traction Company (STC) ran tram, trolleybus and motor bus
+operations in Singapore from 1925 to 1971. In 1955, STC bus workers carried
+out what became the longest strike in postwar Singapore, lasting 142 days.
+This was the culmination of union demands since the late 1930s.</p>
+<p>The STC Employees’ Union newsletter, Suara (‘Voice’ in Malay), featured
+content in English, Malay, Chinese and Tamil.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/013.png">
+</div>
+<p><strong>Pamphlet on the Shop Assistants Employment Ordinance</strong>
+<br>Singapore: Department of Information Services, 1957
+<br>Francis Thomas collection, National Archives of Singapore
+<br>84</p>
+<p>The Shop Assistants Employment Ordinance of 1957, established statutory
+rights for this large group of workers who had been excluded from the Labour
+Ordinance of 1955. This handbook was published to help employers and employees
+navigate the new laws, including requirements such as the closure of shops
+to give workers a weekly rest day and standardising the number of hours
+in a work week.</p>
