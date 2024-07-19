@@ -39,6 +39,17 @@ sections:
   - infopic:
       title: National Day Rally Speeches Throughout the Years
       subtitle: FEATURES
+      id: infopic
+      description: Reflect on the National Day Rally speeches of Prime Minister Goh
+        Chok Tong, with audio visual recordings from the National Archives of
+        Singapore’s collection.
+      button: NATIONAL DAY RALLY SPEECHES SEASON 2
+      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-National-Day-Rally-Speeches-Throughout-The-Years-S2-471598
+      image: /images/features/Stories_of_Yesteryear_National_Day_Rally_Speeches.png
+      alt: Image alt text
+  - infopic:
+      title: National Day Rally Speeches Throughout the Years
+      subtitle: FEATURES
       description: Reflect on the National Day Rally speeches of Prime Minister Lee
         Kuan Yew, with audio visual recordings from the National Archives of
         Singapore’s collection.
