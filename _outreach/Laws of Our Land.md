@@ -28,7 +28,7 @@ background and circumstances that led to the passing of these laws.</p>
 <p>The <strong>Citizenship Ordinance</strong> (1957) created the legal status
 of Singapore citizen and paved the way for Singapore to become a self-governing
 state and later an independent nation-state.</p>
-<p>The <strong>Woman’s Charter</strong> (1961) introduced a unitary monogamous
+<p>The <strong>Women’s Charter</strong> (1961) introduced a unitary monogamous
 law to govern non-Muslim marriage and protection of the rights of women
 and has been the legislation at the core of Singapore family law.</p>
 <p>The <strong>Employment Act</strong> (1968) modernised Singapore’s labour
@@ -46,13 +46,12 @@ and workers.</p>
 <p>Yes there is one which can be found at this link: (<a href="https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2024/Landmark-Laws-that-Shaped-Our-Nation" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p><strong>Q2. What are the exhibition’s opening hours? Are you closed during public holidays?</strong>
 </p>
-<p>The National Gallery and the Laws of Our Land exhibition remain open during
-all public holidays, from 10.00am to 7.00pm daily. Admission and ticket
-sales end 30 minutes before closing time.</p>
+<p>The National Gallery and the <em>Laws of Our Land</em> exhibition remain
+open during all public holidays, from 10am to 7pm daily. Admission and
+ticket sales end 30 minutes before closing time.</p>
 <p><strong>Q3. Do I need to purchase a Gallery Pass to enter the exhibition?</strong>
 </p>
-<p>Admission to the exhibition requires a General Admission pass to National
-Gallery Singapore, which is free for Singaporeans and Permanent Residents.
+<p>The exhibition is free admission for all. No admission tickets are needed.
 National Gallery Singapore is open daily from 10am to 7pm. Please visit
 <a href="https://www.nationalgallery.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.nationalgallery.sg/admissions</a>for more information.</p>
 <p><strong>Q4. Are there guided tours of the exhibition?</strong>
@@ -79,16 +78,15 @@ catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nof
 Office at National Gallery Singapore’s Supreme Court Wing, on Level 3 adjoining
 the lower link bridge.</p>
 <p>National Gallery Singapore is located at 1 St Andrew's Road, Singapore
-178957</p>
+178957.</p>
 <p><strong>OPENING HOURS</strong>
 </p>
-<p>Daily | 10.00am - 7.00pm</p>
-<p>Admission and ticket sales end 30 minutes before closing time. Check (
-<a href="https://www.nationalgallery.sg/visit" rel="noopener noreferrer nofollow" target="_blank">Here</a>) for any revision to Opening Hours.</p>
+<p>Daily | 10am - 7pm</p>
+<p>Check ( <a href="https://www.nationalgallery.sg/visit" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
+for any revision to Opening Hours.</p>
 <p><strong>ADMISSION</strong>
 </p>
-<p>Access is through the General Admission pass, which is free for Singaporeans
-and Permanent Residents</p>
+<p>The exhibition is free admission for all.</p>
 <p><strong>HOW TO GET THERE</strong>
 </p>
 <p>The Gallery has two main entrances: the Coleman Street entrance and the
@@ -99,7 +97,7 @@ Padang Atrium entrance, facing the Padang.</p>
 </div>
 <p><strong><u>By Bus</u></strong>
 </p>
-<p>There are various buses that you can take to the Gallery</p>
+<p>There are various buses that you can take to the Gallery :</p>
 <p><u>Coleman Street entrance</u>
 </p>
 <p>130 stops at the Gallery’s Coleman Street entrance.</p>
@@ -142,8 +140,6 @@ is accessible by turning right at the end of Supreme Court Lane.</p>
 <p>The main drop-off point for cars and taxis is located at Coleman Street
 Entrance. The nearest alternative drop off is located at The Adelphi.</p>
 <h3>CONTACT US</h3>
-<p>For general information on the exhibition, please refer to our Frequently
-Asked Questions</p>
 <p>If you have any enquiries about the National Archives of Singapore or
 other questions or feedback on the exhibition, please write to us at:
 <a href="mailto:nas@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nas@nlb.gov.sg</a>
