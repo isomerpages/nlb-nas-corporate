@@ -199,7 +199,7 @@ in the country’s political history.</p>
 <h4>The Women’s Charter (1961)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/005.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Women_s_Charter.jpg">
 </div>
 <p><strong>The Women’s Charter, 1961<br>from <em>State of Singapore Ordinances, Nos. 1–33</em></strong>
 <br>Singapore: Government Printer, 1961
@@ -208,9 +208,9 @@ in the country’s political history.</p>
 Negara on 30 May 1961.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/006.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Power_of_Attorney.jpg">
 </div>
-<p><strong>Power of attorney, 1906.</strong> 
+<p><strong>Power of Attorney, 1906</strong>
 <br>Koh Seow Chuan Collection, National Library, Singapore
 <br>B26057119I</p>
 <p>Under British law during the colonial period, married women lost rights
@@ -223,7 +223,7 @@ over the rights to administer their property to their male relatives in
 this patriarchal society.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/007.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Mui_Tsai_ID_option_1.jpg">
 </div>
 <p><strong>Identification Card of a <em>Mui Tsai</em>, 1930s</strong> 
 <br>Lee Siew Hong Collection, National Archives of Singapore
@@ -235,7 +235,7 @@ the terms and conditions for their employers, providing the girls with
 basic protection.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/008.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Civil_Marriage_Register.jpg">
 </div>
 <p><strong>Civil Marriage Register Book, 1960</strong>
 <br>Registry of Marriages Collection, National Archives of Singapore
@@ -263,7 +263,7 @@ framework that balances the interests of employers and employees, fostering
 industrial harmony, and supporting Singapore’s economy.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/010.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Indian_Migrants_Protection_Ordinance__1876_.png">
 </div>
 <p><strong>The Indian Immigrants’ Protection Ordinance, 5 February 1876, <br>from <em>Straits Settlements Government Gazette</em> (January–December, 1876)</strong> 
 <br>National Library, Singapore
