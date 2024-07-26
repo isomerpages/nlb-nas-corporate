@@ -290,7 +290,7 @@ to housing, water, sanitation and medical treatment for estate workers,
 who worked in remote areas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/012.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/Singapore_Traction_Company_Employees_Union_Suara.png">
 </div>
 <p><strong><em>Singapore Traction Company Employees Union Suara</em></strong> &nbsp;
 <br>National Library, Singapore&nbsp;
