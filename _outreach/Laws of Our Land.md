@@ -303,7 +303,7 @@ This was the culmination of union demands since the late 1930s.</p>
 content in English, Malay, Chinese and Tamil.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/013.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Shopkeepers_Ordinance.png">
 </div>
 <p><strong>Pamphlet on the Shop Assistants Employment Ordinance</strong>
 <br>Singapore: Department of Information Services, 1957
