@@ -275,9 +275,10 @@ of Immigrants. It stipulated forms of labour contracts and regulated who
 could leave India for work</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/011.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Labour_Ordinance__1920_.png">
 </div>
-<p><strong>Labour Ordinance, 15 October 1920, from Straits Settlements Government Gazette (October–December, 1920)</strong> 
+<p><strong>Labour Ordinance, 15 October 1920,</strong>
+<br><strong>from Straits Settlements Government Gazette (October–December, 1920)</strong> 
 <br>National Library, Singapore
 <br>B02969298A</p>
 <p>The Labour Ordinance of 1920 was a significant consolidation of previous
