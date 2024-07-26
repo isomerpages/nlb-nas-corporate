@@ -182,19 +182,20 @@ the Legislative Assembly general election on 30 May 1959.</p>
 <br>Singapore: Legislative Assembly, 1956
 <br>Collection of National Library, Singapore
 <br>B02853737B</p>
-<p>The White Paper on Education Policy (1956)
-<br>recommended equality of Singapore’s 4 main language streams in education,
-and played a key role in establishing multiculturalism in Singapore.</p>
+<p>The White Paper on Education Policy (1956) recommended equality of Singapore’s
+4 main language streams in education, and played a key role in establishing
+multiculturalism in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/CO__1959_Election_Poster___PO4928_2007.jpg">
 </div>
 <p><strong>Poster showing elected assemblymen in 1959 General Election</strong>
 <br>Singapore: Government Printing Office, 1959
 <br>Ministry of Culture Collection, National Archives of Singapore
 <br>PO4928/2007</p>
-<p>We display posters from the 1959 election, including a rare poster showing
-the 51 members of the first fully elected assembly</p>
+<p>This rare poster from Singapore’s 1959 General Election features the 51
+members of the first fully elected assembly, marking a significant milestone
+in the country’s political history.</p>
 <h4>The Women’s Charter (1961)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
