@@ -247,7 +247,7 @@ non-Christians to register a monogamous marriage with the Registry of Marriages.
 <h4>The Employment Act (1968)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/009.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Employment_Act.jpg">
 </div>
 <p><strong>Employment Act<br>from <em>Republic of Singapore Acts, Nos. 1–47 of 1986</em></strong>
 <br>Singapore: Government Printer, 1968
