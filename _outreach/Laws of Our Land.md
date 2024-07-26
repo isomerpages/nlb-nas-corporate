@@ -93,7 +93,7 @@ for any revision to Opening Hours.</p>
 Padang Atrium entrance, facing the Padang.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
 </div>
 <p><strong><u>By Bus</u></strong>
 </p>
@@ -290,7 +290,7 @@ to housing, water, sanitation and medical treatment for estate workers,
 who worked in remote areas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/012.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/012.png">
 </div>
 <p><strong><em>Singapore Traction Company Employees Union Suara</em></strong> &nbsp;
 <br>National Library, Singapore&nbsp;
@@ -303,7 +303,7 @@ This was the culmination of union demands since the late 1930s.</p>
 content in English, Malay, Chinese and Tamil.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/013.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/013.png">
 </div>
 <p><strong>Pamphlet on the Shop Assistants Employment Ordinance</strong>
 <br>Singapore: Department of Information Services, 1957
