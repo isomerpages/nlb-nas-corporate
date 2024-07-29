@@ -4,7 +4,7 @@ permalink: /laws-of-our-land/
 variant: tiptap
 description: ""
 ---
-<h2>Laws of Our Land: Foundations of a New Nation</h2>
+<h2>Laws of Our Land:<br>Foundations of a New Nation</h2>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/Branding_Art__LoOL_1680x765.png">
