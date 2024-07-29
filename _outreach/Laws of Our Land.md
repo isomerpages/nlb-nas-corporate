@@ -7,7 +7,7 @@ description: ""
 <h2>Laws of Our Land: Foundations of a New Nation</h2>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/A__Ad_Draft_v4_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/Branding_Art__LoOL_1680x765.png">
 </div>
 <h3>ABOUT THE EXHIBITION</h3>
 <p>About seven decades ago, the identity and legal status of Singapore citizens
@@ -28,7 +28,7 @@ background and circumstances that led to the passing of these laws.</p>
 <p>The <strong>Citizenship Ordinance</strong> (1957) created the legal status
 of Singapore citizen and paved the way for Singapore to become a self-governing
 state and later an independent nation-state.</p>
-<p>The <strong>Woman’s Charter</strong> (1961) introduced a unitary monogamous
+<p>The <strong>Women’s Charter</strong> (1961) introduced a unitary monogamous
 law to govern non-Muslim marriage and protection of the rights of women
 and has been the legislation at the core of Singapore family law.</p>
 <p>The <strong>Employment Act</strong> (1968) modernised Singapore’s labour
@@ -46,13 +46,12 @@ and workers.</p>
 <p>Yes there is one which can be found at this link: (<a href="https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2024/Landmark-Laws-that-Shaped-Our-Nation" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p><strong>Q2. What are the exhibition’s opening hours? Are you closed during public holidays?</strong>
 </p>
-<p>The National Gallery and the Laws of Our Land exhibition remain open during
-all public holidays, from 10.00am to 7.00pm daily. Admission and ticket
-sales end 30 minutes before closing time.</p>
+<p>The National Gallery and the <em>Laws of Our Land</em> exhibition remain
+open during all public holidays, from 10am to 7pm daily. Admission and
+ticket sales end 30 minutes before closing time.</p>
 <p><strong>Q3. Do I need to purchase a Gallery Pass to enter the exhibition?</strong>
 </p>
-<p>Admission to the exhibition requires a General Admission pass to National
-Gallery Singapore, which is free for Singaporeans and Permanent Residents.
+<p>The exhibition is free admission for all. No admission tickets are needed.
 National Gallery Singapore is open daily from 10am to 7pm. Please visit
 <a href="https://www.nationalgallery.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.nationalgallery.sg/admissions</a>for more information.</p>
 <p><strong>Q4. Are there guided tours of the exhibition?</strong>
@@ -79,27 +78,26 @@ catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nof
 Office at National Gallery Singapore’s Supreme Court Wing, on Level 3 adjoining
 the lower link bridge.</p>
 <p>National Gallery Singapore is located at 1 St Andrew's Road, Singapore
-178957</p>
+178957.</p>
 <p><strong>OPENING HOURS</strong>
 </p>
-<p>Daily | 10.00am - 7.00pm</p>
-<p>Admission and ticket sales end 30 minutes before closing time. Check (
-<a href="https://www.nationalgallery.sg/visit" rel="noopener noreferrer nofollow" target="_blank">Here</a>) for any revision to Opening Hours.</p>
+<p>Daily | 10am - 7pm</p>
+<p>Check ( <a href="https://www.nationalgallery.sg/visit" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
+for any revision to Opening Hours.</p>
 <p><strong>ADMISSION</strong>
 </p>
-<p>Access is through the General Admission pass, which is free for Singaporeans
-and Permanent Residents</p>
+<p>The exhibition is free admission for all.</p>
 <p><strong>HOW TO GET THERE</strong>
 </p>
 <p>The Gallery has two main entrances: the Coleman Street entrance and the
 Padang Atrium entrance, facing the Padang.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/gallery_bus_map.jpg">
 </div>
 <p><strong><u>By Bus</u></strong>
 </p>
-<p>There are various buses that you can take to the Gallery</p>
+<p>There are various buses that you can take to the Gallery :</p>
 <p><u>Coleman Street entrance</u>
 </p>
 <p>130 stops at the Gallery’s Coleman Street entrance.</p>
@@ -142,8 +140,6 @@ is accessible by turning right at the end of Supreme Court Lane.</p>
 <p>The main drop-off point for cars and taxis is located at Coleman Street
 Entrance. The nearest alternative drop off is located at The Adelphi.</p>
 <h3>CONTACT US</h3>
-<p>For general information on the exhibition, please refer to our Frequently
-Asked Questions</p>
 <p>If you have any enquiries about the National Archives of Singapore or
 other questions or feedback on the exhibition, please write to us at:
 <a href="mailto:nas@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nas@nlb.gov.sg</a>
@@ -154,7 +150,7 @@ other questions or feedback on the exhibition, please write to us at:
 <h4>The Citizenship Ordinance (1957)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/001.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/CO__Citizenship_Ordinance.jpg">
 </div>
 <p><strong>Singapore Citizenship Ordinance<br>from <em>Colony of Singapore Ordinances, Nos. 1–47 of 1957</em></strong>
 <br>Singapore, Government Printing Office, 1957
@@ -164,28 +160,10 @@ the exhibition. It is signed off by British Governor Robert Brown Black
 and stamped with the seal of the Colony of Singapore’s Coat-of-Arms. The
 Ordinance created the legal status of Singapore citizens and marked the
 first time the people pledged allegiance to Singapore.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/CO__State_of_Singapore_Constitution_1958__p_1_.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/002_2.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
 <p><strong>Singapore (Constitution) Order In Council<br>from <em>Gazette Supplement No. 81 of 1958</em></strong>
 <br>Singapore: Government Printing Office, 1958
 <br>Collection of National Library, Singapore
@@ -196,35 +174,32 @@ ended Singapore’s status as a colony and redefined it as a British-protected
 self-governing state, and provided for a fully elected Legislative Assembly
 empowered to form a government. The constitution came into effect after
 the Legislative Assembly general election on 30 May 1959.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/003.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/Thumbnail__Option1___White_Paper_on_Education_Policy.jpg">
 </div>
 <p><strong><em>White Paper on Education Policy</em></strong>
 <br>Singapore: Legislative Assembly, 1956
 <br>Collection of National Library, Singapore
 <br>B02853737B</p>
-<p>The White Paper on Education Policy (1956)
-<br>recommended equality of Singapore’s 4 main language streams in education,
-and played a key role in establishing multiculturalism in Singapore.</p>
+<p>The White Paper on Education Policy (1956) recommended equality of Singapore’s
+4 main language streams in education, and played a key role in establishing
+multiculturalism in Singapore.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/004.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/CO__1959_Election_Poster___PO4928_2007.jpg">
 </div>
 <p><strong>Poster showing elected assemblymen in 1959 General Election</strong>
 <br>Singapore: Government Printing Office, 1959
 <br>Ministry of Culture Collection, National Archives of Singapore
 <br>PO4928/2007</p>
-<p>We display posters from the 1959 election, including a rare poster showing
-the 51 members of the first fully elected assembly</p>
+<p>This rare poster from Singapore’s 1959 General Election features the 51
+members of the first fully elected assembly, marking a significant milestone
+in the country’s political history.</p>
 <h4>The Women’s Charter (1961)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/005.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Women_s_Charter.jpg">
 </div>
 <p><strong>The Women’s Charter, 1961<br>from <em>State of Singapore Ordinances, Nos. 1–33</em></strong>
 <br>Singapore: Government Printer, 1961
@@ -233,9 +208,9 @@ the 51 members of the first fully elected assembly</p>
 Negara on 30 May 1961.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/006.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Power_of_Attorney.jpg">
 </div>
-<p><strong>Power of attorney, 1906.</strong> 
+<p><strong>Power of Attorney, 1906</strong>
 <br>Koh Seow Chuan Collection, National Library, Singapore
 <br>B26057119I</p>
 <p>Under British law during the colonial period, married women lost rights
@@ -248,7 +223,7 @@ over the rights to administer their property to their male relatives in
 this patriarchal society.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/007.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Mui_Tsai_ID_option_1.jpg">
 </div>
 <p><strong>Identification Card of a <em>Mui Tsai</em>, 1930s</strong> 
 <br>Lee Siew Hong Collection, National Archives of Singapore
@@ -260,7 +235,7 @@ the terms and conditions for their employers, providing the girls with
 basic protection.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/008.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/WC__Civil_Marriage_Register.jpg">
 </div>
 <p><strong>Civil Marriage Register Book, 1960</strong>
 <br>Registry of Marriages Collection, National Archives of Singapore
@@ -272,7 +247,7 @@ non-Christians to register a monogamous marriage with the Registry of Marriages.
 <h4>The Employment Act (1968)</h4>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/009.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Employment_Act.jpg">
 </div>
 <p><strong>Employment Act<br>from <em>Republic of Singapore Acts, Nos. 1–47 of 1986</em></strong>
 <br>Singapore: Government Printer, 1968
@@ -288,7 +263,7 @@ framework that balances the interests of employers and employees, fostering
 industrial harmony, and supporting Singapore’s economy.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/010.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Indian_Migrants_Protection_Ordinance__1876_.png">
 </div>
 <p><strong>The Indian Immigrants’ Protection Ordinance, 5 February 1876, <br>from <em>Straits Settlements Government Gazette</em> (January–December, 1876)</strong> 
 <br>National Library, Singapore
@@ -300,9 +275,10 @@ of Immigrants. It stipulated forms of labour contracts and regulated who
 could leave India for work</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/011.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Labour_Ordinance__1920_.png">
 </div>
-<p><strong>Labour Ordinance, 15 October 1920, from Straits Settlements Government Gazette (October–December, 1920)</strong> 
+<p><strong>Labour Ordinance, 15 October 1920,</strong>
+<br><strong>from Straits Settlements Government Gazette (October–December, 1920)</strong> 
 <br>National Library, Singapore
 <br>B02969298A</p>
 <p>The Labour Ordinance of 1920 was a significant consolidation of previous
@@ -314,7 +290,7 @@ to housing, water, sanitation and medical treatment for estate workers,
 who worked in remote areas.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/012.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/Singapore_Traction_Company_Employees_Union_Suara.png">
 </div>
 <p><strong><em>Singapore Traction Company Employees Union Suara</em></strong> &nbsp;
 <br>National Library, Singapore&nbsp;
@@ -327,7 +303,7 @@ This was the culmination of union demands since the late 1930s.</p>
 content in English, Malay, Chinese and Tamil.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/013.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exhibitions/Laws of Our Land/EA__Shopkeepers_Ordinance.png">
 </div>
 <p><strong>Pamphlet on the Shop Assistants Employment Ordinance</strong>
 <br>Singapore: Department of Information Services, 1957
