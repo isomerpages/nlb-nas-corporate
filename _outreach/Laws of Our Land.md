@@ -66,9 +66,9 @@ be found at its Archives Online web portal: (<a href="https://www.nas.gov.sg/arc
 catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <h3>TIMELINE</h3>
 <p>Download the PDF detailing more about the exhibits here:
-<br>1. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Women_.pdf" rel="noopener noreferrer nofollow" target="_blank">Women's Charter </a>
-<br>2. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Labour_.pdf" rel="noopener noreferrer nofollow" target="_blank">Employment Act </a>
-<br>3. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Citizenship_.pdf" rel="noopener noreferrer nofollow" target="_blank">Citizenship Ordinance</a>
+<br>1. <a href="/files/Exhibitions/LawsofOurLand/Women.pdf" rel="noopener noreferrer nofollow" target="_blank">Women's Charter </a>
+<br>2. <a href="/files/Exhibitions/LawsofOurLand/Labour.pdf" rel="noopener noreferrer nofollow" target="_blank">Employment Act </a>
+<br>3. <a href="/files/Exhibitions/LawsofOurLand/Citizenship.pdf" rel="noopener noreferrer nofollow" target="_blank">Citizenship Ordinance</a>
 </p>
 <h3>VISITOR INFORMATION</h3>
 <p><strong>VISIT US</strong>
