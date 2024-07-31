@@ -47,8 +47,7 @@ and workers.</p>
 <p><strong>Q2. What are the exhibition’s opening hours? Are you closed during public holidays?</strong>
 </p>
 <p>The National Gallery and the <em>Laws of Our Land</em> exhibition remain
-open during all public holidays, from 10am to 7pm daily. Admission and
-ticket sales end 30 minutes before closing time.</p>
+open during all public holidays, from 10am to 7pm daily.</p>
 <p><strong>Q3. Do I need to purchase a Gallery Pass to enter the exhibition?</strong>
 </p>
 <p>The exhibition is free admission for all. No admission tickets are needed.
@@ -56,7 +55,7 @@ National Gallery Singapore is open daily from 10am to 7pm. Please visit
 <a href="https://www.nationalgallery.sg/admissions" rel="noopener noreferrer nofollow" target="_blank">https://www.nationalgallery.sg/admissions</a>for more information.</p>
 <p><strong>Q4. Are there guided tours of the exhibition?</strong>
 </p>
-<p>Visitors can participate in guided tours of the exhibition.Information
+<p>Visitors can participate in guided tours of the exhibition. Information
 on these tours can be found on NLB’s Eventbrite website (<a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
 and on National Gallery’s corporate website under Tours: (<a href="https://web.nationalgallery.sg/?utm_source=google_prosp&amp;utm_medium=ppc&amp;utm_campaign=alwayson&amp;utm_content=_rsa/&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uby0I6xw8vRuCc7qxgkq1vNfHVgme_uwMrf3wY02vwiLsvQtL714UaAsNQEALw_wcB&amp;gclsrc=aw.ds#/search?q=&amp;tab=Tours" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p><strong>Q5. Where do I find more information on the National Archives of Singapore and National Library collections?</strong>
@@ -67,9 +66,9 @@ be found at its Archives Online web portal: (<a href="https://www.nas.gov.sg/arc
 catalogue: (<a href="https://catalogue.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <h3>TIMELINE</h3>
 <p>Download the PDF detailing more about the exhibits here:
-<br>1. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Women_.pdf" rel="noopener noreferrer nofollow" target="_blank">Women's Charter </a>
-<br>2. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Labour_.pdf" rel="noopener noreferrer nofollow" target="_blank">Employment Act </a>
-<br>3. <a href="/files/Exhibitions/LawsofOurLand/TimelineFiltered_Citizenship_.pdf" rel="noopener noreferrer nofollow" target="_blank">Citizenship Ordinance</a>
+<br>1. <a href="/files/Exhibitions/LawsofOurLand/Women.pdf" rel="noopener noreferrer nofollow" target="_blank">Women's Charter file</a>
+<br>2. <a href="/files/Exhibitions/LawsofOurLand/Labour.pdf" rel="noopener noreferrer nofollow" target="_blank">Employmfileent Act </a>
+<br>3. <a href="/files/Exhibitions/LawsofOurLand/Citizenship.pdf" rel="noopener noreferrer nofollow" target="_blank">Citizenship file Ordinance</a>
 </p>
 <h3>VISITOR INFORMATION</h3>
 <p><strong>VISIT US</strong>
