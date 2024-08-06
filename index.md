@@ -20,7 +20,7 @@ sections:
       subtitle: FEATURES
       id: infopic
       button: ChatBook S. Rajaratnam
-      url: ChatBook featuring S. Rajaratnam (nlb.gov.sg)
+      url: https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ChatBook-featuring-S-Rajaratnam
       image: /images/features/ChatBook_Raja.png
       alt: Image alt text
   - infopic:
