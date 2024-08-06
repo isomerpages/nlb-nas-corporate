@@ -16,6 +16,14 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: ChatBook featuring S. Rajaratnam
+      subtitle: FEATURES
+      id: infopic
+      button: ChatBook S. Rajaratnam
+      url: ChatBook featuring S. Rajaratnam (nlb.gov.sg)
+      image: /images/features/ChatBook_Raja.png
+      alt: Image alt text
+  - infopic:
       title: 360 Virtual Tour of Former Ford Factory Exhibition
       subtitle: Features
       id: infopic
