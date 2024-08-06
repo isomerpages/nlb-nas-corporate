@@ -1,11 +1,9 @@
 ---
-title: 'Defending Our Sovereignty'
+title: Defending Our Sovereignty
 date: 2017-08-27T00:00:00.000Z
 permalink: /media/collections-and-research/defending-sovereignty/
-
+variant: markdown
 ---
-
-
 # Defending Our Sovereignty
 
 Fiona Tan 2 years ago 8 min. read
@@ -14,9 +12,9 @@ Fiona Tan 2 years ago 8 min. read
 
 ***This was published as part of a series of posts for the NS50 celebration to commemorate 50 years of National Service in Singapore.*** 
 
-> *“Without the defence capability that NS made possible, Singapore* *may not have survived – let alone prospered…More than anything* *else, it is the spirit and commitment of our NS men that makes the* *SAF a potent and credible fighting force.”*
->
-> Extract of speech by Prime Minister Lee Hsien Loong at the ‘40 Years of National Service Commemoration Dinner’ at Pasir Laba, camp. *Ministry of Information, Communications* *and the Arts, courtesy of NAS. Ref.: 20070927975**[1]***
+&gt; *“Without the defence capability that NS made possible, Singapore* *may not have survived – let alone prospered…More than anything* *else, it is the spirit and commitment of our NS men that makes the* *SAF a potent and credible fighting force.”*
+&gt;
+&gt; Extract of speech by Prime Minister Lee Hsien Loong at the ‘40 Years of National Service Commemoration Dinner’ at Pasir Laba, camp. *Ministry of Information, Communications* *and the Arts, courtesy of NAS. Ref.: 20070927975**[1]***
 
 Singapore’s security after independence remained uncertain and vulnerable, without its own police and military forces. Barely a year ago, in July 1964, the island experienced the worst race riots that lasted 13 days. Bombs planted by foreign militant groups as part of a long drawn battle against Singapore’s merger with Malaysia exploded in several public places in early 1965 – the most severe incident took place in the carpark of MacDonald House, which killed three and injured 33 people.
 
@@ -42,11 +40,11 @@ Full-time National Service (NS) was introduced in March 1967 to conscript male c
 
 Dr Goh’s defence strategy was to establish a small force of regulars to command conscripted NSmen. NSmen would be assigned to the reservist forces after their completion of service.[[3\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn3)
 
-> “*There is another aspect to our defence effort. This is a contribution it* *can make to nation-building… Nothing creates loyalty and national consciousness more speedily and more thoroughly than participation in defence and membership of the armed forces.*”[[4\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn4)
->
-> Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
->
-> *Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.*
+&gt; “*There is another aspect to our defence effort. This is a contribution it* *can make to nation-building… Nothing creates loyalty and national consciousness more speedily and more thoroughly than participation in defence and membership of the armed forces.*”[[4\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn4)
+&gt;
+&gt; Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
+&gt;
+&gt; *Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.*
 
  
 
@@ -118,35 +116,35 @@ Armoured Infantry Training with Singapore Armed Forces’ AMX-13 Tanks. *Ministr
 
  
 
-> *“This small group of men… must be men of great quality. By that, I don’t mean just qualities of the mind because for this job, it is the character, the mettle in a person which determines whether the men you lead have… the confidence, the verve which is only possible, given dedicated and inspired leadership.*”
->
-> Speech by Mr Lee Kuan Yew to Singapore’s first batch of officer trainees, describing the spirit and aspirations expected of SAFTI officers, 1966.
+&gt; *“This small group of men… must be men of great quality. By that, I don’t mean just qualities of the mind because for this job, it is the character, the mettle in a person which determines whether the men you lead have… the confidence, the verve which is only possible, given dedicated and inspired leadership.*”
+&gt;
+&gt; Speech by Mr Lee Kuan Yew to Singapore’s first batch of officer trainees, describing the spirit and aspirations expected of SAFTI officers, 1966.
 
 Efforts in defence and foreign relations finally came together as “defence diplomacy”, laying the ground for the first ever Five Power Defence Arrangements (FPDA) signed in 1971 between Singapore, Australia, Britain, Malaysia and New Zealand. The FPDA allowed member countries to conduct a wide variety of shared military activities, such as the Integrated Air Defence System (IADS) and annual joint military exercises.
 
-To meet the changing security needs, Singapore continues to develop and refine its defence and foreign policies beyond the founding years, but the principles set by Dr Goh and Mr S Rajaratnam still form the foundation of today’s strategy. Total Defence – which involves not just Military Defence, but also Civil Defence, Economic Defence, Social Defence and Psychological Defence – provides the framework for a comprehensive, well-integrated response to deal with all potential threats against Singapore.[[9\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn9)
+To meet the changing security needs, Singapore continues to develop and refine its defence and foreign policies beyond the founding years, but the principles set by Dr Goh and Mr S Rajaratnam still form the foundation of today’s strategy. Total Defence – which involves not just Military Defence, but also Civil Defence, Economic Defence, Social Defence and Psychological Defence – provides the framework for a comprehensive, well-integrated response to deal with all potential threats against Singapore.[[9](http://www.totaldefence.sg/imindef/mindef_websites/topics/totaldefence/about_td.html))
 
 In today’s geopolitical arena, Singapore continues to uphold this legacy of defence, striving to enhance our peace and security through deterrence and diplomacy.
 
 ![img](/images/blogs/img_599d90521e950.png)
 
-FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore on 4 – 5 June 2006. The ministers reaffirmed the important role of the FPDA in regional security, as more joint and complex exercises were being conducted. The meeting highlighted FPDA’s increased focus in countering terrorism and non-conventional threats in the region.[[10\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftn10) *Pioneer Magazine, MINDEF Public Affairs, courtesy of NAS.*
+FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore on 4 – 5 June 2006. The ministers reaffirmed the important role of the FPDA in regional security, as more joint and complex exercises were being conducted. The meeting highlighted FPDA’s increased focus in countering terrorism and non-conventional threats in the region. [[10]](http://www.mindef.gov.sg/imindef/news_and_events/nr/2006/jun/05jun06_nr.html) *Pioneer Magazine, MINDEF Public Affairs, courtesy of NAS.*
 
  
 
-> *“Where a small state is strategically situated, as Singapore is, it is important that it should maintain adequate defence forces. It goes without saying that the real security, which we want, can be found not by our unaided efforts alone, but in alliance with others. In the long term, Singapore should work towards the establishment of some kind of regional defence arrangement, possibly within a larger international framework.” **[11]***
->
-> Extract of a Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
->
-> *Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.*
->
->  
+&gt; *“Where a small state is strategically situated, as Singapore is, it is important that it should maintain adequate defence forces. It goes without saying that the real security, which we want, can be found not by our unaided efforts alone, but in alliance with others. In the long term, Singapore should work towards the establishment of some kind of regional defence arrangement, possibly within a larger international framework.” **[11]***
+&gt;
+&gt; Extract of a Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
+&gt;
+&gt; *Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.*
+&gt;
+&gt;  
 
 ------
 
 [[1\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref1) Extract of speech by Prime Minister Lee Hsien Loong at the ’40 Years of National Service Commemoration Dinner’ at Pasir Laba Camp, 27 Sep 2007. *Ministry of Information, Communications* *and the Arts, courtesy of NAS. Ref.: 20070927975.*
 
-<http://www.nas.gov.sg/archivesonline/speeches/record-details/7f5a7043-115d-11e3-83d5-0050568939ad>
+
 
 [[2\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref2) *Shoulder to Shoulder: Our National Service Journal*.
 
@@ -156,7 +154,7 @@ FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore
 
 *Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.* 
 
-<http://www.nas.gov.sg/archivesonline/speeches/record-details/79b11d3f-115d-11e3-83d5-0050568939ad>
+
 
 [[5\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref5) *Shoulder to Shoulder: Our National Service Journal*.
 
@@ -166,14 +164,12 @@ FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore
 
 [[8\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref8) *Navy: The Vital Force*, p. 32.
 
-[[9\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref9) *Ministry of Defence Singapore Website*, <http://www.totaldefence.sg/imindef/mindef_websites/topics/totaldefence/about_td.html>
+[[9]](http://www.totaldefence.sg/imindef/mindef_websites/topics/totaldefence/about_td.html) *Ministry of Defence Singapore Website*, 
 
-[[10\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref10) *Ministry of Defence Singapore Website*,
+[[10]](http://www.totaldefence.sg/imindef/mindef_websites/topics/totaldefence/about_td.html) *Ministry of Defence Singapore Website*,
 
-<http://www.mindef.gov.sg/imindef/news_and_events/nr/2006/jun/05jun06_nr.html>
+
 
 [[11\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref11) Parliamentary Speech by Dr Goh Keng Swee on the National Service (Amendment) Act, 1967.
 
-*Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.* 
-
-<http://www.nas.gov.sg/archivesonline/speeches/record-details/79b11d3f-115d-11e3-83d5-0050568939ad>
+*Ministry of Culture, courtesy of NAS. Ref.: PressR19670313b.*
