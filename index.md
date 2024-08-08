@@ -27,15 +27,6 @@ sections:
       image: /images/features/Landmarks___Landscapes.png
       alt: Image alt text
   - infopic:
-      title: Rediscover Rediffusion
-      subtitle: FEATURES
-      id: infopic
-      description: Rediscover Rediffusion takes visitors down memory lane, to learn
-        more about Singapore’s first commercial and cable-transmitted radio
-        station.
-      image: /images/features/Rediffusion_Assets.jpg
-      alt: Image alt text
-  - infopic:
       title: ChatBook featuring S. Rajaratnam
       subtitle: FEATURES
       id: infopic
