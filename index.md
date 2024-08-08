@@ -19,7 +19,7 @@ sections:
       title: ChatBook featuring S. Rajaratnam
       subtitle: FEATURES
       id: infopic
-      button: ChatBook S. Rajaratnam
+      button: FIND OUT MORE
       url: https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ChatBook-featuring-S-Rajaratnam
       image: /images/features/Website_Banner_3334x1667.jpg
       alt: Image alt text
