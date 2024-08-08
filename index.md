@@ -19,8 +19,9 @@ sections:
       title: "Singapore in the 1980s: Landmarks & Landscapes"
       subtitle: FEATURES
       id: infopic
-      description: A 12-episode series featuring buildings and neighbourhoods across
-        Singapore.
+      description: A 12-episode series featuring iconic places in Singapore, their
+        rich histories and transformations over the years, and the people who
+        lived and worked there.
       button: FIND OUT MORE
       url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Singapore-In-The-1980s-Landmarks-and-Landscapes-480115
       image: /images/features/Landmarks___Landscapes.png
