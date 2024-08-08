@@ -16,6 +16,25 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: "Singapore in the 1980s: Landmarks & Landscapes"
+      subtitle: FEATURES
+      id: infopic
+      description: A 12-episode series featuring buildings and neighbourhoods across
+        Singapore.
+      button: FIND OUT MORE
+      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-Singapore-In-The-1980s-Landmarks-and-Landscapes-480115
+      image: /images/features/Landmarks___Landscapes.png
+      alt: Image alt text
+  - infopic:
+      title: Rediscover Rediffusion
+      subtitle: FEATURES
+      id: infopic
+      description: Rediscover Rediffusion takes visitors down memory lane, to learn
+        more about Singapore’s first commercial and cable-transmitted radio
+        station.
+      image: /images/features/Rediffusion_Assets.jpg
+      alt: Image alt text
+  - infopic:
       title: ChatBook featuring S. Rajaratnam
       subtitle: FEATURES
       id: infopic
@@ -58,25 +77,6 @@ sections:
       image: /images/socialmedia_1080x1080_new.png
       alt: Image alt text
       subtitle: Features
-  - infopic:
-      title: Lee Kuan Yew - Through Images, Audio and Videos
-      subtitle: FEATURES
-      description: To mark the 100th anniversary of founding Prime Minister Lee Kuan
-        Yew’s birth, a selection of his images and speeches is available for
-        complimentary download.
-      button: LKY – Images, Audio & Videos
-      url: https://www.nas.gov.sg/archivesonline/lky100
-      image: /images/features/lky ao av 960 x 320.jpg
-      alt: Image alt text
-  - infopic:
-      title: Sands of Time
-      subtitle: Features
-      description: Explore Singapore’s history through paper documents, oral history
-        interviews, and audiovisual recordings from NLB’s collections.
-      button: View Sands of Time
-      url: https://www.nas.gov.sg/archivesonline/sandsoftime
-      image: /images/features/960-x-320_sands of time s2 (ao main page).png
-      alt: Sands of Time
   - infopic:
       title: Changing Landscapes
       subtitle: Features
