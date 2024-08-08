@@ -31,4 +31,7 @@ materials.</p>
 <p><a href="https://my.matterport.com/show/?m=WJfnmz7WMAT" rel="noopener noreferrer nofollow" target="_blank">Visit Here</a>
 </p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/formerford/QR_code_to_FFF_360.jpg">
+</div>
 <p></p>
