@@ -27,6 +27,15 @@ sections:
       image: /images/features/Landmarks___Landscapes.png
       alt: Image alt text
   - infopic:
+      title: Rediscover Rediffusion
+      subtitle: FEATURES
+      id: infopic
+      description: A curated showcase featuring a selection of Mandarin and Chinese
+        dialect Rediffusion programmes and photos from the National Archives of
+        Singapore.
+      image: /images/features/Rediffusion_Assets.jpg
+      alt: Image alt text
+  - infopic:
       title: ChatBook featuring S. Rajaratnam
       subtitle: FEATURES
       id: infopic
@@ -93,15 +102,6 @@ sections:
       image: /images/features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-  - infopic:
-      title: Rediscover Rediffusion
-      subtitle: FEATURES
-      id: infopic
-      description: A curated showcase featuring a selection of Mandarin and Chinese
-        dialect Rediffusion programmes and photos from the National Archives of
-        Singapore.
-      image: /images/features/Rediffusion_Assets.jpg
-      alt: Image alt text
 notification: ""
 description: The National Archives of Singapore (NAS) is the keeper of records
   of national or historical significance.
