@@ -6,7 +6,21 @@ variant: markdown
 ---
 ### LATEST EVENTS
 __________________________________________________________
+![](/images/calendar%20of%20events/Image_for_Calendar_Event.jpg)
 
+**Fri, 23 Aug to Sat, 7 Sep 2024**
+
+**7pm – 11pm I National Library Building and National Archives Building**
+
+Register now via [Singapore Night Festival](https://www.nightfestival.gov.sg/whats-on/replay-at-sg)
+
+### RE:PLAY AT SG
+
+Immerse yourself in Singapore’s rich history with All Things Singapore (AT SG)! As night falls, visit the National Library and National Archives of Singapore to relive and reimagine our vibrant heritage. Enjoy art installations and exciting programmes that showcase the role of the arts, entertainment and games in shaping our communities’ creative expression and social interaction. Celebrate Singapore’s stories and experience the magic of childhood, play and creativity while creating unforgettable memories.
+
+Find out more info [here](https://www.eventbrite.com/cc/all-things-singapore-2024-replay-at-sg-2329109)
+
+________________________________________________________________________________________
 ![](/images/calendar%20of%20events/eventbrite_banner.jpg)
 
 **Thu, 19 Sep 2024**
@@ -24,25 +38,3 @@ Tim Bunnell is a Professor at the Department of Geography and Director of the As
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
-
-
-
-________________________________________________________________________
-![](/images/calendar%20of%20events/Image_for_Calendar_Event.jpg)
-
-**Fri, 23 Aug to Sat, 7 Sep 2024**
-
-**7pm – 11pm I National Library Building and National Archives Building**
-
-Register now via [Singapore Night Festival](https://www.nightfestival.gov.sg/whats-on/replay-at-sg)
-
-### RE:PLAY AT SG
-
-Immerse yourself in Singapore’s rich history with All Things Singapore (AT SG)! As night falls, visit the National Library and National Archives of Singapore to relive and reimagine our vibrant heritage. Enjoy art installations and exciting programmes that showcase the role of the arts, entertainment and games in shaping our communities’ creative expression and social interaction. Celebrate Singapore’s stories and experience the magic of childhood, play and creativity while creating unforgettable memories.
-
-Find out more info [here](https://www.eventbrite.com/cc/all-things-singapore-2024-replay-at-sg-2329109)
-
-### Subscribe to eNewsletter
-Do you like this programme? Sign up for our eNewsletter to be the first to learn about our other upcoming programmes: [https://go.gov.sg/nlb-subscribe-to-enewsletter](https://go.gov.sg/nlb-subscribe-to-enewsletter).
-
-________________________________________________________________________________________
