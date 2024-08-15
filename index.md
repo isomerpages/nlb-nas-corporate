@@ -58,6 +58,17 @@ sections:
       image: /images/formerford/FFF_Building.jpg
       alt: Image alt text
   - infopic:
+      title: 360 Virtual Tour of Law of the Land Constitution Exhibition
+      subtitle: FEATURES
+      id: infopic
+      description: "Explore Law of the Land: Highlights of Singapore’s Constitutional
+        Documents, on the history of Singapore’s constitution, formerly at
+        National Gallery Singapore"
+      button: VISIT HERE
+      url: https://my.matterport.com/show/?m=PBMJZkcCaJ4
+      image: /images/features/LOTL_360_Virtual_Exhibition.jpg
+      alt: Image alt text
+  - infopic:
       title: National Day Rally Speeches Throughout the Years
       subtitle: FEATURES
       id: infopic
