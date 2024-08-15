@@ -12,7 +12,6 @@ __________________________________________________________
 
 **7pm – 11pm I National Library Building and National Archives Building**
 
-Register now via [Singapore Night Festival](https://www.nightfestival.gov.sg/whats-on/replay-at-sg)
 
 ### RE:PLAY AT SG
 
