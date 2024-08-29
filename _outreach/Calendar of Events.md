@@ -37,6 +37,7 @@ Tim Bunnell is a Professor at the Department of Geography and Director of the As
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
+
 ________________________________________________________________________________________
 ![](/images/calendar%20of%20events/LOLA_Dementia_Talk.jpg)
 
