@@ -5,7 +5,7 @@ description: LATEST EVENTS
 variant: markdown
 ---
 ### LATEST EVENTS
-__________________________________________________________
+_______________________________________________________________________________________
 ![](/images/calendar%20of%20events/Image_for_Calendar_Event.jpg)
 
 **Fri, 23 Aug to Sat, 7 Sep 2024**
@@ -37,3 +37,25 @@ Tim Bunnell is a Professor at the Department of Geography and Director of the As
 
 ### About Archives Invites
 Community histories unfold in this series that traces Singapore’s social past with help from the archives.
+________________________________________________________________________________________
+![](/images/calendar%20of%20events/LOLA_Dementia_Talk.jpg)
+
+**Sat, 21 Sep 2024**
+
+**2pm – 3pm I NAS Oldham Theatre**
+
+Register now via [Eventbrite](https://www.eventbrite.sg/e/lola2024-bringing-archives-to-the-community-reminiscence-dementia-care-tickets-1003473796137)
+
+### LOLA 2024: Bringing Archives to the Community! Reminiscence & Dementia Care
+
+### About this event
+Since 2019, the National Archives of Singapore (NAS) has partnered several agencies who care for and care about the well-being of Seniors, including persons with dementia. Through its rich archival collection and oral history expertise, NAS embarked on making its resources available to the community through several reminiscence activities and initiatives such as _Reminiscence in Dementia Care Community Project_ in 2021 and the pilot-run of a curated reminiscence programme for the Seniors at selected community care organisations from 2021 to 2022. By end this year, the NLB/NAS Reminiscence Library comprising six-themed reminiscence packages and a video guide will be made available to the community.  Look out for details! 
+
+In this public lecture, we are privileged to have our long-term partner, Dementia Singapore (DSG) Ms Eunice Tan, a Social Worker and Gerontologist who oversees the enrichment centre, Family of Wisdom. -She is joined by Ms Patricia Lee, Co-founder, Reminisce Connect and a former staff at the Oral History Centre.  At this fire-side chat, both Eunice and Patricia will share their fond memories and reflection of the above reminiscence projects and its impact on the persons with dementia and their caregivers at the Family of Wisdom.
+
+### About Speakers
+**Patricia Lee**, an oral history interviewer, is the Co-founder of Reminisce Connect. Trained and accredited as a Reminiscence Arts Facilitator with the European Reminiscence Network (ERN), Patricia conducts reminiscence sessions with Seniors, including persons living with dementia. She also provides reminiscence facilitation workshops at the university and social service agencies. 
+
+**Eunice Tan** is a Social Worker cum Gerontologist, in-charge of an enrichment Centre under Dementia Singapore, called Family of Wisdom Centre. She have been working in the eldercare sector for the past 28 years. The first 17 years, in a Social Day Centre for the Elderly; and the last 11 years, in the Family of Wisdom Centre.
+
+Besides running the enrichment Centre, at times, Eunice is also involved in consultancy projects, to nursing homes, day care centre and churches who want to run programmes for seniors with cognitive impairment. Working with the seniors is her passion. She will never exchange anything else for that.
