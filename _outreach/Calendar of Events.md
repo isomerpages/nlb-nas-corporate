@@ -60,3 +60,24 @@ In this public lecture, we are privileged to have our long-term partner, Dementi
 **Eunice Tan** is a Social Worker cum Gerontologist, in-charge of an enrichment Centre under Dementia Singapore, called Family of Wisdom Centre. She have been working in the eldercare sector for the past 28 years. The first 17 years, in a Social Day Centre for the Elderly; and the last 11 years, in the Family of Wisdom Centre.
 
 Besides running the enrichment Centre, at times, Eunice is also involved in consultancy projects, to nursing homes, day care centre and churches who want to run programmes for seniors with cognitive impairment. Working with the seniors is her passion. She will never exchange anything else for that.
+
+________________________________________________________________________________________
+![](/images/calendar%20of%20events/AU_Talk___15_Oct_Banner.jpg)
+
+**Tues, 15 Oct 2024**
+
+**7pm – 8pm I Zoom**
+
+Register now via [[Eventbrite]](https://www.eventbrite.sg/e/archives-unlocked-the-peoples-cinema-tickets-1004296095657?aff=oddtdtcreator)
+
+### Archives Unlocked: The People's Cinema
+
+****The People's Cinema: A Hidden Side of Singapore's Film History****
+
+Join Audiovisual Archivist Ray Tan as she introduces the significance of home movies in Singapore’s film history. Explore these intriguing records in the National Archives of Singapore’s collection, learn about the challenges of acquiring and preserving these films, and discover how the amateur films of the past remain remarkably relatable to us today.
+
+### About the Speaker
+Ray Tan (Tan Shu Jun) is an Audiovisual Archivist at the National Archives of Singapore (NAS). Whether you're keen on exploring the sounds of Singapore with SoundscapeSG, seeking advice on reproducing clips from the archival collection, preserving a film or tape with NAS or simply curious about NAS’s curated resources, Ray is your friendly guide to all things audiovisual.
+
+### About Archives Unlocked
+Curious about what goes on in the National Archives of Singapore? Join us for this series of talks, as we unlock stories of our nation through the Archives’ collections.
