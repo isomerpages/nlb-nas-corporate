@@ -23,7 +23,7 @@ Time: 11.30am - 12.30pm
 
 Saturday, 5 October 2024
 
-Saturday, 19 October 2024
+Saturday, 26 October 2024
 
 Saturday, 2 November 2024
 
