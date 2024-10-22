@@ -32,7 +32,7 @@ sections:
       id: infopic
       button: FIND OUT MORE
       url: https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ChatBook-featuring-S-Rajaratnam
-      image: /images/features/Website_Banner_3334x1667.jpg
+      image: /images/features/21_Nov_Web_banner_Raja_Chatbook.png
       alt: Image alt text
       description: Dive deep into the life and legacy of one of Singapore's most
         respected founding fathers at our new interactive showcase, “ChatBook
