@@ -23,7 +23,7 @@ Time: 11.30am - 12.30pm
 
 Saturday, 2 November 2024
 
-Saturday, 16 November 2024
+Saturday, 23 November 2024
 
 Saturday, 7 December 2024
 
