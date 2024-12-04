@@ -6,8 +6,8 @@ sections:
   - hero:
       background: /images/nas-banner-1920.jpg
       key_highlights:
-        - title: Citizen Archivist
-          url: http://www.nas.gov.sg/citizenarchivist
+        - title: Singapore Memories
+          url: https://www.singaporememories.gov.sg/https://www.singaporememories.gov.sg/
         - title: Archives Online
           url: http://www.nas.gov.sg/archivesonline/
         - title: Singapore Policy History Project
