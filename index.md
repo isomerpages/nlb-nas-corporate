@@ -27,17 +27,6 @@ sections:
       image: /images/features/Landmarks___Landscapes.png
       alt: Image alt text
   - infopic:
-      title: ChatBook featuring S. Rajaratnam
-      subtitle: FEATURES
-      id: infopic
-      button: FIND OUT MORE
-      url: https://www.nlb.gov.sg/main/whats-on/Data/Events-Card/ChatBook-featuring-S-Rajaratnam
-      image: /images/features/21_Nov_Web_banner_Raja_Chatbook.png
-      alt: Image alt text
-      description: Dive deep into the life and legacy of one of Singapore's most
-        respected founding fathers at our new interactive showcase, “ChatBook
-        featuring S. Rajaratnam”.
-  - infopic:
       title: 360 Virtual Tour of Former Ford Factory Exhibition
       subtitle: Features
       id: infopic
