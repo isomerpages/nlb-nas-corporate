@@ -21,13 +21,14 @@ there will be no tours.
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 2 November 2024
-
-Saturday, 23 November 2024
 
 Saturday, 7 December 2024
 
 Saturday, 21 December 2024
+
+Saturday, 4 January 2024
+
+Saturday, 18 January 2024
 
 Tour schedules are subject to changes.
 
