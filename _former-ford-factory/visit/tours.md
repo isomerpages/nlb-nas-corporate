@@ -22,13 +22,13 @@ there will be no tours.
 Time: 11.30am - 12.30pm
 
 
-Saturday, 7 December 2024
+Saturday, 4 January 2025
 
-Saturday, 21 December 2024
+Saturday, 18 January 2025
 
-Saturday, 4 January 2024
+Saturday, 1 February 2025
 
-Saturday, 18 January 2024
+Saturday, 15 February 2025
 
 Tour schedules are subject to changes.
 
