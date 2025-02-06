@@ -56,7 +56,7 @@ National Gallery Singapore is open daily from 10am to 7pm. Please visit
 <p><strong>Q4. Are there guided tours of the exhibition?</strong>
 </p>
 <p>Visitors can participate in guided tours of the exhibition. Information
-on these tours can be found on NLB’s Eventbrite website (<a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
+on these tours can be found on NLB’s website (<a href="https://www.nlb.gov.sg/main/whats-on/event-detail?event-id=173831629366" rel="noopener noreferrer nofollow" target="_blank">Here</a>)
 and on National Gallery’s corporate website under Tours: (<a href="https://web.nationalgallery.sg/?utm_source=google_prosp&amp;utm_medium=ppc&amp;utm_campaign=alwayson&amp;utm_content=_rsa/&amp;gad_source=1&amp;gclid=Cj0KCQjwvb-zBhCmARIsAAfUI2uby0I6xw8vRuCc7qxgkq1vNfHVgme_uwMrf3wY02vwiLsvQtL714UaAsNQEALw_wcB&amp;gclsrc=aw.ds#/search?q=&amp;tab=Tours" rel="noopener noreferrer nofollow" target="_blank">Here</a>)</p>
 <p><strong>Q5. Where do I find more information on the National Archives of Singapore and National Library collections?</strong>
 </p>
