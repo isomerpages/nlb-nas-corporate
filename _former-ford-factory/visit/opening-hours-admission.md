@@ -23,6 +23,8 @@ and one caregiver.
 
 For foreign visitors : $7.13 per person (After 9% GST)
 
+All transactions at the Former Ford Factory are by credit card (excluding Amex and Diners) or NETS.
+
 
 **Our** **gallery** **can** **be** **very** **cold**. **Please** **bring** **along** 
 **a** **shawl**, **sweater**, **cardigan**, **jacket** **etc.** **to** **keep** **warm**.
@@ -36,4 +38,3 @@ Mask wearing is optional. However individuals are encouraged to wear masks for p
 Address: 351 Upper Bukit Timah Road, Singapore 588192<br>
 Email: [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
 
-All transactions at the Former Ford Factory are by credit card (excluding Amex and Diners) or NETS.
