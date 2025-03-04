@@ -37,4 +37,3 @@ Mask wearing is optional. However individuals are encouraged to wear masks for p
 
 Address: 351 Upper Bukit Timah Road, Singapore 588192<br>
 Email: [enquiry@nlb.gov.sg](mailto:enquiry@nlb.gov.sg)
-
