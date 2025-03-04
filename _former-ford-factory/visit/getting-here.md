@@ -3,6 +3,7 @@ title: Getting Here
 permalink: /former-ford-factory/visit/getting-here/
 breadcrumb: Getting Here
 third_nav_title: Visit
+variant: markdown
 ---
 #### BY BUS
 
@@ -24,6 +25,9 @@ Limited parking is available at the Former Ford Factory.
 #### BY MRT
 
 **Nearest MRT Station**
+
+**Hume MRT:**
+Take Exit 1. The museum is a 3 minute walk up from Hume station
 
 **Hillview MRT:**
 Take bus 67, 170, 171, 961, 961M and alight opposite The Hillside
