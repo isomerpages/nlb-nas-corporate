@@ -27,6 +27,8 @@ For foreign visitors : $7.13 per person (After 9% GST)
  
 ***By MRT***
 
+Hume MRT: Take Exit 1. The museum is a 3 minute walk up from Hume station.
+
 Hillview MRT: Take bus 67, 170, 171, 961, 961M (Sundays and Public Holidays) and alight opposite The Hillside.
 
 Beauty World MRT: Take bus 67, 75, 170, 961, 961M (Sundays and Public Holidays) and alight after Old Jurong Road.
