@@ -27,7 +27,7 @@ Limited parking is available at the Former Ford Factory.
 **Nearest MRT Station**
 
 **Hume MRT:**
-Take Exit 2. The museum is a 3 minute walk up from Hume station
+Take Exit 1. The museum is a 3 minute walk up from Hume station
 
 **Hillview MRT:**
 Take bus 67, 170, 171, 961, 961M and alight opposite The Hillside
