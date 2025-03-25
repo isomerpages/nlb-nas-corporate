@@ -31,4 +31,4 @@ Tour schedules are subject to changes.
 
 ### GROUP VISITS
 
-For groups with more than 8 persons, please email enquiry@nlb.gov.sg, please make a private booking. Prior booking is required for all group visits.
+For groups with more than 8 persons, please email enquiry@nlb.gov.sg, do make a private booking. Prior booking is required for all group visits.
