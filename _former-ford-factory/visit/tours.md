@@ -21,11 +21,14 @@ there will be no tours.
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 29 March 2025
 
 Saturday, 5 April 2025
 
 Saturday, 19 April 2025
+
+Saturday, 3 May 2025
+
+Saturday, 17 May 2025
 
 Tour schedules are subject to changes.
 
