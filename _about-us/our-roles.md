@@ -44,7 +44,7 @@ In 1989, the Advisory Council on Culture and the Arts chaired by then Second Dep
 
 *At-risk audiovisual formats* 
 
-In 1997, the Audio Visual Archives Department of the NAS was established to appraise and acquire audiovisual records that are of national, historical and socio-cultural significance to Singapore, and documents such records that are transferred to NAS.  The department also manages the prioritisation and digitisation of at-risk audiovisual formats, so as to ensure that the valuable contents in the moving images and recorded sound heritage remain accessible to future generations.  
+In April 1995, the Audio Visual Archives Department of the NAS was established to appraise and acquire audiovisual records that are of national, historical and socio-cultural significance to Singapore, and documents such records that are transferred to NAS.  The department also manages the prioritisation and digitisation of at-risk audiovisual formats, so as to ensure that the valuable contents in the moving images and recorded sound heritage remain accessible to future generations.  
 
 
 
