@@ -24,7 +24,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/favicon-nas.ico
+favicon: /images/Logo/2_8_National_Archives_Singapore_Logo_RGB_FA.png
 permalink: none
 baseurl: ""
 defaults:
