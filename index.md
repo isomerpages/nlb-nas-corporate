@@ -96,5 +96,5 @@ sections:
 notification: ""
 description: The National Archives of Singapore (NAS) is the keeper of records
   of national or historical significance.
-image: /images/Logo/2_8_National_Archives_Singapore_Logo_RGB_FA.png
+image: /images/Logo/nas_favicon_48.png
 ---

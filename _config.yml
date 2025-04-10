@@ -24,7 +24,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-favicon: /images/favicon-nas.ico
+favicon: /images/Logo/nas_favicon_32.png
 permalink: none
 baseurl: ""
 defaults:
@@ -54,7 +54,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: /images/Logo/2_8_National_Archives_Singapore_Logo_RGB_FA.png
+shareicon: /images/Logo/nas_favicon_48.png
 is_government: false
 facebook-pixel: ""
 google_analytics_ga4: G-T70TZK8HJV
