@@ -93,7 +93,9 @@ sections:
       image: /images/features/reflectionsystyear.jpg
       alt: Reflections of Yesteryear
       button: View Reflections of Yesteryear
-notification: ""
+notification: Government officials will never ask you to transfer money or
+  disclose bank log-in details over a phone call. Call the 24/7 ScamShield
+  Helpline at 1799 if you are unsure if something is a scam.
 description: The National Archives of Singapore (NAS) is the keeper of records
   of national or historical significance.
 image: /images/Logo/nas_favicon_48.png
