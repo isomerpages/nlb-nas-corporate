@@ -49,15 +49,14 @@ sections:
       image: /images/features/LOTL_360_Virtual_Exhibition.jpg
       alt: Image alt text
   - infopic:
-      title: National Day Rally Speeches Throughout the Years
+      title: "Stories of Yesteryear: National Day Parade (1966-1975)"
       subtitle: FEATURES
       id: infopic
-      description: Reflect on the National Day Rally speeches of Prime Minister Goh
-        Chok Tong, with audio visual recordings from the National Archives of
-        Singapore’s collection.
-      button: NATIONAL DAY RALLY SPEECHES SEASON 2
-      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-National-Day-Rally-Speeches-Throughout-The-Years-S2-471598
-      image: /images/features/Stories_of_Yesteryear_National_Day_Rally_Speeches.png
+      description: Discover how Singapore's grandest annual event evolved over its
+        first ten years of independence.
+      button: Find Out More
+      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-National-Day-Parade-(1966-1975)-545532
+      image: /images/features/Stories_of_Yesteryear_NDP_2025.jpg
       alt: Image alt text
   - infopic:
       title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
