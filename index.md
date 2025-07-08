@@ -16,6 +16,16 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: "Stories of Yesteryear: National Day Parade (1966-1975)"
+      subtitle: FEATURES
+      id: infopic
+      description: Discover how Singapore's grandest annual event evolved over its
+        first ten years of independence.
+      button: Find Out More
+      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-National-Day-Parade-(1966-1975)-545532
+      image: /images/features/Stories_of_Yesteryear_NDP_2025.jpg
+      alt: Image alt text
+  - infopic:
       title: "Singapore in the 1980s: Landmarks & Landscapes"
       subtitle: FEATURES
       id: infopic
@@ -47,16 +57,6 @@ sections:
       button: VISIT HERE
       url: https://my.matterport.com/show/?m=PBMJZkcCaJ4
       image: /images/features/LOTL_360_Virtual_Exhibition.jpg
-      alt: Image alt text
-  - infopic:
-      title: "Stories of Yesteryear: National Day Parade (1966-1975)"
-      subtitle: FEATURES
-      id: infopic
-      description: Discover how Singapore's grandest annual event evolved over its
-        first ten years of independence.
-      button: Find Out More
-      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-National-Day-Parade-(1966-1975)-545532
-      image: /images/features/Stories_of_Yesteryear_NDP_2025.jpg
       alt: Image alt text
   - infopic:
       title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
