@@ -16,6 +16,17 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: National Day Rally Speeches Throughout The Year S3
+      subtitle: FEATURES
+      id: infopic
+      description: Reflect on the National Day Rally speeches of former Prime Minister
+        Lee Hsien Loong, with AV recordings from the National Archives of
+        Singapore’s collection.
+      button: FIND OUT MORE
+      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-National-Day-Rally-Speeches-Throughout-The-Years-390304
+      image: /images/features/National_Day_Rally_Speeches_Throughout_The_Year_S3.jpg
+      alt: Image alt text
+  - infopic:
       title: "Stories of Yesteryear: National Day Parade (1966-1975)"
       subtitle: FEATURES
       id: infopic
