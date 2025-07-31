@@ -23,7 +23,7 @@ sections:
         Lee Hsien Loong, with AV recordings from the National Archives of
         Singapore’s collection.
       button: FIND OUT MORE
-      url: https://www.mewatch.sg/show/Stories-Of-Yesteryear-National-Day-Rally-Speeches-Throughout-The-Years-390304
+      url: https://www.mewatch.sg/season/Stories-Of-Yesteryear-National-Day-Rally-Speeches-Throughout-The-Years-S3-548394
       image: /images/features/National_Day_Rally_Speeches_Throughout_The_Year_S3.jpg
       alt: Image alt text
   - infopic:
