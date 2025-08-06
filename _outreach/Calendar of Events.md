@@ -41,8 +41,16 @@ Known for her work in inclusive and sensory theatre across Asia and beyond,
 Gloria creates meaningful performances that embrace diverse needs.</p>
 <p><strong>About All Things Singapore (AT SG) 2025</strong>
 </p>
-<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener nofollow" target="_blank">go.gov.sg/atsg202</a>
-<a href="go.gov.sg/atsg2025" rel="noopener nofollow" target="_blank">5</a>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
+</p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener nofollow" target="_blank">go.gov.sg/atsg2025</a>
 </p>
 <p>___________________________________________________________________________________________</p>
 <div class="isomer-image-wrapper">
@@ -55,6 +63,8 @@ Gloria creates meaningful performances that embrace diverse needs.</p>
 <p><strong>Oldham Theatre, Level 3</strong>
 </p>
 <p><strong>National Archives Building</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/6879d04feac9a90a55b2c1ed" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
 <h3><strong>Archives Unlocked | From Jurong Island to Selat Sembilan</strong></h3>
 <p>This talk draws from <em>Socio-Cultural Heritage of Jurong Island and its Former Offshore Islands</em>,
@@ -79,5 +89,16 @@ history, archival, and GIS research to document the lives of former island
 residents. The project culminated in the From Jurong Island to Selat Sembilan
 exhibition at the NUS Museum.</p>
 <p><em>The views expressed here are solely those of the author in his private capacity and do not in any way represent the views of the National Heritage Board and/or any government agencies.</em>
+</p>
+<p><strong>About All Things Singapore (AT SG) 2025</strong>
+</p>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p></p>
