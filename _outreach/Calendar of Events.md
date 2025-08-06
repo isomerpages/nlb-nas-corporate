@@ -230,13 +230,12 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 <p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
 </p>
 <p>__________________________________________________________________________________________</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Island_Crafts_30_Aug_2025.jpg">
 </div>
 <p><strong>Sat, 30 Aug 2025</strong>
 </p>
-<p><strong>8.1pm – 9.1pm&nbsp;</strong>
+<p><strong>7.0pm – 10.00pm</strong>
 </p>
 <p><strong>Archives Reading Room, Level 2,</strong>
 </p>
@@ -244,6 +243,7 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p>Free Admission&nbsp; This is a walk-in programme. Registration is not
 required.&nbsp;</p>
+<h3><strong>Island Crafts | AT SG 2025</strong></h3>
 <p><strong>About the Programme</strong>
 </p>
 <p>Try your hand at coaster weaving and leather bookmark stamping with Beadbadwolf
@@ -258,6 +258,40 @@ teens aged 9 to 16.&nbsp;</p>
 design and worked as a visual merchandiser before becoming a textile artist.
 Beadbadwolf Studio offers various art and craft workshops, craft buffet
 sessions, DIY kits and more at its location in Stamford Arts Centre.&nbsp;</p>
+<p></p>
+<p></p>
+<p>__________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Jom_Kenal_Pulau__5_Sep_2025.jpg">
+</div>
+<p><strong>Fri, 5 Sep 2025</strong>
+</p>
+<p><strong>8.30pm – 10.00pm&nbsp;</strong>
+</p>
+<p><strong>Archives Reading Room, Level 2,</strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<p>Free Admission&nbsp; This is a walk-in programme. Registration is not
+required.</p>
+<p><strong>About the Programme</strong>
+</p>
+<p>This family-friendly educational booth introduces participants to the
+language, culture and knowledge of the Orang Laut and Orang Pulau communities
+through an interactive learning experience. Learn words commonly used by
+Singapore’s Southern Islanders through a game of</p>
+<p>Pulau Lingo! Engage your senses by identifying indigenous plants and molluscs
+important to islander cuisine and traditional medicine through smell and
+touch.</p>
+<p><strong>About the Facilitators</strong>
+</p>
+<p>Orang Laut SG is a collective dedicated to bringing light to the traditions
+and cultures of the Orang Laut/ Orang Pulau community. Driven by the goal
+of claiming the narrative of the Southern Islands, the collective advocates
+for the cultural preservation of the Orang Laut/Pulau culture through the
+reclamation of heritage spaces and highlighting unique traditions of the
+Orang Laut/Pulau community, such as maritime craftsmanship, cuisine and
+spiritual practices.</p>
 <p><strong>About All Things Singapore (AT SG) 2025</strong>
 </p>
 <p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
@@ -271,3 +305,5 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
 </p>
+<p>__________________________________________________________________________________________</p>
+<p></p>
