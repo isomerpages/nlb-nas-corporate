@@ -52,4 +52,32 @@ Gloria creates meaningful performances that embrace diverse needs.</p>
 </p>
 <p><strong>7.00pm - 8.00pm</strong>
 </p>
+<p><strong>Oldham Theatre, Level 3</strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<h3><strong>Archives Unlocked | From Jurong Island to Selat Sembilan</strong></h3>
+<p>This talk draws from <em>Socio-Cultural Heritage of Jurong Island and its Former Offshore Islands</em>,
+a NHB Heritage Research Grant project that utilsed archival maps, oral
+histories, and GIS visualisation to trace the lived experiences of island
+communities (including, Malay, Teochew, Orang Suku Laut and others) before
+the formation of Jurong Island. Using materials from the National Archives
+of Singapore—such as 19th-century hydrographic charts, oral history recordings,
+and declassified government documents—Dr Hadi Osni examines how place names,
+ecological knowledge, and kinship ties offer alternative ways of remembering
+and representing these maritime landscapes. The talk highlights how archival
+materials can be recontextualised through memory mapping and participatory
+research.</p>
+<p><strong>About the Speaker</strong>
+</p>
+<p>Dr. Hadi Osni is a curator at the Malay Heritage Centre under Singapore’s
+National Heritage Board. His research focuses on architectural and urban
+history, community heritage, and spatial memory in Singapore’s built environment.&nbsp;He
+is Co-Investigator of the NHB-funded project Socio-Cultural Heritage of
+Jurong Island and Former Offshore Islands (2023–2025), where he led oral
+history, archival, and GIS research to document the lives of former island
+residents. The project culminated in the From Jurong Island to Selat Sembilan
+exhibition at the NUS Museum.</p>
+<p><em>The views expressed here are solely those of the author in his private capacity and do not in any way represent the views of the National Heritage Board and/or any government agencies.</em>
+</p>
 <p></p>
