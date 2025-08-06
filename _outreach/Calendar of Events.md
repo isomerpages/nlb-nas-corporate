@@ -13,7 +13,7 @@ variant: tiptap
 </p>
 <p><strong>6.30pm - 8.45pm</strong>
 </p>
-<p><strong>Exterior Stairway (Level 2), </strong>
+<p><strong>Exterior Stairway (Level 2),</strong>
 </p>
 <p><strong>National Archives Building</strong>
 </p>
