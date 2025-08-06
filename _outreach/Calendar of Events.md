@@ -43,8 +43,12 @@ Gloria creates meaningful performances that embrace diverse needs.</p>
 </p>
 <p><strong>Discover more at </strong><a href="go.gov.sg/atsg2025" rel="noopener nofollow" target="_blank">go.gov.sg/atsg2025</a>
 </p>
-<p>__________________________________________________________________</p>
+<p>________________________________________________________________</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/AU_From_Jurong_Island_to_Selat_Sembilan_23_Aug_2025.jpg">
 </div>
+<p><strong>Sat, 23 Aug 2025</strong>
+</p>
+<p><strong>7.00pm - 8.00pm</strong>
+</p>
 <p></p>
