@@ -331,6 +331,8 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p><strong>National Archives Building</strong>
 </p>
+<p><strong>Register </strong><a href="https://form.gov.sg/687dab783bae5fa290aca264" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
 <h3><strong>Rentak Pulau, Bunyi Hati (Island Rhythm, The Heart Echoes)</strong></h3>
 <p><strong>About the Programme</strong>&nbsp; &nbsp;</p>
 <p>This panel sharing explores the celebratory traditions of Singapore’s
