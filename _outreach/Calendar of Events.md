@@ -103,6 +103,8 @@ history and creativity at the National Library and National Archives of
 Singapore. So, join us for All Things Singapore 2025, where heritage, arts
 and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
+</p>
 <p>__________________________________________________________________________________________</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/The_Tiger_Hero_22_Aug_2025.jpg">
@@ -309,11 +311,11 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Rentak_Pulau_Bunyi_Hati_6_Sep_2025.jpg">
 </div>
-<p><strong>Sat, 6 Sep 2025&nbsp; </strong>
+<p><strong>Sat, 6 Sep 2025&nbsp;</strong>
 </p>
 <p><strong>8.3pm – 9.30 pm</strong>
 </p>
-<p><strong>Oldham Theatre, Level 3, </strong>
+<p><strong>Oldham Theatre, Level 3,</strong>
 </p>
 <p><strong>National Archives Building</strong>
 </p>
