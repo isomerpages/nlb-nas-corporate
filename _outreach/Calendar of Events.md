@@ -147,7 +147,7 @@ that sparks meaningful conversations between children and their parents
 or grandparents.&nbsp;</p>
 </li>
 </ul>
-<p><strong><em>This performance will be conducted in Chinese. English subtitles will be available.</em></strong>
+<p><em>This performance will be conducted in Chinese. English subtitles will be available.</em>
 </p>
 <p><strong>About the Performers</strong>
 </p>
