@@ -169,4 +169,38 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 <p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
 </p>
 <p>__________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/The_Monkey_King_and_the_Uproar_in_the_Dragon_Palace_29_and_30_Aug_2025.jpg">
+</div>
+<p><strong>Fri, 29 Aug 2025</strong>
+</p>
+<p><strong>8.1pm – 9.1pm&nbsp; </strong>
+</p>
+<p><strong>Archives Reading Room, Level 2, </strong>
+</p>
+<p><strong>National Archives Building&nbsp;</strong> &nbsp;</p>
+<p><strong>Sat, 30 Aug 2025</strong>
+</p>
+<p><strong>7.3pm – 8.30 pm / 8.45pm – 9.45pm &nbsp; </strong>
+</p>
+<p><strong>Atrium, Level 3, </strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/6881a400123ac424d401b076" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<h3><strong>The Monkey King and the Uproar in the Dragon Palace (Nanyang Edition)</strong></h3>
+<p><strong>About the Programme</strong>
+</p>
+<p>The story begins after Sun Wukong has completed his journey to retrieve
+the scriptures, and is now back in Huaguo Mountain enjoying his leisure.
+However, Sun Wukong learns that ever since he took the Golden Cudgel, the
+Dragon Palace has fallen into chaos and the Dragon King has gone missing.
+When he arrives at the seashore, Sun Wukong is shocked to find the ocean
+severely polluted. He soon discovers that all of this is the wicked scheme
+of the Poison Lord!</p>
+<p>How will Sun Wukong rescue his friends and the Dragon King? Come watch
+the show to find out!</p>
+<p><em>Performed in Malay, Mandarin and Chinese Dialects with English subtitles.</em>
+</p>
 <p></p>
