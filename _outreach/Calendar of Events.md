@@ -237,7 +237,7 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </div>
 <p><strong>Sat, 30 Aug 2025</strong>
 </p>
-<p><strong>7.0pm – 10.00pm</strong>
+<p><strong>7.00pm – 10.00pm</strong>
 </p>
 <p><strong>Archives Reading Room, Level 2,</strong>
 </p>
