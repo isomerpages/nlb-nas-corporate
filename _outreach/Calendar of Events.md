@@ -185,7 +185,7 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 <p><strong>National Archives Building&nbsp;</strong> &nbsp;</p>
 <p><strong>Sat, 30 Aug 2025</strong>
 </p>
-<p><strong>7.3pm – 8.30 pm / 8.45pm – 9.45pm &nbsp;</strong>
+<p><strong>7.30pm – 8.30 pm / 8.45pm – 9.45pm &nbsp;</strong>
 </p>
 <p><strong>Atrium, Level 3,</strong>
 </p>
