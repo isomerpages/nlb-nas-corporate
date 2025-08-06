@@ -260,7 +260,19 @@ teens aged 9 to 16.&nbsp;</p>
 design and worked as a visual merchandiser before becoming a textile artist.
 Beadbadwolf Studio offers various art and craft workshops, craft buffet
 sessions, DIY kits and more at its location in Stamford Arts Centre.&nbsp;</p>
-<p></p>
+<p><strong>About All Things Singapore (AT SG) 2025</strong>
+</p>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
+</p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
+</p>
 <p>__________________________________________________________________________________________</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Jom_Kenal_Pulau__5_Sep_2025.jpg">
