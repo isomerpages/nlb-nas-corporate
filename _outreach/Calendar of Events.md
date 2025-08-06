@@ -119,7 +119,7 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p><strong>Register </strong><a href="https://form.gov.sg/6881a5ec51992c914da3a491" rel="noopener nofollow" target="_blank">HERE</a>
 </p>
-<h3><strong>The Tiger Hero</strong></h3>
+<h3><strong>The Tiger Hero: A Puppetry Adaptation of the Classic Chinese Novel Water Margin  </strong></h3>
 <p><strong>About the Programme</strong>
 </p>
 <p>Join us as we bring the legendary tale of martial arts master Wu Song
