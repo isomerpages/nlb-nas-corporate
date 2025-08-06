@@ -11,7 +11,7 @@ variant: tiptap
 </div>
 <p><strong>22, 23, 29, 30 Aug &amp; 5, 6 Sep 2025</strong>
 </p>
-<p><strong>6.30pm - 8.45pm</strong>
+<p><strong>8.30pm - 8.45pm</strong>
 </p>
 <p><strong>Exterior Stairway (Level 2),</strong>
 </p>
@@ -259,7 +259,6 @@ design and worked as a visual merchandiser before becoming a textile artist.
 Beadbadwolf Studio offers various art and craft workshops, craft buffet
 sessions, DIY kits and more at its location in Stamford Arts Centre.&nbsp;</p>
 <p></p>
-<p></p>
 <p>__________________________________________________________________________________________</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Jom_Kenal_Pulau__5_Sep_2025.jpg">
@@ -274,6 +273,7 @@ sessions, DIY kits and more at its location in Stamford Arts Centre.&nbsp;</p>
 </p>
 <p>Free Admission&nbsp; This is a walk-in programme. Registration is not
 required.</p>
+<h3><strong>Jom Kenal Pulau! (Let’s Get to Know the Islands!) Activity</strong></h3>
 <p><strong>About the Programme</strong>
 </p>
 <p>This family-friendly educational booth introduces participants to the
@@ -306,4 +306,62 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 <p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
 </p>
 <p>__________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Rentak_Pulau_Bunyi_Hati_6_Sep_2025.jpg">
+</div>
+<p><strong>Sat, 6 Sep 2025&nbsp; </strong>
+</p>
+<p><strong>8.3pm – 9.30 pm</strong>
+</p>
+<p><strong>Oldham Theatre, Level 3, </strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<h3><strong>Rentak Pulau, Bunyi Hati (Island Rhythm, The Heart Echoes)</strong></h3>
+<p><strong>About the Programme</strong>&nbsp; &nbsp;</p>
+<p>This panel sharing explores the celebratory traditions of Singapore’s
+islander communities, from music and dance to storytelling. These practices
+have been an integral part of island heritage, marking festive occasions
+and strengthening communal bonds. Through the lived experiences and ongoing
+efforts of former islanders and their descendants, the sharing will highlight
+how these traditions continue to evolve, serving as both a form of cultural
+expression and a means of sustaining identity in a rapidly modernising
+landscape. Hear from community members who lived the memories and those
+working to keep them alive.&nbsp; &nbsp; &nbsp;</p>
+<p></p>
+<p><strong>About the Speakers</strong>&nbsp; &nbsp;</p>
+<p><strong>Kasmun Bin Hj Abd Karim</strong> is a former islander of Pulau
+Sudong. As a young man, he was part of a Joget Dangkung troupe that played
+during festive gatherings on the island. They were well known for their
+distinctive attire and lively presence. As formal Joget Dangkung groups
+are now difficult to find in Singapore, Kasmun is a living repository of
+the vibrant memories and rich culture of the cultural performance. &nbsp;</p>
+<p><strong>Cik Nasir Abdullah</strong> is a practicing traditional ghazal
+musician from Pulau Samulun. He spent&nbsp; his youth travelling and playing
+music across islands for celebrations such as weddings.&nbsp; Currently,
+he leads the multigenerational band Orkes Melayu Mutiara.&nbsp;</p>
+<p><strong>Asnida Daud</strong> is a performer and educator who grew up on
+Pulau Sudong. Through poetry,&nbsp; storytelling and music, she breathes
+new life into the stories of her ancestors. She has performed her work
+in local productions at Esplanade – Theatres on the Bay, as well as international
+art festivals.&nbsp; &nbsp;</p>
+<p><strong>Firdaus Sani</strong>, a fourth-generation Orang Laut/Pulau descendant,
+founded Orang Laut SG in 2020 to preserve the heritage of Pulau Semakau.
+He advocates for indigenous voices, and representation in education and
+public discourse. Firdaus delivered a TedxYouth talk on sustainability,
+participated in the Singapore Writers Festival, and performed his work
+at Esplanade – Theatres on the Bay.</p>
+<p><strong>About All Things Singapore (AT SG) 2025</strong>
+</p>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
+</p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
+</p>
 <p></p>
