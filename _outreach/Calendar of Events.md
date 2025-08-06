@@ -101,4 +101,72 @@ history and creativity at the National Library and National Archives of
 Singapore. So, join us for All Things Singapore 2025, where heritage, arts
 and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
+<p>__________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/The_Tiger_Hero_22_Aug_2025.jpg">
+</div>
+<p><strong>Sat, 23 Aug 2025</strong>
+</p>
+<p><strong>8.15pm - 9.00pm / 9.15pm - 10.00pm</strong>
+</p>
+<p><strong>Atrium, Level 3</strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/6881a5ec51992c914da3a491" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<h3><strong>The Tiger Hero</strong></h3>
+<p><strong>About the Programme</strong>
+</p>
+<p>Join us as we bring the legendary tale of martial arts master Wu Song
+to life! Follow him on his thrilling journey across Jingyang Ridge, where
+he encounters a ferocious man-eating tiger. Can Wu Song handle the beast
+while under the influence of wine?</p>
+<p><strong>Performance Highlights:&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Fun and interactive</strong>: A lively show that actively engages
+the audience.&nbsp;</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>For seniors</strong>: Relive the nostalgia of traditional hand
+puppetry performances once enjoyed during street festivals.&nbsp;</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>For the young</strong>: A delightful and interactive experience
+that sparks meaningful conversations between children and their parents
+or grandparents.&nbsp;</p>
+</li>
+</ul>
+<p><strong><em>This performance will be conducted in Chinese. English subtitles will be available.</em></strong>
+</p>
+<p><strong>About the Performers</strong>
+</p>
+<p>Paper Monkey Theatre is a Singapore-based theatre company that blends
+traditional Asian puppetry with contemporary storytelling. Founded by Benjamin
+Ho, it creates engaging performances for children and families, nurturing
+cultural appreciation and creativity. The company is renowned for its innovative
+puppetry works, educational programmes and vibrant productions that celebrate
+heritage and imagination.</p>
+<p><em>The performances are co-presented by the National Library Board and HeritageSG. NLB hopes to inspire the discovery of hidden stories and facets of Singapore’s past from the collections of the National Library and the National Archives of Singapore.</em>
+</p>
+<p><strong>About All Things Singapore (AT SG) 2025</strong>
+</p>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
+</p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
+</p>
+<p>__________________________________________________________________________________________</p>
 <p></p>
