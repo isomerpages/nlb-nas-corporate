@@ -325,7 +325,7 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </div>
 <p><strong>Sat, 6 Sep 2025&nbsp;</strong>
 </p>
-<p><strong>8.3pm – 9.30 pm</strong>
+<p><strong>8.30pm – 9.30 pm</strong>
 </p>
 <p><strong>Oldham Theatre, Level 3,</strong>
 </p>
