@@ -174,16 +174,16 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </div>
 <p><strong>Fri, 29 Aug 2025</strong>
 </p>
-<p><strong>8.1pm – 9.1pm&nbsp; </strong>
+<p><strong>8.1pm – 9.1pm&nbsp;</strong>
 </p>
-<p><strong>Archives Reading Room, Level 2, </strong>
+<p><strong>Archives Reading Room, Level 2,</strong>
 </p>
 <p><strong>National Archives Building&nbsp;</strong> &nbsp;</p>
 <p><strong>Sat, 30 Aug 2025</strong>
 </p>
-<p><strong>7.3pm – 8.30 pm / 8.45pm – 9.45pm &nbsp; </strong>
+<p><strong>7.3pm – 8.30 pm / 8.45pm – 9.45pm &nbsp;</strong>
 </p>
-<p><strong>Atrium, Level 3, </strong>
+<p><strong>Atrium, Level 3,</strong>
 </p>
 <p><strong>National Archives Building</strong>
 </p>
@@ -203,4 +203,27 @@ of the Poison Lord!</p>
 the show to find out!</p>
 <p><em>Performed in Malay, Mandarin and Chinese Dialects with English subtitles.</em>
 </p>
-<p></p>
+<p><strong>About the Performers</strong>
+</p>
+<p>Ombak Potehi is a collective of multiethnic young people who have tried
+to revitalise the endangered&nbsp;<em>Potehi</em>&nbsp;glove puppet theatre
+in Penang, Malaysia. The group of young people studied the art of puppet
+manipulation, narration and music from the traditional troupe, Beng Geok
+Hong Puppet Show, in Penang. The group has made&nbsp;<em>Potehi</em>&nbsp;accessible
+to people of races, genders, ages and income levels and to promote the
+sharing of cultures among the diverse people of Malaysia.</p>
+<p><em>The performances are co-presented by the National Library Board and HeritageSG. NLB hopes to inspire the discovery of hidden stories and facets of Singapore’s past from the collections of the National Library and the National Archives of Singapore.</em>
+</p>
+<p><strong>About All Things Singapore (AT SG) 2025</strong>
+</p>
+<p>All Things Singapore (AT SG) 2025 invites you to dive into the enchanting
+world of Singapore’s islands. Experience dynamic performances that reimagine
+island life, interactive installations that celebrate nature and island
+communities, and insightful programmes that uncover rich stories and legacies.
+Journey through our islands’ vibrant spirit with a unique blend of arts,
+history and creativity at the National Library and National Archives of
+Singapore. So, join us for All Things Singapore 2025, where heritage, arts
+and culture come alive after dark.<strong>&nbsp;</strong>
+</p>
+<p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
+</p>
