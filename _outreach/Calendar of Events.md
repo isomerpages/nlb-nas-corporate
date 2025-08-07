@@ -492,14 +492,14 @@ including the Malayan Emergency (1948-60) and military history.</p>
 of&nbsp;<em>Battle for Singapore</em> and <em>The Trials of War</em>. These
 powerful documentaries offer poignant reflections on the nation’s resilience,
 sacrifice, and the enduring human spirit during one of its darkest periods.</p>
-<p><strong>10 am –&nbsp;10.30&nbsp;am: Battle for Singapore</strong>
+<p><strong>10.00am –&nbsp;10.30am: Battle for Singapore</strong>
 </p>
 <p>This documentary traces the dramatic&nbsp;timeline of the Fall of Singapore
 during World War II. It highlights key dates in the Battle for Singapore,
 using archival photographs and video footage. The film also features interviews
 with a bomb attack witness, the wife of a late Malay Regiment soldier,
 and a former Australian machine-gunner.</p>
-<p><strong>2.30 pm –&nbsp;3&nbsp;pm: The Trials of War</strong>
+<p><strong>2.30pm –&nbsp;3.00pm: The Trials of War</strong>
 </p>
 <p>During the Japanese Occupation, numerous atrocities were committed&nbsp;yet
 many of those responsible went unpunished, despite the formation of a War
