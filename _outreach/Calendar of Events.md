@@ -380,4 +380,129 @@ and culture come alive after dark.<strong>&nbsp;</strong>
 </p>
 <p><strong>Discover more at </strong><a href="https://form.gov.sg/68636361b68fb8d7a449002e" rel="noopener noreferrer nofollow" target="_blank"><u>go.gov.sg/atsg2025</u></a>
 </p>
+<p>___________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/Voice_of_Singaporeans_OH.jpg">
+</div>
+<p><strong>Sat, 6 Sep 2025&nbsp;</strong>
+</p>
+<p><strong>1.00pm – 2.30pm</strong>
+</p>
+<p><strong>Oldham Theatre, Level 3,</strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/6886f46e7da12d17ea20198c" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<h3><strong>[LOLA] Voices of Singaporeans: Personal Stories Through Oral History</strong></h3>
+<p>Join us for an inspiring session featuring four extraordinary individuals
+who have deposited their life stories with the National Archives of Singapore’s
+Oral History Centre. Well-known names from the worlds of sport, business,
+and entertainment, they will share defining moments, personal struggles,
+and hard-won triumphs that have shaped their lives. Discover what drives
+them, learn about their current projects, and hear about the dreams and
+goals they have set their sights on.</p>
+<p><strong>About the Panellists</strong>
+</p>
+<p><strong>Rahimah Rahim </strong>is a renowned singer and actress&nbsp;in
+the local music scene, and one of the most popular local entertainers of
+the 1970s and 1980s. She has released 12 albums over the course of her
+career. In 2021, she was awarded the Cultural Medallion, Singapore's pinnacle
+arts award, by the National Arts Council. She is one of the featured performers
+at this year’s National Day Parade.</p>
+<p><strong>Dr. Benedict Tan</strong> is an Olympian in the Asian Games (1994)
+and four-time consecutive Southeast Asian Games (1989, 1991, 1993, 1995)
+Gold medallist in sailing. He is a Hall-of-Famer and three-time Singapore
+Sportsman of the Year. &nbsp;After competing in the 1996 Savannah Olympics,
+Dr Ben Tan retired from competitive sailing and now sails (including kiteboarding)
+recreationally. &nbsp;He took up marathon running recreationally in 2002,
+competing in more than 20 marathons to date, including all six World Marathon
+Majors (Boston, Berlin, London, New York, Chicago, and Tokyo).&nbsp; Apart
+from running Ben also kitefoils, wakefoils, skis and scuba dives.</p>
+<p>Currently, Dr Ben Tan is a Senior Consultant sports physician and Head
+of SingHealth Duke-NUS Sport and Exercise Medicine Clinic (SSMC). &nbsp;He
+was awarded the Exercise is Medicine (EIM) Global Leadership Award in 2024
+and the Ministry of Health Distinguished Senior Clinician Award in 2024,
+and the SingHealth Distinguished Visionary Leader Award in 2018.&nbsp;</p>
+<p><strong>Koh Seng Choon</strong> is the founder of&nbsp;Project Dignity,
+a social enterprise that runs Dignity Kitchen, a hawker training school
+and food court that employs people with disabilities and other disadvantaged
+individuals.&nbsp;He was named The Straits Times Singaporean of the Year
+for 2024 for his work in this area.</p>
+<p><strong>Canagasabai Kunalan</strong>, known as C. Kunalan, is a retired
+Singaporean sprinter, relay runner, former footballer and educator, widely
+regarded as one of Singapore's greatest ever athletes.&nbsp; Named Sportsman
+of the Year in both 1968 and 1969, Kunalan is a 20-time South East Asian
+&amp; Asian Games Medallist.</p>
+<p>___________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/LOLA_AU_Talk_6_Sep_2025.jpg">
+</div>
+<p><strong>Sat, 6 Sep 2025&nbsp;</strong>
+</p>
+<p><strong>3.00pm – 4.00pm</strong>
+</p>
+<p><strong>Oldham Theatre, Level 3,</strong>
+</p>
+<p><strong>National Archives Building</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/688340b613a7b08c4ceddc6a" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<h3><strong>[LOLA] Archives Unlocked | Do You See What I See: Mining Historical Details From Old Photographs</strong></h3>
+<p>A picture paints a thousand words. What stories do old photographs of
+Singapore tell us? From once familiar sights and scenes to vanishing trades
+and changing fashion, we invite you to rediscover and rethink Singapore
+of yesteryear.</p>
+<p>Join Senior Manager Lu Wenshi and Senior Archivist Ronnie Tan as they
+delve into the National Archives of Singapore’s (NAS) photograph collections,
+which feature different genres from studio to street photography. They
+will also offer insight into how archivists glean details about history
+from archival records.</p>
+<p>For a sneak peak of the photographers covered in the talk, check out this <em>BiblioAsia</em> article:
+<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/" rel="noopener nofollow" target="_blank">A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni
+Pinsler!</a>
+</p>
 <p></p>
+<p><strong>About the Speakers</strong>
+</p>
+<p><strong>Lu Wenshi </strong>is a Senior Manager with the National Archives
+of Singapore, who has an innate interest in photographs, old and contemporary.
+She oversees the speeches and press release collections, content curation
+and crowdsourcing for the Archives Services Department.<strong>&nbsp;<br><br>Ronnie Tan </strong>is
+a Senior Archivist with the National Archives of Singapore, who has a keen
+interest in photography and history. He was previously a Senior Manager
+(research) with the National Library Singapore, where he conducted research
+on public policy, library-related topics as well as historical research,
+including the Malayan Emergency (1948-60) and military history.</p>
+<p>___________________________________________________________________________________________</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/calendar of events/FFF_Screenings_Banner.jpg">
+</div>
+<p><strong>Sat, 6 Sep 2025&nbsp;</strong>
+</p>
+<p><strong>10.00am - 10.30am / 2.30pm - 3.00pm</strong>
+</p>
+<p><strong>Screening Room Level 2</strong>
+</p>
+<p><strong>Former Ford Factory</strong>
+</p>
+<p><strong>Register </strong><a href="https://form.gov.sg/6886f7e79c9dd844395e5eba" rel="noopener nofollow" target="_blank">HERE</a>
+</p>
+<p>Step into Singapore’s wartime history with two compelling short film screenings
+of&nbsp;<em>Battle for Singapore</em> and <em>The Trials of War</em>. These
+powerful documentaries offer poignant reflections on the nation’s resilience,
+sacrifice, and the enduring human spirit during one of its darkest periods.</p>
+<p><strong>10.00am –&nbsp;10.30am: Battle for Singapore</strong>
+</p>
+<p>This documentary traces the dramatic&nbsp;timeline of the Fall of Singapore
+during World War II. It highlights key dates in the Battle for Singapore,
+using archival photographs and video footage. The film also features interviews
+with a bomb attack witness, the wife of a late Malay Regiment soldier,
+and a former Australian machine-gunner.</p>
+<p><strong>2.30pm –&nbsp;3.00pm: The Trials of War</strong>
+</p>
+<p>During the Japanese Occupation, numerous atrocities were committed&nbsp;yet
+many of those responsible went unpunished, despite the formation of a War
+Crimes Commission. This documentary features testimonies from individuals
+who witnessed the war crimes trials and others who endured immense suffering
+during the Occupation.</p>
