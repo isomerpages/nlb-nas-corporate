@@ -166,9 +166,9 @@ FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore
 
 [[8\]](http://www.nas.gov.sg/blogs/offtherecord/defending-our-sovereignty/#_ftnref8) *Navy: The Vital Force*, p. 32.
 
-[[9]](https://www.mindef.gov.sg/home) *Ministry of Defence Singapore Website*, 
+[[9]](https://www.mindef.gov.sg/)  *Ministry of Defence Singapore Website*, 
 
-[[10]](https://www.mindef.gov.sg/home) *Ministry of Defence Singapore Website*,
+[[10]](https://www.mindef.gov.sg/) *Ministry of Defence Singapore Website*,
 
 
 
