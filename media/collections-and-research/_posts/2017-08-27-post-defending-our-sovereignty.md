@@ -122,13 +122,13 @@ Armoured Infantry Training with Singapore Armed Forces’ AMX-13 Tanks. *Ministr
 
 Efforts in defence and foreign relations finally came together as “defence diplomacy”, laying the ground for the first ever Five Power Defence Arrangements (FPDA) signed in 1971 between Singapore, Australia, Britain, Malaysia and New Zealand. The FPDA allowed member countries to conduct a wide variety of shared military activities, such as the Integrated Air Defence System (IADS) and annual joint military exercises.
 
-To meet the changing security needs, Singapore continues to develop and refine its defence and foreign policies beyond the founding years, but the principles set by Dr Goh and Mr S Rajaratnam still form the foundation of today’s strategy. Total Defence – which involves not just Military Defence, but also Civil Defence, Economic Defence, Social Defence and Psychological Defence – provides the framework for a comprehensive, well-integrated response to deal with all potential threats against Singapore.[[9]](https://www.mindef.gov.sg/home)
+To meet the changing security needs, Singapore continues to develop and refine its defence and foreign policies beyond the founding years, but the principles set by Dr Goh and Mr S Rajaratnam still form the foundation of today’s strategy. Total Defence – which involves not just Military Defence, but also Civil Defence, Economic Defence, Social Defence and Psychological Defence – provides the framework for a comprehensive, well-integrated response to deal with all potential threats against Singapore. [[9]](https://www.mindef.gov.sg/)
 
 In today’s geopolitical arena, Singapore continues to uphold this legacy of defence, striving to enhance our peace and security through deterrence and diplomacy.
 
 ![img](/images/blogs/img_599d90521e950.png)
 
-FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore on 4 – 5 June 2006. The ministers reaffirmed the important role of the FPDA in regional security, as more joint and complex exercises were being conducted. The meeting highlighted FPDA’s increased focus in countering terrorism and non-conventional threats in the region. [[10]](https://www.mindef.gov.sg/home)
+FPDA Defence Ministers at the 6th FPDA Defence Ministers’ Meeting in Singapore on 4 – 5 June 2006. The ministers reaffirmed the important role of the FPDA in regional security, as more joint and complex exercises were being conducted. The meeting highlighted FPDA’s increased focus in countering terrorism and non-conventional threats in the region. [[10]](https://www.mindef.gov.sg/)
 
 *Pioneer Magazine, MINDEF Public Affairs, courtesy of NAS.*
 
