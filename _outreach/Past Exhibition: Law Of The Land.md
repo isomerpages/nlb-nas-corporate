@@ -92,7 +92,7 @@ di-Pertuan Negara was Yusof bin Ishak who was appointed on 3 December 1959.</p>
 <div class="isomer-image-wrapper">
 <img style="width:400px;" height="auto" width="100%" alt="Points of Merger Envelope" src="/images/exhibitions/points of merger envelope (lr).jpg">
 </div>
-<h4>Points of Merger Envelope - 7 July 1965</h4>
+<h4>Points of Merger Envelope - 7 July 1963</h4>
 <p>On the back of this government envelope are Prime Minister Lee Kuan Yew’s
 handwritten notes regarding certain aspects of merger discussed and agreed
 with Malaya’s Prime Minister Tunku Abdul Rahman.</p>
