@@ -16,6 +16,17 @@ sections:
           url: https://www.nas.gov.sg/erequest/#/home
       url: https://www.ioha2021.gov.sg/
   - infopic:
+      title: Trades of Yesteryear
+      subtitle: FEATURES
+      id: infopic
+      description: Throughout the 20th century, Singapore's economic landscape
+        comprised a rich tapestry of unique trades and professions. Find out
+        more from the curated page.
+      button: FIND OUT MORE
+      url: https://go.gov.sg/trades
+      image: /images/Banner_Trades.jpg
+      alt: Image alt text
+  - infopic:
       title: National Day Rally Speeches Throughout The Year S3
       subtitle: FEATURES
       id: infopic
@@ -89,17 +100,6 @@ sections:
       alt: Image alt text
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
       image: /images/features/960-x-400-changinglandscape.jpg
-  - infopic:
-      title: Trades of Yesteryear
-      subtitle: FEATURES
-      id: infopic
-      description: Throughout the 20th century, Singapore's economic landscape
-        comprised a rich tapestry of unique trades and professions. Find out
-        more from the curated page.
-      button: FIND OUT MORE
-      url: https://go.gov.sg/trades
-      image: /images/Banner_Trades.jpg
-      alt: Image alt text
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam.
