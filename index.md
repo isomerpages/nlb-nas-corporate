@@ -90,20 +90,6 @@ sections:
       url: https://www.mewatch.sg/season/Stories-of-Yesteryear-Changing-Landscapes-250817
       image: /images/features/960-x-400-changinglandscape.jpg
   - infopic:
-      title: Reflections of Yesteryear
-      subtitle: Features
-      description: The series gives insights into the early years of Singapore’s
-        independence, and shows some of the challenges faced and conquered.
-        These speeches and interviews preserved by the National Archives of
-        Singapore convey messages of strength and hope. They are particularly
-        relevant to us in this current time, as the nation celebrates another
-        year of nationhood, in the midst of a historic health and economic
-        situation.
-      url: https://www.mewatch.sg/season/Reflections-of-Yesteryear-170278
-      image: /images/features/reflectionsystyear.jpg
-      alt: Reflections of Yesteryear
-      button: View Reflections of Yesteryear
-  - infopic:
       title: Trades of Yesteryear
       subtitle: FEATURES
       id: infopic
