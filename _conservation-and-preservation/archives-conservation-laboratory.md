@@ -63,5 +63,5 @@ Committed to advancing the field, ACL actively participates in regional and inte
 
 #### **Other Resources**
 
-![](/images/conserve/UNESCO.png)
+![](/images/conserve/UNESCO_jpeg.jpg)
 [UNESCO Training Toolkit - Building Resilience: Disaster Risk Management for Documentary Heritage and Digital Archives](https://unesdoc.unesco.org/ark:/48223/pf0000391132)
