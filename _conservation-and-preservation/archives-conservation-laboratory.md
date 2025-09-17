@@ -8,7 +8,7 @@ variant: markdown
 
 Since 1969, the Archives Conservation Lab (ACL) has been dedicated to preserving Singapore’s paper-based archival records dating back to the 1800s. Items that we work on include manuscripts, bound volumes, maps, architectural drawings, photographs, and posters.
 
-![](/images/conserve/ACL_web_01.png)
+![](/images/conserve/ACL_About_Us___Cropped.png)
 
 #### **What We Do**
 
@@ -29,7 +29,7 @@ Committed to advancing the field, ACL actively participates in regional and inte
 #### **Conservation Resources**
 #### **Behind the Scenes**
 
-![](/images/conserve/Low_Res__Keeping_Our_Heritage_Alive_at_NLB_and_NAS.png)
+![](/images/conserve/Keeping_Our_Heritage_Alive_at_NLB_and_NAS.png)
 [Keeping Our Heritage Alive at NLB and NAS](https://www.youtube.com/watch?v=xQ6ffOWxQMA)
 
 ![](/images/conserve/Work_With_Me___Housing__updated_.png)
