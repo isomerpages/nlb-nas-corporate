@@ -26,7 +26,7 @@ Committed to advancing the field, ACL actively participates in regional and inte
 
 ![](/images/conserve/ACL_web_05.jpg)
 
-##### **Conservation Resources**
+#### **Conservation Resources**
 #### **Behind the Scenes**
 
 ![](/images/conserve/Low_Res__Keeping_Our_Heritage_Alive_at_NLB_and_NAS.png)
