@@ -55,13 +55,13 @@ Committed to advancing the field, ACL actively participates in regional and inte
 
 #### **Talks**
 
-![](/images/conserve/AU_Thru_The_Eyes_of_a_Conservator.png)
+![](/images/conserve/Archives_Unlocked_Through_the_Eyes_of_a_Conservator.jpg)
 [Archives Unlocked: Through The Eyes of a Conservator](https://www.youtube.com/watch?v=R39wnqBqVhA)
 
-![](/images/conserve/AU_From_Automobiles_to_Archives.jpg)
+![](/images/conserve/Archives_Unlocked_From_Automobiles_to_Archives.jpg)
 [Archives Unlocked: From Automobiles to Archives](https://www.youtube.com/watch?v=SSQWN0Z8PIM)
 
 #### **Other Resources**
 
-![](/images/conserve/UNESCO_jpeg.jpg)
+![](/images/conserve/UNESCO_Training_Toolkit.jpg)
 [UNESCO Training Toolkit - Building Resilience: Disaster Risk Management for Documentary Heritage and Digital Archives](https://unesdoc.unesco.org/ark:/48223/pf0000391132)
