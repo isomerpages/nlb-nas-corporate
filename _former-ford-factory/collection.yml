@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - about-former-ford-factory.md
+      - visit/Group Visit.md
       - visit/.keep
       - visit/opening-hours-admission.md
       - visit/getting-here.md
