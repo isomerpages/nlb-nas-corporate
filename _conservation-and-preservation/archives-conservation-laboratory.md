@@ -12,7 +12,7 @@ Since 1969, the Archives Conservation Lab (ACL) has been dedicated to preserving
 
 #### **What We Do**
 
-ACL specialises in both preventive actions and interventive conservation treatments          to protect and store records of significance for posterity. Preventive care involves pest management, monitoring and controlling storage environments in line with international standards, and housing items in archival enclosures. Interventive treatments include cleaning and physical repairs that stabilize fragile or deteriorated records.
+ACL undertakes both preventive measures and interventive conservation treatments          to protect and store records of significance for posterity. Preventive care involves pest management, monitoring and controlling storage environments in line with international standards, and housing items in archival enclosures. Interventive treatments include cleaning and physical repairs that stabilize fragile or deteriorated records.
 
 ![](/images/conserve/ACL_web_02.jpg)
 
