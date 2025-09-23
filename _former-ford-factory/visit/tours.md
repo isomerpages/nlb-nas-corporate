@@ -15,7 +15,7 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 Saturday & Sunday, 11.00am - 12.00pm 
 & 3.30pm - 4.30pm
 
-Note: On 7 February 2026, the 11am tour is cancelled for our Volunteer Appreciation Event.
+Note: The volunteer guided tour on Saturday, 7 February 2026 at 11am, is cancelled due to unforeseen circumstances. We apologise in advance for any inconveniences caused.
 
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
