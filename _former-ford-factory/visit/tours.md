@@ -27,4 +27,3 @@ Saturday, 4 October 2025
 Saturday, 18 October 2025
 
 Tour schedules are subject to changes.
-
