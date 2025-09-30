@@ -2,6 +2,7 @@ collections:
   conservation-and-preservation:
     output: true
     order:
+      - archives-conservation-laboratory.md
       - Test/.keep
       - sound-and-moving-image-laboratory.md
       - frequently-asked-questions.md
