@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Test/.keep
-      - archives-conservation-laboratory.md
       - sound-and-moving-image-laboratory.md
       - frequently-asked-questions.md
