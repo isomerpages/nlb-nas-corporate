@@ -15,17 +15,17 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 Saturday & Sunday, 11.00am - 12.00pm 
 & 3.30pm - 4.30pm
 
-Note: The volunteer guided tour on Saturday, 7 February 2026 at 11am, is cancelled due to unforeseen circumstances. We apologise in advance for any inconveniences caused.
+The volunteer guided tour on Saturday, 7 February 2026 at 11am, is cancelled due to unforeseen circumstances. We apologise in advance for any inconveniences caused.
 
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 6 December 2025
-
-Saturday, 20 December 2025
-
 Saturday, 3 January 2025
 
 Saturday, 17 January 2025
+
+Saturday, 21 February 2025
+
+Saturday, 28 February 2025
 
 Tour schedules are subject to changes.
