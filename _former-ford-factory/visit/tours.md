@@ -20,12 +20,12 @@ The volunteer guided tour on Saturday, 7 February 2026 at 11am, is cancelled due
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 3 January 2025
+Saturday, 7 March 2026
 
-Saturday, 17 January 2025
+Saturday, 21 March 2026
 
-Saturday, 21 February 2025
+Saturday, 4 April 2026
 
-Saturday, 28 February 2025
+Saturday, 18 April 2026
 
 Tour schedules are subject to changes.
