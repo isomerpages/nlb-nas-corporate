@@ -15,7 +15,6 @@ The meeting point for all tours is at the lobby.  There are 20 places available 
 Saturday & Sunday, 11.00am - 12.00pm 
 & 3.30pm - 4.30pm
 
-
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
