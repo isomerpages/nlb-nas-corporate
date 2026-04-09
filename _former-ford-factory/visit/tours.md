@@ -18,12 +18,12 @@ Saturday & Sunday, 11.00am - 12.00pm
 #### **Mandarin Tours**
 Time: 11.30am - 12.30pm
 
-Saturday, 7 March 2026
-
-Saturday, 21 March 2026
-
 Saturday, 4 April 2026
 
 Saturday, 18 April 2026
+
+Saturday, 2 May 2026
+
+Saturday, 16 May 2026
 
 Tour schedules are subject to changes.
