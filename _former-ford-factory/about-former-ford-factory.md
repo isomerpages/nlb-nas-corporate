@@ -1,16 +1,14 @@
 ---
-title: 'About Former Ford Factory'
+title: About Former Ford Factory
 permalink: /former-ford-factory/overview/
-breadcrumb: 'Former Ford Factory'
-
+breadcrumb: Former Ford Factory
+variant: markdown
 ---
-
-
 ![Former Ford Factory](/images/formerford/oldfff.jpg)
 
 ### ABOUT THIS HISTORIC SITE
 
-The Ford Motor Company which was first established in Singapore at Anson Road in 1926, moved to its new state-of-the-art factory located at Upper Bukit Timah Road in October 1941. The Art Deco factory became Ford’s first motorcar assembly plant in Southeast Asia. The factory was later taken over by the Royal Air Force during the Malayan Campaign (8 December 1941 – 31 January 1942) where it was used to assemble fighter planes. However, the planes were hastily moved away from Singapore towards the end of January 1942, when it became clear that victory was unlikely.
+The Ford Motor Company which was first established in Singapore at Anson Road in 1926, moved to its new state-of-the-art factory located at Upper Bukit Timah Road in October 1941. The Art Deco factory became Ford’s first motorcar assembly plant in Southeast Asia. In 1941, the British Army repurposed the newly finished Ford assembly plant in Singapore for wartime operations, but their stay was short-lived when the Japanese Army captured Bukit Timah on 12 February 1942.
 
 On 13 February 1942, the factory was seized by Japanese forces and turned into the temporary headquarters of Lieutenant-General Tomoyuki Yamashita, the Japanese Commander of the 25th Army. Two days later on 15 February 1942, Lieutenant-General A. E. Percival, the British General Officer Commanding (Malaya), met Lieutenant-General Yamashita in the Boardroom of the Ford Factory, where the British surrendered unconditionally to the Japanese, effectively sealing the fate of Singapore for the next three and a half years.
 
