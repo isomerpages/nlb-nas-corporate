@@ -178,3 +178,19 @@ On loan from Cheng Lai Yee till February 2027
 This booklet contains several paintings of the different battles fought by the Japanese Imperial Army and it was published on 8 October 1942. This painting was done by artist Teiji Takai, and it depicts the capture of Mandalay, a key stronghold in central Burman (Myanmar today), on 1 May 1942.
 
 On loan from Cheng Lai Yee till February 2027
+
+
+
+
+
+
+
+![Painting of Battle of Bukit Timah](/images/formerford/Painting_of_Battle_of_Bukit_Timah.jpg)
+
+#### Painting of Battle of Bukit Timah
+
+This wartime artwork depicts the fighting at Bukit Timah on 11 February 1942. The Japanese forces launched the attack in hopes to capture Bukit Timah and break the British defence. The breakthrough here opened the way for the Japanese advance, leading to the British surrender on 15 February 1921 at the Ford Factory, where Lieutenant General Tomoyuki Yamashita had set up his headquarters.
+War artist Kenichi Ota said the scene reflected what he witnessed. His painting shows Japanese soldiers pushing forward in the dark under machine-gun fire, using grenades and close-quarters fighting as they climbed the slope.
+
+On loan from Cheng Lai Yee till February 2027
+
