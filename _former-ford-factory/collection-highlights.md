@@ -194,3 +194,16 @@ War artist Kenichi Ota said the scene reflected what he witnessed. His painting 
 
 On loan from Cheng Lai Yee till February 2027
 
+
+
+
+
+
+
+![Japanese Occupation Badges](/images/formerford/Japanese_Occupation_Badges.jpg)
+
+#### Japanese Occupation Badges
+
+Badges produced during the Japanese Occupation reveal how tightly daily life was regulated. From officials and school staff to hotel employees and civil workers, these identifiers governed movement, access, and authority. Their varied designs reflect a society closely monitored, where even ordinary roles required visible proof of one’s place within the occupation system.
+
+On loan from Dave Kan till February 2027
