@@ -2,6 +2,7 @@
 title: Collection Highlights
 permalink: /former-ford-factory/collection/
 breadcrumb: Collection
+variant: markdown
 ---
 ![Map](/images/formerford/map.jpg)
 
@@ -120,3 +121,89 @@ Wong Yew Fook served in the Singapore Chinese Anti-Japanese Volunteer Battalion 
 The Malayan Emergency (1948-1960) was a period of guerrilla warfare between the Malayan Communist Party and the British colonial government. While most of the combat took place in Malaya, Emergency regulations also applied to Singapore where communists had infiltrated trade unions and Chinese schools.
 
 *'Malaya fights the terrorists', Malayan Pictorial Observer, September 1948 Collection of National Archives of Singapore*
+
+
+
+
+
+
+
+
+![ARP Lighter](/images/ARP_Lighter_2026.jpg)
+
+#### Lighter with the Air Raid Precaution logo
+
+This personal cigarette lighter, bearing the badge of Britain’s Air Raid Precaution (ARP), likely belonged to a British serviceman or civil-defence worker stationed in Singapore or Malaya. The ARP logo on the lighter instill a sense of pride, uphold honour and reinforce the ARP identity. Such lighters were privately purchased accessories rather than official equipment, but they reflect the presence, routines, and material culture of British civil-defence personnel in the region before and after the war. 
+
+On loan from Dave Kan till February 2027
+
+
+
+
+
+
+
+![ARP Rattle](/images/formerford/ARP_Rattle.jpg)
+
+#### Air Raid Precaution Rattle
+
+This wooden rattle was used during the Second World War to warn of an incoming chemical attack. Its distinctive clattering - produced by a rotating wooden flap striking a toothed wheel - alerted residents to seek shelter, forming a simple yet vital part of civil-defence measures.
+
+On loan from Dave Kan till February 2027
+
+
+
+
+
+
+
+![The War Illustrated Magazine](/images/formerford/The_War_Illustrated_Magazine_2.jpg)
+
+#### The War Illustrated Magazine
+
+This magazine was published in London and was a prominent wartime magazine that reported on the defence of Singapore. In this publication, it depicts the attack on Singapore on 8 December 1941 and the swift reaction of the Air Raid Precaution services. 
+
+On loan from Cheng Lai Yee till February 2027
+
+
+
+
+
+
+
+![War Paintings Booklet](/images/formerford/Collation_of_War_Paintings_Booklet.jpg)
+
+#### Collation of War Paintings Booklet
+
+This booklet contains several paintings of the different battles fought by the Japanese Imperial Army and it was published on 8 October 1942. This painting was done by artist Teiji Takai, and it depicts the capture of Mandalay, a key stronghold in central Burman (Myanmar today), on 1 May 1942.
+
+On loan from Cheng Lai Yee till February 2027
+
+
+
+
+
+
+
+![Painting of Battle of Bukit Timah](/images/formerford/Painting_of_Battle_of_Bukit_Timah.jpg)
+
+#### Painting of Battle of Bukit Timah
+
+This wartime artwork depicts the fighting at Bukit Timah on 11 February 1942. The Japanese forces launched the attack in hopes to capture Bukit Timah and break the British defence. The breakthrough here opened the way for the Japanese advance, leading to the British surrender on 15 February 1921 at the Ford Factory, where Lieutenant General Tomoyuki Yamashita had set up his headquarters.
+War artist Kenichi Ota said the scene reflected what he witnessed. His painting shows Japanese soldiers pushing forward in the dark under machine-gun fire, using grenades and close-quarters fighting as they climbed the slope.
+
+On loan from Cheng Lai Yee till February 2027
+
+
+
+
+
+
+
+![Japanese Occupation Badges](/images/formerford/Japanese_Occupation_Badges.jpg)
+
+#### Japanese Occupation Badges
+
+Badges produced during the Japanese Occupation reveal how tightly daily life was regulated. From officials and school staff to hotel employees and civil workers, these identifiers governed movement, access, and authority. Their varied designs reflect a society closely monitored, where even ordinary roles required visible proof of one’s place within the occupation system.
+
+On loan from Dave Kan till February 2027
