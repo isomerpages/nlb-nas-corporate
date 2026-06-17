@@ -1,5 +1,5 @@
 ---
-title: Laws of Our Land
+title: "Past Exhibition: Laws of Our Land"
 permalink: /laws-of-our-land/
 variant: tiptap
 description: ""

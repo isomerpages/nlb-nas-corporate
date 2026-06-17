@@ -70,6 +70,16 @@ sections:
       image: /images/formerford/FFF_Building.jpg
       alt: Image alt text
   - infopic:
+      title: 360 Virtual Tour of Laws of Our Land Exhibition
+      subtitle: FEATURES
+      id: infopic
+      description: "Explore Laws of Our Land: Foundations of a New Nation exhibition
+        at the National Gallery of Singapore"
+      button: VISIT HERE
+      url: https://my.matterport.com/show/?m=rJ7HXEgP4UY
+      image: /images/features/LOOL_Image.png
+      alt: Image alt text
+  - infopic:
       title: 360 Virtual Tour of Law of the Land Constitution Exhibition
       subtitle: FEATURES
       id: infopic
