@@ -16,7 +16,7 @@ The Archives Services Department acquires archival records from public agencies,
 
 To ensure long term preservation, the records are stored in environmentally-controlled repositories. Although records are increasingly created in digital format, NAS still conserves its valuable collection of paper-based records and this is handled by the [Archives Conservation Laboratory](/conservation-and-preservation/archives-conservation-laboratory/). 
 
-Records are also digitised for preservation and access by researchers and members of the public. Research can be conducted through the Archives Online portal as well as the Archives Reading Room (ARR). The ARR services around 300 enquiries a month and the number of records accessed online annually exceeds 400,000. 
+Records are also digitised for preservation and access by researchers and members of the public. Research can be conducted through the Archives Online portal as well as the Archives Reading Room (ARR). The ARR services around 300 enquiries a month. 
 
 
 ![Archives Services](/images/movie-1577352062355.jpg) 
