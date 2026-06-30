@@ -109,6 +109,7 @@ sections:
       button: FIND OUT MORE
       url: https://go.gov.sg/pledge60
       alt: Image alt text
+      image: /images/features/National_Pledge_banner_NAScorp.png
 notification: Government officials will never ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam.
