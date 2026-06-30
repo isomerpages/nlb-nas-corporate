@@ -91,16 +91,6 @@ sections:
       image: /images/features/LOTL_360_Virtual_Exhibition.jpg
       alt: Image alt text
   - infopic:
-      title: "Remembering the Golden Age of Malay Cinema: P. Ramlee"
-      id: infopic
-      description: Visit the curated page of archived audiovisual records documenting
-        P. Ramlee’s life and work, as well as a crowdsourcing call for records.
-      button: Visit here
-      url: https://www.nas.gov.sg/archivesonline/rememberingpramlee
-      image: /images/socialmedia_1080x1080_new.png
-      alt: Image alt text
-      subtitle: Features
-  - infopic:
       title: Changing Landscapes
       subtitle: Features
       description: A curation of moments from the archive’s Oral History collection
