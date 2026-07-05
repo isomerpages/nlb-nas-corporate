@@ -102,7 +102,7 @@ sections:
       image: /images/features/960-x-400-changinglandscape.jpg
   - infopic:
       title: 60th Anniversary of the National Pledge
-      subtitle: Add an image and text
+      subtitle: FEATURES
       id: infopic
       description: Explore the history of the National Pledge through archival
         recordings and images.
