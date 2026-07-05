@@ -31,17 +31,6 @@ The documents capture key moments in Singapore’s constitutional history
 and also throw light on milestones in our island-nation’s history.</p>
 <p>The exhibition is held at the historic former Chief Justice’s Chamber
 and Office at the National Gallery Singapore.</p>
-<h3>Visitor Information</h3>
-<div class="isomer-image-wrapper">
-<img style="width:450px;" height="auto" width="100%" alt="Exhibition Venue" src="/images/exhibitions/map (lr).jpg">
-</div>
-<h3>Exhibition Venue</h3>
-<p>Chief Justice’s Chamber and Office Level 3, Supreme Court Wing National
-Gallery Singapore 1 St Andrew’s Road Singapore 178957</p>
-<h3>Opening Hours</h3>
-<p>Sun – Thurs and Public Holidays: 10am – 7pm Fri – Sat and Eve of Public
-Holidays: 10am – 10pm Admission ends 30 min before closing time</p>
-<h3>Admission</h3>
 <p>Free</p>
 <h3>Enquiries</h3>
 <p><a href="mailto:NAS@nlb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">NAS@nlb.gov.sg</a>
